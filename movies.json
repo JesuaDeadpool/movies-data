@@ -1,0 +1,58 @@
+[
+    {
+        "idFilm": "01",
+        "nameFilm": "Con todos menos contigo ",
+        "sinopsisFilm": "Después de una primera cita increíble, la ardiente atracción entre ambos se enfría. Parecían la pareja perfecta, pero algo sucede y la cosa no va a más. Hasta que se reencuentran inesperadamente en una boda en Australia. Allí hacen lo que haría cualquier adulto: fingir que son una pareja.",
+        "categories": [
+            "Romance",
+            "Comedia"
+        ],
+        "typeFilm": "Pelicula",
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1747769172/poster601_gfoucx.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1747783956/logo1_l2tflf.webp",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1747783828/1_eauuwx.webp",
+        "trailerFilm": "https://youtube.com/embed/trailer",
+        "videoFilm": "https://mi-servidor.com/inception.mp4",
+        "movieDate": "2023",
+        "movieReleased": "2025-05-20"
+    },
+    {
+        "idFilm": "02",
+        "nameFilm": "Stranger Things",
+        "sinopsisFilm": "Un grupo de niños se enfrenta a fuerzas sobrenaturales.",
+        "categories": [
+            "Drama",
+            "Misterio",
+            "Ciencia ficción"
+        ],
+        "typeFilm": "Serie",
+        "posterPath": "https://ejemplo.com/stposter.jpg",
+        "logoPath": "https://ejemplo.com/stlogo.png",
+        "backdropPath": "https://ejemplo.com/stbackdrop.jpg",
+        "trailerFilm": "https://youtube.com/embed/trailerST",
+        "videoFilm": "",
+        "movieDate": "2016-07-15",
+        "movieReleased": true,
+        "filmSeason": [
+            {
+                "seasonNumber": 1,
+                "episodes": [
+                    {
+                        "episodeNumber": 1,
+                        "titleEpisode": "Capítulo Uno: La desaparición de Will Byers",
+                        "backdropEpisode": "https://ejemplo.com/ep1.jpg",
+                        "sinopsisEpisode": "Will desaparece en circunstancias extrañas.",
+                        "videoEpisode": "https://netu.ac/embed-abc123.html"
+                    },
+                    {
+                        "episodeNumber": 2,
+                        "titleEpisode": "Capítulo Dos: La chica rara",
+                        "backdropEpisode": "https://ejemplo.com/ep2.jpg",
+                        "sinopsisEpisode": "Los amigos de Will conocen a Eleven.",
+                        "videoEpisode": "https://netu.ac/embed-def456.html"
+                    }
+                ]
+            }
+        ]
+    }
+]
