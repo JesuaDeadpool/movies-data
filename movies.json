@@ -1,7 +1,7 @@
 [
     {
         "idFilm": "01",
-        "nameFilm": "Con todos menos contigo ",
+        "titleFilm": "Con todos menos contigo ",
         "sinopsisFilm": "Después de una primera cita increíble, la ardiente atracción entre ambos se enfría. Parecían la pareja perfecta, pero algo sucede y la cosa no va a más. Hasta que se reencuentran inesperadamente en una boda en Australia. Allí hacen lo que haría cualquier adulto: fingir que son una pareja.",
         "categories": [
             "Romance",
@@ -18,7 +18,7 @@
     },
     {
         "idFilm": "02",
-        "nameFilm": "Stranger Things",
+        "titleFilm": "Stranger Things",
         "sinopsisFilm": "Un grupo de niños se enfrenta a fuerzas sobrenaturales.",
         "categories": [
             "Drama",
@@ -32,7 +32,7 @@
         "trailerFilm": "https://youtube.com/embed/trailerST",
         "videoFilm": "",
         "movieDate": "2016-07-15",
-        "movieReleased": true,
+        "movieReleased": "2025-05-20",
         "filmSeason": [
             {
                 "seasonNumber": 1,
