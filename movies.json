@@ -1,7 +1,7 @@
 [
     {
         "idFilm": "01",
-        "titleFilm": "Con todos menos contigo ",
+        "titleFilm": "Con todos menos contigo",
         "sinopsisFilm": "Después de una primera cita increíble, la ardiente atracción entre ambos se enfría. Parecían la pareja perfecta, pero algo sucede y la cosa no va a más. Hasta que se reencuentran inesperadamente en una boda en Australia. Allí hacen lo que haría cualquier adulto: fingir que son una pareja.",
         "categories": [
             "Romance",
@@ -10,7 +10,7 @@
         "typeFilm": "Pelicula",
         "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1747769172/poster601_gfoucx.jpg",
         "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1747783956/logo1_l2tflf.webp",
-        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1747851362/backdropPath1_uinspu.jpg",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1747864692/1_1_dxvhsl.jpg",
         "trailerFilm": "https://youtube.com/embed/trailer",
         "videoFilm": "https://mi-servidor.com/inception.mp4",
         "movieDate": "2023",
@@ -18,16 +18,18 @@
     },
     {
         "idFilm": "02",
-        "titleFilm": "Con todos menos contigo ",
-        "sinopsisFilm": "Después de una primera cita increíble, la ardiente atracción entre ambos se enfría. Parecían la pareja perfecta, pero algo sucede y la cosa no va a más. Hasta que se reencuentran inesperadamente en una boda en Australia. Allí hacen lo que haría cualquier adulto: fingir que son una pareja.",
+        "titleFilm": "Una película de Minecraft",
+        "sinopsisFilm": "Cuatro inadaptados se encuentran luchando con problemas ordinarios cuando de repente se ven arrastrados a través de un misterioso portal al Mundo Exterior: un extraño país de las maravillas cúbico que se nutre de la imaginación. Para volver a casa, tendrán que dominar este mundo mientras se embarcan en una búsqueda mágica con un inesperado experto artesano, Steve.",
         "categories": [
-            "Romance",
-            "Comedia"
+            "Familia",
+            "Comedia",
+            "Aventura",
+            "Fantasía"
         ],
         "typeFilm": "Pelicula",
-        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1747769739/poster591_iycxpx.jpg",
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1747865157/qNEmbTNjf5hVzecPq96pxGfBhbX_mq9xry.jpg",
         "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1747783956/logo1_l2tflf.webp",
-        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1747851362/backdropPath1_uinspu.jpg",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1747865271/backdropPath3_nz2esv.jpg",
         "trailerFilm": "https://youtube.com/embed/trailer",
         "videoFilm": "https://mi-servidor.com/inception.mp4",
         "movieDate": "2023",
@@ -35,6 +37,23 @@
     },
     {
         "idFilm": "03",
+        "titleFilm": "A dos metros de ti ",
+        "sinopsisFilm": "Will y Stella son dos adolescentes que padecen fibrosis quística y están ingresados en el hospital para tratarse. Aunque ambos tratan de refugiarse en su propio mundo, de forma inevitable acaban enamorándose. La pareja deberá luchar para mantener viva su relación, con una única regla: separarse con una distancia de alrededor de dos metros para evitar que ambos se puedan contagiar. Sin embargo, la vida de ambos estará en peligro.",
+        "categories": [
+            "Romance",
+            "Drama"
+        ],
+        "typeFilm": "Pelicula",
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1747865022/poster497_ch9viv.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1747783956/logo1_l2tflf.webp",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1747865022/391_lj7w9p.jpg",
+        "trailerFilm": "https://youtube.com/embed/trailer",
+        "videoFilm": "https://mi-servidor.com/inception.mp4",
+        "movieDate": "2023",
+        "movieReleased": "2025-05-20"
+    },
+    {
+        "idFilm": "10",
         "titleFilm": "Stranger Things",
         "sinopsisFilm": "Un grupo de niños se enfrenta a fuerzas sobrenaturales.",
         "categories": [
