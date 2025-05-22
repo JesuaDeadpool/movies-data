@@ -1,0 +1,24 @@
+[
+    {
+        "titleMovie": "Esta bien No estar bien",
+        "logoPath": "",
+        "categories": [
+            "Drama",
+            "Romance"
+        ],
+        "ratedMovie": 8.9,
+        "typeFilm": "Serie",
+        "urlVideoFilm": "https://lovely-hummingbird-bad738.netlify.app/videos/estaBienNoEstarBien.mp4"
+    },
+    {
+        "titleMovie": "Minecraft",
+        "logoPath": "",
+        "categories": [
+            "Drama",
+            "Romance"
+        ],
+        "ratedMovie": 10.0,
+        "typeFilm": "Serie",
+        "urlVideoFilm": "https://pelistreaming.netlify.app/videos/MinecraftTrailer.mp4"
+    }
+]
