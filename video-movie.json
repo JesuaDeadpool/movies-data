@@ -6,6 +6,7 @@
             "Drama",
             "Romance"
         ],
+        "durationFilm": "1 Temp",
         "ratedMovie": 8.9,
         "typeFilm": "Serie",
         "dateFilm": "2023",
@@ -18,6 +19,7 @@
             "Familia",
             "Comedia"
         ],
+        "durationFilm": "1h 20min",
         "ratedMovie": 10.0,
         "typeFilm": "Pelicula",
         "dateFilm": "2025",
