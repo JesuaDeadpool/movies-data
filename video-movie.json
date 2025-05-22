@@ -8,17 +8,19 @@
         ],
         "ratedMovie": 8.9,
         "typeFilm": "Serie",
+        "dateFilm": "2023",
         "urlVideoFilm": "https://lovely-hummingbird-bad738.netlify.app/videos/estaBienNoEstarBien.mp4"
     },
     {
         "titleMovie": "Minecraft",
         "logoPath": "",
         "categories": [
-            "Drama",
-            "Romance"
+            "Familia",
+            "Comedia"
         ],
         "ratedMovie": 10.0,
-        "typeFilm": "Serie",
+        "typeFilm": "Pelicula",
+        "dateFilm": "2025",
         "urlVideoFilm": "https://pelistreaming.netlify.app/videos/MinecraftTrailer.mp4"
     }
 ]
