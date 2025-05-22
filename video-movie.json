@@ -1,7 +1,7 @@
 [
     {
         "titleMovie": "Esta bien No estar bien",
-        "logoPath": "",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1747948468/logo221_hxgpdg.png",
         "categories": [
             "Drama",
             "Romance"
@@ -13,7 +13,7 @@
     },
     {
         "titleMovie": "Minecraft",
-        "logoPath": "",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1747948468/logo207_bgxljb.png",
         "categories": [
             "Familia",
             "Comedia"
