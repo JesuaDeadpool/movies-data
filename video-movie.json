@@ -1,28 +1,31 @@
 [
     {
-        "titleMovie": "Esta bien No estar bien",
-        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1747948468/logo221_hxgpdg.png",
-        "categories": [
-            "Drama",
-            "Romance"
-        ],
-        "durationFilm": "1 Temp",
-        "ratedMovie": 8.9,
-        "typeFilm": "Serie",
-        "dateFilm": "2023",
-        "urlVideoFilm": "https://lovely-hummingbird-bad738.netlify.app/videos/estaBienNoEstarBien.mp4"
-    },
-    {
         "titleMovie": "Minecraft",
-        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1747948468/logo207_bgxljb.png",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1747952073/ggGYbniHbvWDA9GAQYBUUdN3AKP-_1__1_kfjxmi.png",
         "categories": [
             "Familia",
-            "Comedia"
+            "Comedia",
+            "Aventura",
+            "Acción"
         ],
-        "durationFilm": "1h 20min",
-        "ratedMovie": 10.0,
+        "durationFilm": "1h 41m",
+        "ratedMovie": 6.5,
         "typeFilm": "Pelicula",
         "dateFilm": "2025",
         "urlVideoFilm": "https://pelistreaming.netlify.app/videos/MinecraftTrailer.mp4"
+    },
+    {
+        "titleMovie": "El Juego del Calamar",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1747952265/uS7wxSWumablDFCGJiy3WeqZE8E_1_rg0nxv.png",
+        "categories": [
+            "Misterio",
+            "Accion&Adventure",
+            "Drama"
+        ],
+        "durationFilm": "2 Temp",
+        "ratedMovie": 7.9,
+        "typeFilm": "Serie",
+        "dateFilm": "2021/2025",
+        "urlVideoFilm": "https://pelistreaming.netlify.app/videos/ElJuegoDelCalamar.mp4"
     }
 ]
