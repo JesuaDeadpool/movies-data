@@ -28,12 +28,12 @@
         ],
         "typeFilm": "Pelicula",
         "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1747865157/qNEmbTNjf5hVzecPq96pxGfBhbX_mq9xry.jpg",
-        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1747783956/logo1_l2tflf.webp",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1747952073/ggGYbniHbvWDA9GAQYBUUdN3AKP-_1__1_kfjxmi.png",
         "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1747865271/backdropPath3_nz2esv.jpg",
         "trailerFilm": "https://youtube.com/embed/trailer",
         "videoFilm": "https://mi-servidor.com/inception.mp4",
-        "movieDate": "2023",
-        "movieReleased": "2025-05-20"
+        "movieDate": "2025",
+        "movieReleased": "2025-05-22"
     },
     {
         "idFilm": "03",
@@ -50,45 +50,134 @@
         "trailerFilm": "https://youtube.com/embed/trailer",
         "videoFilm": "https://mi-servidor.com/inception.mp4",
         "movieDate": "2023",
-        "movieReleased": "2025-05-20"
+        "movieReleased": "2025-05-22"
+    },
+    {
+        "idFilm": "04",
+        "titleFilm": "Lilo y Stitch",
+        "sinopsisFilm": "La conmovedora y divertidísima historia de una solitaria niña hawaiana y el extraterrestre fugitivo que la ayuda a reparar su desestructurada familia.",
+        "categories": [
+            "Familia",
+            "Comedia",
+            "Ciencia ficción"
+        ],
+        "typeFilm": "Pelicula",
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1747976594/ckQzKpQJO4ZQDCN5evdpKcfm7Ys_p98ppt.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1747976408/hvi0C2A1YBOvRoWPX5WGQZk9dsC_vyzftx.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1747976593/7Zx3wDG5bBtcfk8lcnCWDOLM4Y4_uo3wfj.jpg",
+        "trailerFilm": "https://youtube.com/embed/trailer",
+        "videoFilm": "https://mi-servidor.com/inception.mp4",
+        "movieDate": "2025",
+        "movieReleased": "2025-05-22"
+    },
+    {
+        "idFilm": "05",
+        "titleFilm": "Sonic 3: La película",
+        "sinopsisFilm": "Sonic, Knuckles y Tails se reúnen para enfrentarse a un nuevo y poderoso adversario, Shadow, un misterioso villano cuyos poderes no se parecen a nada de lo que nuestros héroes han conocido hasta ahora. Con sus facultades superadas en todos los sentidos, el Equipo Sonic tendrá que establecer una insólita alianza con la esperanza de detener a Shadow y proteger el planeta.",
+        "categories": [
+            "Acción",
+            "Ciencia ficción",
+            "Comedia",
+            "Familia"
+        ],
+        "typeFilm": "Pelicula",
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1747976593/3aDWCRXLYOCuxjrjiPfLd79tcI6_zjvrdo.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1747976408/fNDT6usE6CKLv1gdRv5qrH24jmh_hnxj7c.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1747976594/viPT9eOj4hm8skf3m7s09q40mel_uikjcl.jpg",
+        "trailerFilm": "https://youtube.com/embed/trailer",
+        "videoFilm": "https://mi-servidor.com/inception.mp4",
+        "movieDate": "2024",
+        "movieReleased": "2025-05-22"
+    },
+    {
+        "idFilm": "06",
+        "titleFilm": "Misión: Imposible - Sentencia final",
+        "sinopsisFilm": "El agente Ethan Hunt continúa su misión de impedir que Gabriel controle el tecnológicamente omnipotente programa de IA conocido como <<Entity>>",
+        "categories": [
+            "Acción",
+            "Aventura",
+            "Suspense"
+        ],
+        "typeFilm": "Pelicula",
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748026738/posterPathMisionImposible_cg16vv.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748026737/logoPathMisionImposibleFinal_vu7vjd.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748026737/backdropPathMisionImposibleFinal_t75bjq.jpg",
+        "trailerFilm": "https://youtube.com/embed/trailer",
+        "videoFilm": "https://mi-servidor.com/inception.mp4",
+        "movieDate": "2025",
+        "movieReleased": "2025-05-23"
+    },
+    {
+        "idFilm": "07",
+        "titleFilm": "Godzilla Minus One",
+        "sinopsisFilm": "En el Japón de la posguerra, Godzilla trae una nueva devastación a un paisaje ya abrasado. Sin intervención militar ni ayuda gubernamental a la vista, los supervivientes deben unirse frente a la desesperación y luchar contra un horror implacable.",
+        "categories": [
+            "Ciencia ficción",
+            "Terror",
+            "Acción"
+        ],
+        "typeFilm": "Pelicula",
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748026738/posterPathGodzillaMinusOne_mofuaf.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748026737/logoPathGodzillaMinusOne_uh0zct.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748026737/backdropPathGodzillaMinusOne_tcqy9s.jpg",
+        "trailerFilm": "https://youtube.com/embed/trailer",
+        "videoFilm": "https://mi-servidor.com/inception.mp4",
+        "movieDate": "2023",
+        "movieReleased": "2025-05-23"
+    },
+    {
+        "idFilm": "08",
+        "titleFilm": "Moana 2",
+        "sinopsisFilm": "Después de recibir una llamada inesperada de sus antepasados ​​navegantes, Moana viajará a los lejanos mares de Oceanía, donde vivirá una peligrosa aventura con su nueva tripulación.",
+        "categories": [
+            "Animacion",
+            "Aventura",
+            "Familia",
+            "Comedia"
+        ],
+        "typeFilm": "Pelicula",
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748026738/posterPathMoana2_jgg9fq.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748026737/logoPathMoana2_yjajrv.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748026737/backdropPathMoana2_pmjzhk.jpg",
+        "trailerFilm": "https://youtube.com/embed/trailer",
+        "videoFilm": "https://mi-servidor.com/inception.mp4",
+        "movieDate": "2024",
+        "movieReleased": "2025-05-23"
+    },
+    {
+        "idFilm": "09",
+        "titleFilm": "Flow",
+        "sinopsisFilm": "En un mundo al borde del colapso, un gato solitario pierde su hogar por una inundación y encuentra refugio en un barco con otras especies. Juntos, deberán superar diferencias y desafíos mientras navegan por un misterioso paisaje sumergido.",
+        "categories": [
+            "Animacion",
+            "Fantasía",
+            "Aventura"
+        ],
+        "typeFilm": "Pelicula",
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748026737/posterPathFlow_rtpb5f.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748026736/logoPathFlow_xqanfv.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748026737/backdropPathFlow_b49b9a.jpg",
+        "trailerFilm": "https://youtube.com/embed/trailer",
+        "videoFilm": "https://mi-servidor.com/inception.mp4",
+        "movieDate": "2024",
+        "movieReleased": "2025-05-23"
     },
     {
         "idFilm": "10",
-        "titleFilm": "Stranger Things",
-        "sinopsisFilm": "Un grupo de niños se enfrenta a fuerzas sobrenaturales.",
+        "titleFilm": "Sucker Punch Mundo surreal",
+        "sinopsisFilm": "Ambientada en los años 50. Una chica es internada por su padrastro en una institución psiquiátrica para que le practiquen una lobotomía. Mientras espera, su imaginación crea una realidad alternativa que podría salvarla de su dramática situación. A partir de ahí, la joven comienza a preparar su fuga, cuyo éxito depende del robo de cinco objetos.",
         "categories": [
-            "Drama",
-            "Misterio",
-            "Ciencia ficción"
+            "Acción",
+            "Fantasía",
+            "Suspense"
         ],
-        "typeFilm": "Serie",
-        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1747769739/poster591_iycxpx.jpg",
-        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1747783956/logo1_l2tflf.webp",
-        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1747851362/backdropPath1_uinspu.jpg",
-        "trailerFilm": "https://youtube.com/embed/trailerST",
-        "videoFilm": "",
-        "movieDate": "2016-07-15",
-        "movieReleased": "2025-05-20",
-        "filmSeason": [
-            {
-                "seasonNumber": 1,
-                "episodes": [
-                    {
-                        "episodeNumber": 1,
-                        "titleEpisode": "Capítulo Uno: La desaparición de Will Byers",
-                        "backdropEpisode": "https://ejemplo.com/ep1.jpg",
-                        "sinopsisEpisode": "Will desaparece en circunstancias extrañas.",
-                        "videoEpisode": "https://netu.ac/embed-abc123.html"
-                    },
-                    {
-                        "episodeNumber": 2,
-                        "titleEpisode": "Capítulo Dos: La chica rara",
-                        "backdropEpisode": "https://ejemplo.com/ep2.jpg",
-                        "sinopsisEpisode": "Los amigos de Will conocen a Eleven.",
-                        "videoEpisode": "https://netu.ac/embed-def456.html"
-                    }
-                ]
-            }
-        ]
+        "typeFilm": "Pelicula",
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748026738/posterPathSuckerPunch_nu3ake.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748026738/posterPathSuckerPunch_rzsvzu.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748026737/backdropPathSuckerPunch_w1waxl.jpg",
+        "trailerFilm": "https://youtube.com/embed/trailer",
+        "videoFilm": "https://mi-servidor.com/inception.mp4",
+        "movieDate": "2011",
+        "movieReleased": "2025-05-23"
     }
 ]
