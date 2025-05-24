@@ -130,7 +130,7 @@
         "titleFilm": "Moana 2",
         "sinopsisFilm": "Después de recibir una llamada inesperada de sus antepasados ​​navegantes, Moana viajará a los lejanos mares de Oceanía, donde vivirá una peligrosa aventura con su nueva tripulación.",
         "categories": [
-            "Animacion",
+            "Animación",
             "Aventura",
             "Familia",
             "Comedia"
@@ -149,7 +149,7 @@
         "titleFilm": "Flow",
         "sinopsisFilm": "En un mundo al borde del colapso, un gato solitario pierde su hogar por una inundación y encuentra refugio en un barco con otras especies. Juntos, deberán superar diferencias y desafíos mientras navegan por un misterioso paisaje sumergido.",
         "categories": [
-            "Animacion",
+            "Animación",
             "Fantasía",
             "Aventura"
         ],
@@ -178,6 +178,237 @@
         "trailerFilm": "https://youtube.com/embed/trailer",
         "videoFilm": "https://mi-servidor.com/inception.mp4",
         "movieDate": "2011",
+        "movieReleased": "2025-05-23"
+    },
+    {
+        "idFilm": "11",
+        "titleFilm": "Seis Triple Ocho",
+        "sinopsisFilm": "855 mujeres se unieron a la guerra para solucionar el retraso de tres años de correo no entregado. Enfrentadas a la discriminación y a un país devastado por la guerra, consiguieron clasificar antes de tiempo más de diecisiete millones de piezas de correo.",
+        "categories": [
+            "Drama",
+            "Bélica",
+            "Historia"
+        ],
+        "typeFilm": "Pelicula",
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748056799/posterPathSeisTripleOcho_pivg5y.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748056796/LogoPathSeisTripleOcho_gprasa.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748056792/backdropPathSeisTripleOcho_kva5zi.jpg",
+        "trailerFilm": "https://youtube.com/embed/trailer",
+        "videoFilm": "https://mi-servidor.com/inception.mp4",
+        "movieDate": "2024",
+        "movieReleased": "2025-05-23"
+    },
+    {
+        "idFilm": "12",
+        "titleFilm": "Gladiator II",
+        "sinopsisFilm": "Dieciséis años después de la muerte de Marco Aurelio, Roma está gobernada por los despiadados emperadores gemelos Geta y Caracalla. El nieto de Aurelio, Lucio Vero, vive bajo el seudónimo de Hanno con su esposa Arishat en el reino norteafricano de Numidia. El ejército romano dirigido por el general Acacio invade y conquista el reino, esclavizando a Lucio junto con otros supervivientes. Los esclavos son llevados a Ostia, donde Lucio es comprado por el maestro de cuadra Macrinus, que le promete la oportunidad de vengarse matando a Acacio si gana suficientes combates para llegar al Coliseo.",
+        "categories": [
+            "Acción",
+            "Aventura",
+            "Drama"
+        ],
+        "typeFilm": "Pelicula",
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748056799/posterPathGladiador2_kzgzyt.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748056796/logoPathGladiador2_po9i0i.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748056792/backdropPathGladiador2_nqtmpr.jpg",
+        "trailerFilm": "https://youtube.com/embed/trailer",
+        "videoFilm": "https://mi-servidor.com/inception.mp4",
+        "movieDate": "2024",
+        "movieReleased": "2025-05-23"
+    },
+    {
+        "idFilm": "13",
+        "titleFilm": "Garfield: La película",
+        "sinopsisFilm": "El mundialmente famoso Garfield, el gato casero que odia los lunes y que adora la lasaña, está a punto de vivir una aventura ¡en el salvaje mundo exterior! Tras una inesperada reunión con su largamente perdido padre – el desaliñado gato callejero Vic – Garfield y su amigo canino Odie se ven forzados a abandonar sus perfectas y consentidas vidas al unirse a Vic en un hilarante y muy arriesgado atraco.",
+        "categories": [
+            "Familia",
+            "Aventura",
+            "Comedia",
+            "Animación"
+        ],
+        "typeFilm": "Pelicula",
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748056798/posterPathGarfield_uffnea.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748056796/logoPathGarfield_hsqi0x.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748056793/bakcdropPathGarfield_nrvhi1.jpg",
+        "trailerFilm": "https://youtube.com/embed/trailer",
+        "videoFilm": "https://mi-servidor.com/inception.mp4",
+        "movieDate": "2024",
+        "movieReleased": "2025-05-23"
+    },
+    {
+        "idFilm": "14",
+        "titleFilm": "Civil War",
+        "sinopsisFilm": "En un futuro cercano, donde América está sumida en una cruenta guerra civil, un equipo de periodistas y fotógrafos de guerra emprenderá un viaje por carretera en dirección a Washington DC. Su misión: llegar antes de que las fuerzas rebeldes asalten la Casa Blanca y arrebaten el control al presidente de Estados Unidos.",
+        "categories": [
+            "Bélica",
+            "Acción",
+            "Drama"
+        ],
+        "typeFilm": "Pelicula",
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748056791/posterPathCivilWar_pdyntq.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748056793/logoPathCivilWar_mjwtyx.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748056791/backdropPathCivilWar_u6hwpn.jpg",
+        "trailerFilm": "https://youtube.com/embed/trailer",
+        "videoFilm": "https://mi-servidor.com/inception.mp4",
+        "movieDate": "2024",
+        "movieReleased": "2025-05-23"
+    },
+    {
+        "idFilm": "15",
+        "titleFilm": "Equipaje de mano",
+        "sinopsisFilm": "El día de Nochebuena, un viajero misterioso chantajea a un agente de seguridad del aeropuerto para que le deje subir un objeto peligroso al avión.",
+        "categories": [
+            "Suspense",
+            "Acción"
+        ],
+        "typeFilm": "Pelicula",
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748056798/posterPathEquipajeMano_dkaf9x.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748057792/logoPathEquipajeMano_ex1kxg.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748056792/backdropPathEquipajeMano_hx0ku7.jpg",
+        "trailerFilm": "https://youtube.com/embed/trailer",
+        "videoFilm": "https://mi-servidor.com/inception.mp4",
+        "movieDate": "2024",
+        "movieReleased": "2025-05-23"
+    },
+    {
+        "idFilm": "16",
+        "titleFilm": "El Tiempo Que Tenemos",
+        "sinopsisFilm": "Una historia de amor eterna protagonizada por los nominados al Premio de la Academia© Florence Pugh y Andrew Garfield.",
+        "categories": [
+            "Romance",
+            "Drama"
+        ],
+        "typeFilm": "Pelicula",
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748056791/posterPathTiempoQueTenemos_wcefen.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748056796/logoPathTiempoQueTenemos_fd4ntw.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748056793/backdropPathTiempoQueTenemos_s3hm8m.jpg",
+        "trailerFilm": "https://youtube.com/embed/trailer",
+        "videoFilm": "https://mi-servidor.com/inception.mp4",
+        "movieDate": "2024",
+        "movieReleased": "2025-05-23"
+    },
+    {
+        "idFilm": "17",
+        "titleFilm": "Historias Cruzadas",
+        "sinopsisFilm": "Mississippi, años 60. Skeeter es una joven sureña que regresa de la universidad decidida a convertirse en escritora. Su llegada altera la vida de la ciudad e incluso la de sus amigos porque se ha propuesto entrevistar a las mujeres negras que se han pasado la vida al servicio de las grandes familias sufriendo todas las formas de discriminación racial.",
+        "categories": [
+            "Drama"
+        ],
+        "typeFilm": "Pelicula",
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748056799/posterPathHistoriasCruzadas_aavif3.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748056791/logoPathHistoriasCruzadas_ynyobu.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748056792/backdropPathHistoriasCruzadas_lgs9nn.jpg",
+        "trailerFilm": "https://youtube.com/embed/trailer",
+        "videoFilm": "https://mi-servidor.com/inception.mp4",
+        "movieDate": "2011",
+        "movieReleased": "2025-05-23"
+    },
+    {
+        "idFilm": "18",
+        "titleFilm": "El Grinch",
+        "sinopsisFilm": "Basada en el amado clásico del Dr. Seuss. El Grinch cuenta la historia de un cínico gruñón que va en una misión para robarse la Navidad, sólo para descubrir que su corazón ha cambiado gracias al generoso espíritu de una pequeña niña. Divertida, conmovedora y visualmente impresionante, ¡El Grinch es diversión para toda la familia!",
+        "categories": [
+            "Familia",
+            "Comedia",
+            "Animación",
+            "Fantasía"
+        ],
+        "typeFilm": "Pelicula",
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748056797/posterPathElGrinchA_o1fjtr.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748056795/logoPathElGrinchA_dyijqo.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748056792/backdropPathElGrinchA_klprdk.jpg",
+        "trailerFilm": "https://youtube.com/embed/trailer",
+        "videoFilm": "https://mi-servidor.com/inception.mp4",
+        "movieDate": "2018",
+        "movieReleased": "2025-05-23"
+    },
+    {
+        "idFilm": "19",
+        "titleFilm": "El Grinch",
+        "sinopsisFilm": "Dentro de un copo de nieve existe la tierra mágica de Villa Quien. En Villa Quien, viven los Quienes, que aman la Navidad, pero justo fuera de su querida villa quien vive el Grinch. El Grinch es una criatura desagradable que odia la Navidad, y trama robarla de los Quien, a quienes igualmente aborrece. Sin embargo, una niña pequeña, Cindy Lou Quien, decide intentar hacer amistad con el Grinch.",
+        "categories": [
+            "Familia",
+            "Comedia",
+            "Fantasía"
+        ],
+        "typeFilm": "Pelicula",
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748056796/posterPathElGrinch_hwlm1k.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748056795/logoPathElGrinch_konnxq.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748056791/backdropPathElGrinch_arq846.jpg",
+        "trailerFilm": "https://youtube.com/embed/trailer",
+        "videoFilm": "https://mi-servidor.com/inception.mp4",
+        "movieDate": "2000",
+        "movieReleased": "2025-05-23"
+    },
+    {
+        "idFilm": "20",
+        "titleFilm": "Venom: El último baile",
+        "sinopsisFilm": "Eddie y Venom están huyendo. Perseguidos por sus dos mundos, el dúo se ve obligado a tomar una decisión devastadora que bajará el telón en un último baile entre Venom y Eddie.",
+        "categories": [
+            "Acción",
+            "Ciencia ficción",
+            "Aventura"
+        ],
+        "typeFilm": "Pelicula",
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748056922/posterPathVenomUltimoBaile_knfzip.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748056920/logoPathVenomUltimoBaile_lxh08w.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748056919/backdropPathVenomUltimoBaile_skmmh9.jpg",
+        "trailerFilm": "https://youtube.com/embed/trailer",
+        "videoFilm": "https://mi-servidor.com/inception.mp4",
+        "movieDate": "2024",
+        "movieReleased": "2025-05-23"
+    },
+    {
+        "idFilm": "20",
+        "titleFilm": "Alice (Subservience)",
+        "sinopsisFilm": "Con su mujer en el hospital, un padre en apuros compra una Inteligencia Artificial para ayudarle en las tareas de casa. Pero a medida que la robot se encariña de su nuevo dueño, los límites empiezan a cruzarse. Pronto ella se empeña en eliminar lo que percibe como la verdadera amenaza para su felicidad: su familia.",
+        "categories": [
+            "Terror",
+            "Ciencia ficción",
+            "Suspense"
+        ],
+        "typeFilm": "Pelicula",
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748056920/posterPathAlice_c9ufoy.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748056919/logoPathAlice_f3pzep.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748056919/backdropPathAlice_khqkrf.jpg",
+        "trailerFilm": "https://youtube.com/embed/trailer",
+        "videoFilm": "https://mi-servidor.com/inception.mp4",
+        "movieDate": "2024",
+        "movieReleased": "2025-05-23"
+    },
+    {
+        "idFilm": "21",
+        "titleFilm": "Robot salvaje",
+        "sinopsisFilm": "Un robot - ROZZUM unidad 7134, <<Roz>> para abreviar - naufraga en una isla deshabitada y debe aprender a adaptarse al duro entorno, estableciendo gradualmente relaciones con los animales de la isla y convirtiéndose en la madre adoptiva de un ganso huérfano.",
+        "categories": [
+            "Animación",
+            "Ciencia ficción",
+            "Familia"
+        ],
+        "typeFilm": "Pelicula",
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748056922/posterPathRobotSalvaje_pgl9ls.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748056920/logoPathRobotSalvaje_s8ue5u.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748056919/backdropPathRobotSalvaje_yodn9l.jpg",
+        "trailerFilm": "https://youtube.com/embed/trailer",
+        "videoFilm": "https://mi-servidor.com/inception.mp4",
+        "movieDate": "2024",
+        "movieReleased": "2025-05-23"
+    },
+    {
+        "idFilm": "22",
+        "titleFilm": "Smile 2",
+        "sinopsisFilm": "La estrella del pop mundial Skye Riley está a punto de embarcarse en una nueva gira mundial cuando empieza a experimentar una serie de sucesos cada vez más aterradores e inexplicables. Angustiada por la espiral de horrores y la abrumadora presión de la fama, Skye tendrá que enfrentarse a su oscuro pasado para recuperar el control de su vida antes de que sea demasiado tarde. ",
+        "categories": [
+            "Terror",
+            "Misterio"
+        ],
+        "typeFilm": "Pelicula",
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748058094/posterPathSmile2_ojmbrs.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748058094/logoPathSmile2_hfcgog.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748058094/backdropPathSmil2_so1wsj.jpg",
+        "trailerFilm": "https://youtube.com/embed/trailer",
+        "videoFilm": "https://mi-servidor.com/inception.mp4",
+        "movieDate": "2024",
         "movieReleased": "2025-05-23"
     }
 ]
