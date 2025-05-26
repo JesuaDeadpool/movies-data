@@ -15,17 +15,16 @@
         "urlVideoFilm": "https://pelistreaming.netlify.app/videos/MinecraftTrailer.mp4"
     },
     {
-        "titleMovie": "El Juego del Calamar",
+        "titleMovie": "Amor en la puerta de al lado ",
         "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1747952265/uS7wxSWumablDFCGJiy3WeqZE8E_1_rg0nxv.png",
         "categories": [
-            "Misterio",
-            "Accion&Adventure",
+            "Comedia", 
             "Drama"
         ],
-        "durationFilm": "2 Temp",
-        "ratedMovie": 7.9,
+        "durationFilm": "16 Ep.",
+        "ratedMovie": 8.1,
         "typeFilm": "Serie",
-        "dateFilm": "2021/2025",
-        "urlVideoFilm": "https://lovely-hummingbird-bad738.netlify.app/videos/ElJuegoDelCalamar.mp4"
+        "dateFilm": "2024",
+        "urlVideoFilm": "https://lovely-hummingbird-bad738.netlify.app/videos/AmorEnLaPuertaDeAlLado.mp4"
     }
 ]
