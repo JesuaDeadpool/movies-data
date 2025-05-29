@@ -8,6 +8,7 @@
             "Comedia"
         ],
         "typeFilm": "Pelicula",
+        "punctuactionFilm": 6.9,
         "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1747769172/poster601_gfoucx.jpg",
         "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1747783956/logo1_l2tflf.webp",
         "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1747864692/1_1_dxvhsl.jpg",
@@ -27,6 +28,7 @@
             "Fantasía"
         ],
         "typeFilm": "Pelicula",
+        "punctuactionFilm": 6.5,
         "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1747865157/qNEmbTNjf5hVzecPq96pxGfBhbX_mq9xry.jpg",
         "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1747952073/ggGYbniHbvWDA9GAQYBUUdN3AKP-_1__1_kfjxmi.png",
         "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1747865271/backdropPath3_nz2esv.jpg",
@@ -44,6 +46,7 @@
             "Drama"
         ],
         "typeFilm": "Pelicula",
+        "punctuactionFilm": 8.2,
         "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1747865022/poster497_ch9viv.jpg",
         "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1747783956/logo1_l2tflf.webp",
         "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1747865022/391_lj7w9p.jpg",
@@ -62,6 +65,7 @@
             "Ciencia ficción"
         ],
         "typeFilm": "Pelicula",
+        "punctuactionFilm": 7.1,
         "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1747976594/ckQzKpQJO4ZQDCN5evdpKcfm7Ys_p98ppt.jpg",
         "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1747976408/hvi0C2A1YBOvRoWPX5WGQZk9dsC_vyzftx.png",
         "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1747976593/7Zx3wDG5bBtcfk8lcnCWDOLM4Y4_uo3wfj.jpg",
@@ -81,6 +85,7 @@
             "Familia"
         ],
         "typeFilm": "Pelicula",
+        "punctuactionFilm": 77,
         "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1747976593/3aDWCRXLYOCuxjrjiPfLd79tcI6_zjvrdo.jpg",
         "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1747976408/fNDT6usE6CKLv1gdRv5qrH24jmh_hnxj7c.png",
         "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1747976594/viPT9eOj4hm8skf3m7s09q40mel_uikjcl.jpg",
@@ -99,6 +104,7 @@
             "Suspense"
         ],
         "typeFilm": "Pelicula",
+        "punctuactionFilm": 7.1,
         "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748026738/posterPathMisionImposible_cg16vv.jpg",
         "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748026737/logoPathMisionImposibleFinal_vu7vjd.png",
         "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748026737/backdropPathMisionImposibleFinal_t75bjq.jpg",
@@ -117,6 +123,7 @@
             "Acción"
         ],
         "typeFilm": "Pelicula",
+        "punctuactionFilm": 7.6,
         "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748026738/posterPathGodzillaMinusOne_mofuaf.jpg",
         "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748026737/logoPathGodzillaMinusOne_uh0zct.png",
         "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748026737/backdropPathGodzillaMinusOne_tcqy9s.jpg",
@@ -136,6 +143,7 @@
             "Comedia"
         ],
         "typeFilm": "Pelicula",
+        "punctuactionFilm": 7.1,
         "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748026738/posterPathMoana2_jgg9fq.jpg",
         "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748026737/logoPathMoana2_yjajrv.png",
         "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748026737/backdropPathMoana2_pmjzhk.jpg",
@@ -154,6 +162,7 @@
             "Aventura"
         ],
         "typeFilm": "Pelicula",
+        "punctuactionFilm": 8.2,
         "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748026737/posterPathFlow_rtpb5f.jpg",
         "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748026736/logoPathFlow_xqanfv.png",
         "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748026737/backdropPathFlow_b49b9a.jpg",
@@ -172,6 +181,7 @@
             "Suspense"
         ],
         "typeFilm": "Pelicula",
+        "punctuactionFilm": 6.2,
         "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748026738/posterPathSuckerPunch_nu3ake.jpg",
         "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748026738/posterPathSuckerPunch_rzsvzu.png",
         "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748026737/backdropPathSuckerPunch_w1waxl.jpg",
@@ -190,6 +200,7 @@
             "Historia"
         ],
         "typeFilm": "Pelicula",
+        "punctuactionFilm": 7.6,
         "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748056799/posterPathSeisTripleOcho_pivg5y.jpg",
         "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748056796/LogoPathSeisTripleOcho_gprasa.png",
         "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748056792/backdropPathSeisTripleOcho_kva5zi.jpg",
@@ -208,6 +219,7 @@
             "Drama"
         ],
         "typeFilm": "Pelicula",
+        "punctuactionFilm": 6.7,
         "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748056799/posterPathGladiador2_kzgzyt.jpg",
         "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748056796/logoPathGladiador2_po9i0i.png",
         "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748056792/backdropPathGladiador2_nqtmpr.jpg",
@@ -227,6 +239,7 @@
             "Animación"
         ],
         "typeFilm": "Pelicula",
+        "punctuactionFilm": 7.1,
         "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748056798/posterPathGarfield_uffnea.jpg",
         "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748056796/logoPathGarfield_hsqi0x.png",
         "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748056793/bakcdropPathGarfield_nrvhi1.jpg",
@@ -245,6 +258,7 @@
             "Drama"
         ],
         "typeFilm": "Pelicula",
+        "punctuactionFilm": 6.9,
         "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748056791/posterPathCivilWar_pdyntq.jpg",
         "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748056793/logoPathCivilWar_mjwtyx.png",
         "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748056791/backdropPathCivilWar_u6hwpn.jpg",
@@ -262,6 +276,7 @@
             "Acción"
         ],
         "typeFilm": "Pelicula",
+        "punctuactionFilm": 6.9,
         "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748056798/posterPathEquipajeMano_dkaf9x.jpg",
         "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748057792/logoPathEquipajeMano_ex1kxg.png",
         "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748056792/backdropPathEquipajeMano_hx0ku7.jpg",
@@ -279,6 +294,7 @@
             "Drama"
         ],
         "typeFilm": "Pelicula",
+        "punctuactionFilm": 7.3,
         "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748056791/posterPathTiempoQueTenemos_wcefen.jpg",
         "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748056796/logoPathTiempoQueTenemos_fd4ntw.png",
         "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748056793/backdropPathTiempoQueTenemos_s3hm8m.jpg",
@@ -295,6 +311,7 @@
             "Drama"
         ],
         "typeFilm": "Pelicula",
+        "punctuactionFilm": 8.2,
         "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748056799/posterPathHistoriasCruzadas_aavif3.jpg",
         "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748056791/logoPathHistoriasCruzadas_ynyobu.png",
         "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748056792/backdropPathHistoriasCruzadas_lgs9nn.jpg",
@@ -314,6 +331,7 @@
             "Fantasía"
         ],
         "typeFilm": "Pelicula",
+        "punctuactionFilm": 6.9,
         "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748056797/posterPathElGrinchA_o1fjtr.jpg",
         "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748056795/logoPathElGrinchA_dyijqo.png",
         "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748056792/backdropPathElGrinchA_klprdk.jpg",
@@ -332,6 +350,7 @@
             "Fantasía"
         ],
         "typeFilm": "Pelicula",
+        "punctuactionFilm": 6.8,
         "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748056796/posterPathElGrinch_hwlm1k.jpg",
         "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748056795/logoPathElGrinch_konnxq.png",
         "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748056791/backdropPathElGrinch_arq846.jpg",
@@ -350,6 +369,7 @@
             "Aventura"
         ],
         "typeFilm": "Pelicula",
+        "punctuactionFilm": 6.7,
         "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748056922/posterPathVenomUltimoBaile_knfzip.jpg",
         "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748056920/logoPathVenomUltimoBaile_lxh08w.png",
         "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748056919/backdropPathVenomUltimoBaile_skmmh9.jpg",
@@ -368,6 +388,7 @@
             "Suspense"
         ],
         "typeFilm": "Pelicula",
+        "punctuactionFilm": 6.7,
         "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748056920/posterPathAlice_c9ufoy.jpg",
         "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748056919/logoPathAlice_f3pzep.png",
         "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748056919/backdropPathAlice_khqkrf.jpg",
@@ -386,6 +407,7 @@
             "Familia"
         ],
         "typeFilm": "Pelicula",
+        "punctuactionFilm": 8.3,
         "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748056922/posterPathRobotSalvaje_pgl9ls.jpg",
         "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748056920/logoPathRobotSalvaje_s8ue5u.png",
         "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748056919/backdropPathRobotSalvaje_yodn9l.jpg",
@@ -403,9 +425,10 @@
             "Misterio"
         ],
         "typeFilm": "Pelicula",
+        "punctuactionFilm": 6.6,
         "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748058094/posterPathSmile2_ojmbrs.jpg",
         "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748058094/logoPathSmile2_hfcgog.png",
-        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748058094/backdropPathSmil2_so1wsj.jpg",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748058094/backdropPzathSmil2_so1wsj.jpg",
         "trailerFilm": "https://youtube.com/embed/trailer",
         "videoFilm": "https://mi-servidor.com/inception.mp4",
         "movieDate": "2024",
