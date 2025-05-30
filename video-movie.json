@@ -6,7 +6,6 @@
             "Familia",
             "Comedia",
             "Ciencia Ficción"
-           
         ],
         "durationFilm": "1h 48m",
         "ratedMovie": 7.1,
@@ -18,7 +17,7 @@
         "titleMovie": "Amor en la puerta de al lado ",
         "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1747952265/uS7wxSWumablDFCGJiy3WeqZE8E_1_rg0nxv.png",
         "categories": [
-            "Comedia", 
+            "Comedia",
             "Drama"
         ],
         "durationFilm": "16 Ep.",
