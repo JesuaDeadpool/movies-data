@@ -1,18 +1,18 @@
 [
     {
-        "titleMovie": "Minecraft",
-        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1747952073/ggGYbniHbvWDA9GAQYBUUdN3AKP-_1__1_kfjxmi.png",
+        "titleMovie": "Lilo y Stitch ",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1747976408/hvi0C2A1YBOvRoWPX5WGQZk9dsC_vyzftx.png",
         "categories": [
             "Familia",
             "Comedia",
-            "Aventura",
-            "Acción"
+            "Ciencia Ficción",
+           
         ],
-        "durationFilm": "1h 41m",
-        "ratedMovie": 6.5,
+        "durationFilm": "1h 48m",
+        "ratedMovie": 7.1,
         "typeFilm": "Pelicula",
         "dateFilm": "2025",
-        "urlVideoFilm": "https://pelistreaming.netlify.app/videos/MinecraftTrailer.mp4"
+        "urlVideoFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1748564943/TrailerLiloStitch_ji89qc.mp4"
     },
     {
         "titleMovie": "Amor en la puerta de al lado ",
