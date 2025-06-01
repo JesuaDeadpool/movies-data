@@ -10,10 +10,11 @@
         "typeFilm": "Pelicula",
         "punctuactionFilm": 6.9,
         "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1747769172/poster601_gfoucx.jpg",
-        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1747783956/logo1_l2tflf.webp",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748752012/logoPathConTodosMenosContigo_yo5xkd.png",
         "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1747864692/1_1_dxvhsl.jpg",
         "trailerFilm": "https://youtube.com/embed/trailer",
         "videoFilm": "https://mi-servidor.com/inception.mp4",
+        "durationFilm": "1h 43m",
         "movieDate": "2023",
         "movieReleased": "2025-05-20"
     },
@@ -31,9 +32,10 @@
         "punctuactionFilm": 6.5,
         "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1747865157/qNEmbTNjf5hVzecPq96pxGfBhbX_mq9xry.jpg",
         "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1747952073/ggGYbniHbvWDA9GAQYBUUdN3AKP-_1__1_kfjxmi.png",
-        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1747865271/backdropPath3_nz2esv.jpg",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748752015/backdropPathMinecraftM_pri8ki.jpg",
         "trailerFilm": "https://youtube.com/embed/trailer",
         "videoFilm": "https://mi-servidor.com/inception.mp4",
+        "durationFilm": "1h 41m",
         "movieDate": "2025",
         "movieReleased": "2025-05-22"
     },
@@ -48,10 +50,11 @@
         "typeFilm": "Pelicula",
         "punctuactionFilm": 8.2,
         "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1747865022/poster497_ch9viv.jpg",
-        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1747783956/logo1_l2tflf.webp",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748752013/logoPathDosMetrosDeTi_wxdbgb.png",
         "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1747865022/391_lj7w9p.jpg",
         "trailerFilm": "https://youtube.com/embed/trailer",
         "videoFilm": "https://mi-servidor.com/inception.mp4",
+        "durationFilm": "1h 56m",
         "movieDate": "2023",
         "movieReleased": "2025-05-22"
     },
@@ -71,6 +74,7 @@
         "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1747976593/7Zx3wDG5bBtcfk8lcnCWDOLM4Y4_uo3wfj.jpg",
         "trailerFilm": "https://youtube.com/embed/trailer",
         "videoFilm": "https://mi-servidor.com/inception.mp4",
+        "durationFilm": "1h 48m",
         "movieDate": "2025",
         "movieReleased": "2025-05-22"
     },
@@ -91,6 +95,7 @@
         "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1747976594/viPT9eOj4hm8skf3m7s09q40mel_uikjcl.jpg",
         "trailerFilm": "https://youtube.com/embed/trailer",
         "videoFilm": "https://mi-servidor.com/inception.mp4",
+        "durationFilm": "1h 50m",
         "movieDate": "2024",
         "movieReleased": "2025-05-22"
     },
@@ -110,6 +115,7 @@
         "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748026737/backdropPathMisionImposibleFinal_t75bjq.jpg",
         "trailerFilm": "https://youtube.com/embed/trailer",
         "videoFilm": "https://mi-servidor.com/inception.mp4",
+        "durationFilm": "2h 50m",
         "movieDate": "2025",
         "movieReleased": "2025-05-23"
     },
@@ -129,6 +135,7 @@
         "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748026737/backdropPathGodzillaMinusOne_tcqy9s.jpg",
         "trailerFilm": "https://youtube.com/embed/trailer",
         "videoFilm": "https://mi-servidor.com/inception.mp4",
+        "durationFilm": "2h 5m",
         "movieDate": "2023",
         "movieReleased": "2025-05-23"
     },
@@ -149,6 +156,7 @@
         "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748026737/backdropPathMoana2_pmjzhk.jpg",
         "trailerFilm": "https://youtube.com/embed/trailer",
         "videoFilm": "https://mi-servidor.com/inception.mp4",
+        "durationFilm": "1h 40m",
         "movieDate": "2024",
         "movieReleased": "2025-05-23"
     },
@@ -168,6 +176,7 @@
         "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748026737/backdropPathFlow_b49b9a.jpg",
         "trailerFilm": "https://youtube.com/embed/trailer",
         "videoFilm": "https://mi-servidor.com/inception.mp4",
+        "durationFilm": "1h 25m",
         "movieDate": "2024",
         "movieReleased": "2025-05-23"
     },
@@ -187,6 +196,7 @@
         "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748026737/backdropPathSuckerPunch_w1waxl.jpg",
         "trailerFilm": "https://youtube.com/embed/trailer",
         "videoFilm": "https://mi-servidor.com/inception.mp4",
+        "durationFilm": "1h 50m",
         "movieDate": "2011",
         "movieReleased": "2025-05-23"
     },
@@ -206,6 +216,7 @@
         "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748056792/backdropPathSeisTripleOcho_kva5zi.jpg",
         "trailerFilm": "https://youtube.com/embed/trailer",
         "videoFilm": "https://mi-servidor.com/inception.mp4",
+        "durationFilm": "2h 10m",
         "movieDate": "2024",
         "movieReleased": "2025-05-23"
     },
@@ -225,6 +236,7 @@
         "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748056792/backdropPathGladiador2_nqtmpr.jpg",
         "trailerFilm": "https://youtube.com/embed/trailer",
         "videoFilm": "https://mi-servidor.com/inception.mp4",
+        "durationFilm": "2h 28m",
         "movieDate": "2024",
         "movieReleased": "2025-05-23"
     },
@@ -245,6 +257,7 @@
         "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748056793/bakcdropPathGarfield_nrvhi1.jpg",
         "trailerFilm": "https://youtube.com/embed/trailer",
         "videoFilm": "https://mi-servidor.com/inception.mp4",
+        "durationFilm": "1h 40m",
         "movieDate": "2024",
         "movieReleased": "2025-05-23"
     },
@@ -264,6 +277,7 @@
         "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748056791/backdropPathCivilWar_u6hwpn.jpg",
         "trailerFilm": "https://youtube.com/embed/trailer",
         "videoFilm": "https://mi-servidor.com/inception.mp4",
+        "durationFilm": "1h 49m",
         "movieDate": "2024",
         "movieReleased": "2025-05-23"
     },
@@ -282,6 +296,7 @@
         "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748056792/backdropPathEquipajeMano_hx0ku7.jpg",
         "trailerFilm": "https://youtube.com/embed/trailer",
         "videoFilm": "https://mi-servidor.com/inception.mp4",
+        "durationFilm": "2h",
         "movieDate": "2024",
         "movieReleased": "2025-05-23"
     },
@@ -300,6 +315,7 @@
         "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748056793/backdropPathTiempoQueTenemos_s3hm8m.jpg",
         "trailerFilm": "https://youtube.com/embed/trailer",
         "videoFilm": "https://mi-servidor.com/inception.mp4",
+        "durationFilm": "1h 48m",
         "movieDate": "2024",
         "movieReleased": "2025-05-23"
     },
@@ -317,6 +333,7 @@
         "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748056792/backdropPathHistoriasCruzadas_lgs9nn.jpg",
         "trailerFilm": "https://youtube.com/embed/trailer",
         "videoFilm": "https://mi-servidor.com/inception.mp4",
+        "durationFilm": "2h 26m",
         "movieDate": "2011",
         "movieReleased": "2025-05-23"
     },
@@ -337,6 +354,7 @@
         "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748056792/backdropPathElGrinchA_klprdk.jpg",
         "trailerFilm": "https://youtube.com/embed/trailer",
         "videoFilm": "https://mi-servidor.com/inception.mp4",
+        "durationFilm": "1h 25m",
         "movieDate": "2018",
         "movieReleased": "2025-05-23"
     },
@@ -356,6 +374,7 @@
         "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748056791/backdropPathElGrinch_arq846.jpg",
         "trailerFilm": "https://youtube.com/embed/trailer",
         "videoFilm": "https://mi-servidor.com/inception.mp4",
+        "durationFilm": "1h 44m",
         "movieDate": "2000",
         "movieReleased": "2025-05-23"
     },
@@ -375,6 +394,7 @@
         "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748056919/backdropPathVenomUltimoBaile_skmmh9.jpg",
         "trailerFilm": "https://youtube.com/embed/trailer",
         "videoFilm": "https://mi-servidor.com/inception.mp4",
+        "durationFilm": "1h 49m",
         "movieDate": "2024",
         "movieReleased": "2025-05-23"
     },
@@ -394,6 +414,7 @@
         "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748056919/backdropPathAlice_khqkrf.jpg",
         "trailerFilm": "https://youtube.com/embed/trailer",
         "videoFilm": "https://mi-servidor.com/inception.mp4",
+        "durationFilm": "1h 45m",
         "movieDate": "2024",
         "movieReleased": "2025-05-23"
     },
@@ -413,6 +434,7 @@
         "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748056919/backdropPathRobotSalvaje_yodn9l.jpg",
         "trailerFilm": "https://youtube.com/embed/trailer",
         "videoFilm": "https://mi-servidor.com/inception.mp4",
+        "durationFilm": "1h 41m",
         "movieDate": "2024",
         "movieReleased": "2025-05-23"
     },
@@ -428,10 +450,383 @@
         "punctuactionFilm": 6.6,
         "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748058094/posterPathSmile2_ojmbrs.jpg",
         "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748058094/logoPathSmile2_hfcgog.png",
-        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748058094/backdropPzathSmil2_so1wsj.jpg",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748058094/backdropPathSmil2_so1wsj.jpg",
         "trailerFilm": "https://youtube.com/embed/trailer",
-        "videoFilm": "https://mi-servidor.com/inception.mp4",
+        "videoFilm": "https://hqq.ac/e/Q1BGY2NzTG5sSUJ2UjQ2YzMyb3I5dz09",
+        "durationFilm": "2h 12m",
         "movieDate": "2024",
         "movieReleased": "2025-05-23"
+    },
+    {
+        "idFilm": "24",
+        "titleFilm": "Terrifier 3",
+        "sinopsisFilm": "El payaso Art desata el caos entre los desprevenidos habitantes del condado de Miles mientras duermen plácidamente en Nochebuena. Tras sobrevivir a la masacre de Halloween perpetrada por el peor asesino en serie desde Jack el Destripador, Sienna y su hermano se esfuerzan por reconstruir sus vidas destrozadas. A medida que se acercan las fiestas de Navidad, intentan abrazar el espíritu navideño y dejar atrás los horrores del pasado. Pero justo cuando creen que están a salvo, el payaso Art regresa, decidido a convertir su alegría navideña en una nueva pesadilla. La temporada festiva se desmorona rápidamente mientras el payaso Art desata su retorcido terror marca de la casa, demostrando que ninguna festividad es segura.",
+        "categories": [
+            "Terror",
+            "Suspense"
+        ],
+        "typeFilm": "Pelicula",
+        "punctuactionFilm": 6.8,
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748752331/posterPathTerrifier3_od40fi.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748751480/logoPathTerrifier3_xkhl5x.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748480671/backdropPathTerrifier3_kkd4ey.jpg",
+        "trailerFilm": "https://youtube.com/embed/trailer",
+        "videoFilm": "https://hqq.ac/e/SUdESkEyQ3Avay9TdmdrbEFIaE1aUT09",
+        "durationFilm": "2h 5m",
+        "movieDate": "2024",
+        "movieReleased": "2025-05-31"
+    },
+    {
+        "idFilm": "25",
+        "titleFilm": "Joker 2: Folie à Deux",
+        "sinopsisFilm": "El fracasado comediante Arthur Fleck conoce al amor de su vida, Harley Quinn, mientras está encarcelado en el Hospital Estatal de Arkham. Tras su liberación, los dos se embarcan en una desventura romántica condenada al fracaso.",
+        "categories": [
+            "Drama",
+            "Crimen",
+            "Suspense"
+        ],
+        "typeFilm": "Pelicula",
+        "punctuactionFilm": 5.4,
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748751483/posterPathJoker2_sltlqx.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748751480/logoPathJoker2_jz19hu.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748751478/backdropPathJoker2_e3ora9.jpg",
+        "trailerFilm": "https://youtube.com/embed/trailer",
+        "videoFilm": "https://hqq.ac/e/WUIzMTlSd05YOXQxVS9HZWVFM2dpUT09",
+        "durationFilm": "2h 18m",
+        "movieDate": "2024",
+        "movieReleased": "2025-05-31"
+    },
+    {
+        "idFilm": "26",
+        "titleFilm": "Transformer Uno",
+        "sinopsisFilm": "El fracasado comediante Arthur Fleck conoce al amor de su vida, Harley Quinn, mientras está encarcelado en el Hospital Estatal de Arkham. Tras su liberación, los dos se embarcan en una desventura romántica condenada al fracaso.",
+        "categories": [
+            "Animación",
+            "Aventura",
+            "Familia",
+            "Ciencia ficción"
+        ],
+        "typeFilm": "Pelicula",
+        "punctuactionFilm": 8.1,
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748751484/posterPathTransformersUno_iwkpua.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748751480/logoPathTransformersUno_xzpjl8.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748751479/backdropPathTransformersUno_yvh5qi.jpg",
+        "trailerFilm": "https://youtube.com/embed/trailer",
+        "videoFilm": "https://hqq.ac/e/ekQ1OTFDeGxQRnc0ZytmbnVDM2YvQT09",
+        "durationFilm": "1h 44m",
+        "movieDate": "2024",
+        "movieReleased": "2025-05-31"
+    },
+    {
+        "idFilm": "27",
+        "titleFilm": "Horrorland",
+        "sinopsisFilm": "Fiona, la encargada de un parque, debe ocuparse de unos antiguos amigos de la escuela secundaria quienes han ganado una visita previa exclusiva de Halloween en el parque de atracciones, una noche entera, para ellos solos. Algodón de azúcar, palomitas de maíz y tiovivos se suceden unos detrás de otros, pero la diversión se convierte rápidamente en una auténtica pesadilla cuando se dan cuenta de que no están solos en el parque. Todos sus pecados del pasado vuelven cuando se dan cuenta de que solo haciéndoles frente podrán sobrevivir.",
+        "categories": [
+            "Terror"
+        ],
+        "typeFilm": "Pelicula",
+        "punctuactionFilm": 6.0,
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748751483/posterPathHorrorland_wiwjzm.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748751479/logoPathHorrorland_aoayuw.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748751478/backdropPathHorrorland_uoeqzn.jpg",
+        "trailerFilm": "https://youtube.com/embed/trailer",
+        "videoFilm": "https://hqq.ac/e/b0FnbXV4M01VSnRzdWIreG1mL2owQT09",
+        "durationFilm": "1h 33m",
+        "movieDate": "2023",
+        "movieReleased": "2025-05-31"
+    },
+    {
+        "idFilm": "28",
+        "titleFilm": "El Conjuro",
+        "sinopsisFilm": "Una familia aterrorizada pide ayuda a los investigadores paranormales Ed y Lorraine Warren a investigar una presencia oscura en su granja. Al ser obligados a enfrentarse a una entidad poderosa, los Warren se ven atrapados en el caso más aterrador de sus vidas.",
+        "categories": [
+            "Terror",
+            "Suspense"
+        ],
+        "typeFilm": "Pelicula",
+        "punctuactionFilm": 7.5,
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748751483/posterPathElConjuro_hu6bxs.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748751479/logoPathElConjuro_r7dnrr.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748751478/backdropPathElConjuro_cgfdni.jpg",
+        "trailerFilm": "https://youtube.com/embed/trailer",
+        "videoFilm": "https://hqq.ac/e/MnhZeHlJTHlMd04wS3l4NnRidzBTQT09",
+        "durationFilm": "1h 52m",
+        "movieDate": "2013",
+        "movieReleased": "2025-05-31"
+    },
+    {
+        "idFilm": "29",
+        "titleFilm": "IntensaMente 2",
+        "sinopsisFilm": "Riley, ahora adolescente, enfrenta una reforma en la Central de sus emociones. Alegría, Tristeza, Ira, Miedo y Asco deben adaptarse a la llegada de nuevas emociones: Ansiedad, Vergüenza, Envidia y Ennui.",
+        "categories": [
+            "Animación",
+            "Aventura",
+            "Comedia",
+            "Familia"
+        ],
+        "typeFilm": "Pelicula",
+        "punctuactionFilm": 7.6,
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748751483/posterPathIntensamente2_atpah1.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748751479/logoPathIntensamente2_nqxvxh.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748751479/backdropPathIntensamente2_qwrj6j.jpg",
+        "trailerFilm": "https://youtube.com/embed/trailer",
+        "videoFilm": "https://hqq.ac/e/ZG1TK1RlUEpqdUllS0dRbTdSNlV0QT09",
+        "durationFilm": "1h 36m",
+        "movieDate": "2024",
+        "movieReleased": "2025-05-31"
+    },
+    {
+        "idFilm": "30",
+        "titleFilm": "Jack en la caja maldita 3: El Ascenso",
+        "sinopsisFilm": "Cuando una adolescente estadounidense accede a un internado femenino del Reino Unido, sus compañeras no tardan en darse cuenta de que ha ido a buscar una misteriosa caja de juguetes escondida en el patio del colegio. Tras encontrarla y abrirla, seis alumnos se lanzan a una lucha por la supervivencia contra un demonio que escapa de su interior. ¿Lograrán salir con vida de la escuela, o el demonio cobrará las víctimas que necesita para seguir vivo?",
+        "categories": [
+            "Terror"
+        ],
+        "typeFilm": "Pelicula",
+        "punctuactionFilm": 6.6,
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748751483/posterPathJackEnLaCajaMaldita3_pcmkqc.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748751479/logoPathJackEnLaCajaMaldita3_eqzftf.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748751478/backdropPathJackEnLaCajaMaldita3_wcqtr9.jpg",
+        "trailerFilm": "https://youtube.com/embed/trailer",
+        "videoFilm": "https://hqq.ac/e/MkVnNFp3MVB3QkxxVGptRnQrbkhiZz09",
+        "durationFilm": "1h 30m",
+        "movieDate": "2024",
+        "movieReleased": "2025-05-31"
+    },
+    {
+        "idFilm": "31",
+        "titleFilm": "El asesino del juego de citas",
+        "sinopsisFilm": "Los Ángeles, 1978. Una aspirante a actriz (Anna Kendrick) se cruza con el asesino en serie Rodney Alcala (Daniel Zovatto) en el plató del popular concurso de televisión 'The Dating Game'. Debut en la dirección cinematográfica de Anna Kendrick, basado en hechos reales.",
+        "categories": [
+            "Crimen",
+            "Drama",
+            "Suspense"
+        ],
+        "typeFilm": "Pelicula",
+        "punctuactionFilm": 6.4,
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748751481/posterPathElAsesinoDelJuegoCitas_iitd7w.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748751479/logoPathElAsesinoDelJuegoCitas_pbbvyu.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748751478/backdropPathElAsesinoDelJuegoCitas_go0udo.jpg",
+        "trailerFilm": "https://youtube.com/embed/trailer",
+        "videoFilm": "https://hqq.ac/e/bXlISHVzV3RYQVd3M1R4YzZ4cWo3dz09",
+        "durationFilm": "1h 34m",
+        "movieDate": "2024",
+        "movieReleased": "2025-05-31"
+    },
+    {
+        "idFilm": "32",
+        "titleFilm": "Sismo magnitud 9.5",
+        "sinopsisFilm": "Un repentino terremoto sacudió todo el parque químico en el condado de Gucheng, con fugas en las tuberías que provocaron constantes explosiones. El desastre se intensifica rápidamente y si se permite que se propague, toda la ciudad pronto será arrasada. Con la tarea de apagar el incendio, un grupo de hombres conducen desde la estación de bomberos hasta el lugar y así comienza una carrera contra el tiempo para proteger y salvar vidas.",
+        "categories": [
+            "Drama",
+            "Acción"
+        ],
+        "typeFilm": "Pelicula",
+        "punctuactionFilm": 7.3,
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748751483/posterPathSismo_iamzp7.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748751479/logoPathSismo_i6jhjt.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748751479/backdropPathSismo_jz1zm3.jpg",
+        "trailerFilm": "https://youtube.com/embed/trailer",
+        "videoFilm": "https://hqq.ac/e/Q1JQU0N4S0crbjNlL1FVa1NyTUVEZz09",
+        "durationFilm": "1h 54m",
+        "movieDate": "2023",
+        "movieReleased": "2025-05-31"
+    },
+    {
+        "idFilm": "33",
+        "titleFilm": "Eterno resplandor de una mente sin recuerdos",
+        "sinopsisFilm": "Cuando descubre que su novia, Clementine, ha hecho que borren de su memoria todos los recuerdos de su tormentosa relación, Joel Barish se pone en contacto con el creador del proceso para que borre a Clementine de su memoria.",
+        "categories": [
+            "Drama",
+            "Romance",
+            "Ciencia ficción"
+        ],
+        "typeFilm": "Pelicula",
+        "punctuactionFilm": 8.1,
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748751719/posterPathEternoResplandor_iierdu.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748751719/logoPathEternoResplandor_t4ydgi.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748751722/backdropPathEternoResplandor_fezkcr.jpg",
+        "trailerFilm": "https://youtube.com/embed/trailer",
+        "videoFilm": "https://hqq.ac/e/YTNlem9IRmtKa1B2WElRQjBBdlFTZz09",
+        "durationFilm": "1h 48m",
+        "movieDate": "2004",
+        "movieReleased": "2025-05-31"
+    },
+    {
+        "idFilm": "34",
+        "titleFilm": "Sing 2: ¡Ven y Canta de Nuevo!",
+        "sinopsisFilm": "Buster Moon y su elenco de animales artistas se preparan para lanzar un deslumbrante espectáculo escénico en la capital mundial del entretenimiento. Solo hay un problema: debe convencer a la estrella de rock más solitaria del mundo de unirse a ellos.",
+        "categories": [
+            "Musica",
+            "Comedia",
+            "Familia",
+            "Animación"
+        ],
+        "typeFilm": "Pelicula",
+        "punctuactionFilm": 7.8,
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748751721/posterPathSing2_gkvwc7.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748751719/logoPathSing2_n7vr35.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748751721/backdropPathSing2_hrheq7.jpg",
+        "trailerFilm": "https://youtube.com/embed/trailer",
+        "videoFilm": "https://hqq.ac/e/M1hzRGRnbHN5K3k2aUdKU1ZGRGthQT09",
+        "durationFilm": "1h 50m",
+        "movieDate": "2021",
+        "movieReleased": "2025-05-31"
+    },
+    {
+        "idFilm": "35",
+        "titleFilm": "Sing: ¡Ven y canta!",
+        "sinopsisFilm": "En una ciudad de animales humanoides, el intento de un empresario de teatro de salvar su teatro con un concurso de canto se convierte en algo más grande de lo que prevé, incluso cuando sus finalistas descubren que sus vidas nunca serán las mismas.",
+        "categories": [
+            "Musica",
+            "Comedia",
+            "Familia",
+            "Animación"
+        ],
+        "typeFilm": "Pelicula",
+        "punctuactionFilm": 7.1,
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748751720/posterPathSing_awyqhm.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748751720/logoPathSing_wp6dbk.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748751722/backdropPathSing_w9tycq.jpg",
+        "trailerFilm": "https://youtube.com/embed/trailer",
+        "videoFilm": "https://hqq.ac/e/Y0V3RytCUFhMOUxuU0o1RVlMWmlMQT09",
+        "durationFilm": "1h 48m",
+        "movieDate": "2016",
+        "movieReleased": "2025-05-31"
+    },
+    {
+        "idFilm": "35",
+        "titleFilm": "Napoleón",
+        "sinopsisFilm": "Una mirada personal a los orígenes del líder militar francés y su rápido y despiadado ascenso a emperador. La historia se ve a través de la lente de la relación adictiva y volátil de Napoleón Bonaparte con su esposa y único amor verdadero, Josefina.",
+        "categories": [
+            "Historia",
+            "Bélica",
+            "Romance"
+        ],
+        "typeFilm": "Pelicula",
+        "punctuactionFilm": 6.3,
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748751718/posterPathNapoleon_lcjyah.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748751723/logoPathNapoleon_bzkpkr.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748751723/backdropPathNapoleon_jer9mg.jpg",
+        "trailerFilm": "https://youtube.com/embed/trailer",
+        "videoFilm": "https://hqq.ac/e/emNibXZ4YzVkL2syMS9qNDBGQktiUT09",
+        "durationFilm": "2h 38m",
+        "movieDate": "2023",
+        "movieReleased": "2025-05-31"
+    },
+    {
+        "idFilm": "36",
+        "titleFilm": "#Vivo",
+        "sinopsisFilm": "La rápida propagación de una infección desconocida ha dejado a toda una ciudad en un caos ingobernable, pero un sobreviviente sigue vivo aislado. Esta es su historia.",
+        "categories": [
+            "Acción",
+            "Terror"
+        ],
+        "typeFilm": "Pelicula",
+        "punctuactionFilm": 6.3,
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748751718/posterPathVivo_h6tqbt.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748751717/logoPathVivo_us4dmz.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748751717/backdropPathVivo_xxmtjm.jpg",
+        "trailerFilm": "https://youtube.com/embed/trailer",
+        "videoFilm": "https://hqq.ac/e/R1lUaXBUYVN2eDI2MmJxUCtjSE83dz09",
+        "durationFilm": "1h 38m",
+        "movieDate": "2020",
+        "movieReleased": "2025-05-31"
+    },
+    {
+        "idFilm": "37",
+        "titleFilm": "Terrifier",
+        "sinopsisFilm": "El payaso psicópata Art, aterroriza a dos chicas durante la noche de Halloween, matando a todos aquellos que se interponen en su camino.",
+        "categories": [
+            "Terror",
+            "Suspense"
+        ],
+        "typeFilm": "Pelicula",
+        "punctuactionFilm": 6.3,
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748751719/posterPathTerrifier_w19pav.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748752876/logoPathTerrifier_hn8tgm.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748751721/backdropPathTerrifier_emax91.jpg",
+        "trailerFilm": "https://youtube.com/embed/trailer",
+        "videoFilm": "https://hqq.ac/e/UisxdDRnZ20vS2lROHYzOGdnb3VCQT09",
+        "durationFilm": "1h 24m",
+        "movieDate": "2018",
+        "movieReleased": "2025-05-31"
+    },
+    {
+        "idFilm": "38",
+        "titleFilm": "Terrifier 2: El Payaso Siniestro",
+        "sinopsisFilm": "Después de ser resucitado por una entidad siniestra, Art the Clown regresa al condado de Miles, donde debe cazar y destruir a una adolescente y a su hermano menor en la noche de Halloween.",
+        "categories": [
+            "Terror",
+            "Suspense"
+        ],
+        "typeFilm": "Pelicula",
+        "punctuactionFilm": 6.7,
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748752012/posterPathTerrifier2_gzm84y.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748752017/logoPathTerrifier2_mmbn3t.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748752015/backdropPathTerrifier2_fekmjb.jpg",
+        "trailerFilm": "https://youtube.com/embed/trailer",
+        "videoFilm": "https://hqq.ac/e/QjVvb0pBMFJ0L3VEUVgwbkNMNjB5UT09",
+        "durationFilm": "2h 18m",
+        "movieDate": "2022",
+        "movieReleased": "2025-05-31"
+    },
+    {
+        "idFilm": "39",
+        "titleFilm": "La sustancia",
+        "sinopsisFilm": "Elisabeth Sparkle, una celebridad en decadencia, decide usar una droga del mercado negro que replica células y crea temporalmente una versión más joven y mejor de ella misma.",
+        "categories": [
+            "Terror",
+            "Ciencia ficción"
+        ],
+        "typeFilm": "Pelicula",
+        "punctuactionFilm": 7.1,
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748752011/posterPathSustancia_nzr4hs.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748752016/logoPathSustancia_pmnq2i.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748752012/backdropPathSustancia_i1tahg.jpg",
+        "trailerFilm": "https://youtube.com/embed/trailer",
+        "videoFilm": "https://hqq.ac/e/ckRCOWhXU2txS1BrSnI4cWpjdW1YQT09",
+        "durationFilm": "2h 20m",
+        "movieDate": "2024",
+        "movieReleased": "2025-05-31"
+    },
+    {
+        "idFilm": "40",
+        "titleFilm": "Deadpool & Wolverine",
+        "sinopsisFilm": "Un Wade Wilson apático se esfuerza en la vida civil. Sus días como el mercenario moralmente flexible Deadpool quedaron atrás. Cuando su mundo natal se enfrenta a una amenaza existencial, Wade debe, a regañadientes, volver a la acción junto a un reacio Wolverine.",
+        "categories": [
+            "Acción",
+            "Comedia",
+            "Ciencia ficción"
+        ],
+        "typeFilm": "Pelicula",
+        "punctuactionFilm": 7.6,
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748752018/posterPathDeadpool3_omm67t.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748752014/logoPathDeadpool3_qqbvka.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748752016/backdropPathDeadpool3_lkp67v.jpg",
+        "trailerFilm": "https://youtube.com/embed/trailer",
+        "videoFilm": "https://hqq.ac/e/dkRPWE9VcUl1Rkt0cDluVHpsaU1QQT09",
+        "durationFilm": "2h 8m",
+        "movieDate": "2024",
+        "movieReleased": "2025-05-31"
+    },
+    {
+        "idFilm": "41",
+        "titleFilm": "Alien: Romulus",
+        "sinopsisFilm": "Mientras rebuscan en las profundidades de una estación espacial abandonada, un grupo de jóvenes colonizadores del espacio se encuentra cara a cara con la forma de vida más aterradora del universo. Nueva película de la saga Alien.",
+        "categories": [
+            "Terror",
+            "Ciencia ficción"
+        ],
+        "typeFilm": "Pelicula",
+        "punctuactionFilm": 7.2,
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748752018/posterPathDeadpool3_omm67t.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748752014/logoPathDeadpool3_qqbvka.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748752016/backdropPathDeadpool3_lkp67v.jpg",
+        "trailerFilm": "https://youtube.com/embed/trailer",
+        "videoFilm": "https://hqq.ac/e/VXhSSkVJRVB3cTFNQ011ZVpzWnNXdz09",
+        "durationFilm": "1h 59m",
+        "movieDate": "2024",
+        "movieReleased": "2025-05-31"
     }
 ]
