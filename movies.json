@@ -828,5 +828,105 @@
         "durationFilm": "1h 59m",
         "movieDate": "2024",
         "movieReleased": "2025-05-31"
+    },
+    {
+        "idFilm": "42",
+        "titleFilm": "La rinoceronte Lulu",
+        "sinopsisFilm": "En una misión para compartir la amabilidad, Lulu, una amante de la diversión, se embarca en la aventura de su vida, impulsada por sus nuevos amigos, la valentía y canciones pegadizas.",
+        "categories": [
+            "Animación",
+            "Familia"
+        ],
+        "typeFilm": "Pelicula",
+        "punctuactionFilm": 7.5,
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1749224518/posterPathRinoceronteLulu_evj7xw.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1749224517/logoPathRinoceronteLulu_nni4ot.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1749224516/backdropPathRinoceronteLulu_xln8zj.jpg",
+        "trailerFilm": "https://youtube.com/embed/trailer",
+        "videoFilm": "https://hqq.ac/e/TS90ZTR6TFZ3M1B5MDB1bTA0OVkvZz09",
+        "durationFilm": "47m",
+        "movieDate": "2025",
+        "movieReleased": "2025-06-06"
+    },
+    {
+        "idFilm": "43",
+        "titleFilm": "La loteria del amor",
+        "sinopsisFilm": "Basada en una historia real, La lotería del amor es una comedia romántica que muestra la forma inesperada en que un boleto de lotería ganador une a un par de extraños. La camarera Yvonne se encuentra por primera vez con el oficial de policía Charlie cuando come en la cafetería donde ella trabaja. Al darse cuenta de que no tiene suficiente dinero para darle una propina, Charlie le promete a Yvonne dividir cualquier ganancia del boleto de lotería que acaba de comprar.",
+        "categories": [
+            "Drama",
+            "Comedia",
+            "Romance"
+        ],
+        "typeFilm": "Pelicula",
+        "punctuactionFilm": 6.7,
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1749224518/posterPathLoteriaAmor_u004qf.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1749224517/logoPathLoteriaAmor_ecscvv.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1749224516/backdropPathLoteriaAmor_eil8bg.jpg",
+        "trailerFilm": "https://youtube.com/embed/trailer",
+        "videoFilm": "https://hqq.ac/e/MFlBYm5QbTZTOWFWQVlpTm1LRmtxdz09",
+        "durationFilm": "1h 41m",
+        "movieDate": "1994",
+        "movieReleased": "2025-06-06"
+    },
+    {
+        "idFilm": "44",
+        "titleFilm": "Ángeles del desierto",
+        "sinopsisFilm": "Durante la retirada de Estados Unidos de Afganistán en 2021, un grupo de mujeres soldados que se hacen pasar por ayuda médica son enviadas de vuelta para rescatar a un grupo de adolescentes secuestradas entre ISIS y los talibanes.",
+        "categories": [
+            "Acción",
+            "Drama",
+            "Suspense",
+            "Bélica"
+        ],
+        "typeFilm": "Pelicula",
+        "punctuactionFilm": 6.3,
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1749224517/posterPathAngelesDelDesierto_g1al6p.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1749224516/logoPathAngelesDelDesierto_cty3av.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1749224516/backdropPathAngelesDelDesierto_t8iljq.jpg",
+        "trailerFilm": "https://youtube.com/embed/trailer",
+        "videoFilm": "https://hqq.ac/e/NmVIeFFoYUFURXhkVDlobFpucXJ3Zz09",
+        "durationFilm": "1h 44m",
+        "movieDate": "2024",
+        "movieReleased": "2025-06-06"
+    },
+    {
+        "idFilm": "45",
+        "titleFilm": "Pecadores",
+        "sinopsisFilm": "Intentando dejar atrás sus vidas problemáticas, los hermanos gemelos regresan a su pueblo natal para empezar de nuevo, solo para descubrir que un mal aún mayor los espera para darles la bienvenida.",
+        "categories": [
+            "Acción",
+            "Terror",
+            "Suspense"
+        ],
+        "typeFilm": "Pelicula",
+        "punctuactionFilm": 7.5,
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1749224518/posterPathPecadores_k98bus.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1749224517/logoPathPecadores_nqetif.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1749224516/backdropPathPecadores_ysfejg.jpg",
+        "trailerFilm": "https://youtube.com/embed/trailer",
+        "videoFilm": "https://hqq.ac/e/NHc5UEl3TEVGUUFwMG5WS1Z2TmpjUT09",
+        "durationFilm": "2h 18m",
+        "movieDate": "2025",
+        "movieReleased": "2025-06-06"
+    },
+    {
+        "idFilm": "46",
+        "titleFilm": "El contador 2",
+        "sinopsisFilm": "Cuando un viejo conocido es asesinado, Wolff se siente obligado a resolver el caso. Al darse cuenta de que se requieren medidas más extremas, Wolff recluta a su hermano distanciado y altamente letal, Brax, para ayudar. En colaboración con Marybeth Medina, descubren una conspiración mortal, convirtiéndose en objetivos de una despiadada red de asesinos que no se detendrán ante nada para mantener sus secretos enterrados.",
+        "categories": [
+            "Acción",
+            "Crimen",
+            "Suspense"
+        ],
+        "typeFilm": "Pelicula",
+        "punctuactionFilm": 7.1,
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1749224517/posterPathContador2_ec3lqy.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1749224517/logoPathContador2_xnvz2y.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1749224516/backdropPathContador2_o41omw.jpg",
+        "trailerFilm": "https://youtube.com/embed/trailer",
+        "videoFilm": "https://hqq.ac/e/b1M4YXR4UkVqa2FLdE55YVlNN3ZvUT09",
+        "durationFilm": "2h 13m",
+        "movieDate": "2025",
+        "movieReleased": "2025-06-06"
     }
 ]
