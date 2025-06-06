@@ -1,6 +1,6 @@
 [
     {
-        "idFilm": "01",
+        "idFilm": "conMenosCont",
         "titleFilm": "Con todos menos contigo",
         "sinopsisFilm": "Después de una primera cita increíble, la ardiente atracción entre ambos se enfría. Parecían la pareja perfecta, pero algo sucede y la cosa no va a más. Hasta que se reencuentran inesperadamente en una boda en Australia. Allí hacen lo que haría cualquier adulto: fingir que son una pareja.",
         "categories": [
@@ -19,7 +19,7 @@
         "movieReleased": "2025-05-20"
     },
     {
-        "idFilm": "02",
+        "idFilm": "peMinecraft",
         "titleFilm": "Una película de Minecraft",
         "sinopsisFilm": "Cuatro inadaptados se encuentran luchando con problemas ordinarios cuando de repente se ven arrastrados a través de un misterioso portal al Mundo Exterior: un extraño país de las maravillas cúbico que se nutre de la imaginación. Para volver a casa, tendrán que dominar este mundo mientras se embarcan en una búsqueda mágica con un inesperado experto artesano, Steve.",
         "categories": [
@@ -40,7 +40,7 @@
         "movieReleased": "2025-05-22"
     },
     {
-        "idFilm": "03",
+        "idFilm": "dosMetrosTi",
         "titleFilm": "A dos metros de ti ",
         "sinopsisFilm": "Will y Stella son dos adolescentes que padecen fibrosis quística y están ingresados en el hospital para tratarse. Aunque ambos tratan de refugiarse en su propio mundo, de forma inevitable acaban enamorándose. La pareja deberá luchar para mantener viva su relación, con una única regla: separarse con una distancia de alrededor de dos metros para evitar que ambos se puedan contagiar. Sin embargo, la vida de ambos estará en peligro.",
         "categories": [
@@ -59,7 +59,7 @@
         "movieReleased": "2025-05-22"
     },
     {
-        "idFilm": "04",
+        "idFilm": "liloStitchLiveAction",
         "titleFilm": "Lilo y Stitch",
         "sinopsisFilm": "La conmovedora y divertidísima historia de una solitaria niña hawaiana y el extraterrestre fugitivo que la ayuda a reparar su desestructurada familia.",
         "categories": [
@@ -79,7 +79,7 @@
         "movieReleased": "2025-05-22"
     },
     {
-        "idFilm": "05",
+        "idFilm": "sonic3",
         "titleFilm": "Sonic 3: La película",
         "sinopsisFilm": "Sonic, Knuckles y Tails se reúnen para enfrentarse a un nuevo y poderoso adversario, Shadow, un misterioso villano cuyos poderes no se parecen a nada de lo que nuestros héroes han conocido hasta ahora. Con sus facultades superadas en todos los sentidos, el Equipo Sonic tendrá que establecer una insólita alianza con la esperanza de detener a Shadow y proteger el planeta.",
         "categories": [
@@ -100,7 +100,7 @@
         "movieReleased": "2025-05-22"
     },
     {
-        "idFilm": "06",
+        "idFilm": "misionImpSentFin",
         "titleFilm": "Misión: Imposible - Sentencia final",
         "sinopsisFilm": "El agente Ethan Hunt continúa su misión de impedir que Gabriel controle el tecnológicamente omnipotente programa de IA conocido como <<Entity>>",
         "categories": [
@@ -120,7 +120,7 @@
         "movieReleased": "2025-05-23"
     },
     {
-        "idFilm": "07",
+        "idFilm": "godziMinusOne",
         "titleFilm": "Godzilla Minus One",
         "sinopsisFilm": "En el Japón de la posguerra, Godzilla trae una nueva devastación a un paisaje ya abrasado. Sin intervención militar ni ayuda gubernamental a la vista, los supervivientes deben unirse frente a la desesperación y luchar contra un horror implacable.",
         "categories": [
@@ -140,7 +140,7 @@
         "movieReleased": "2025-05-23"
     },
     {
-        "idFilm": "08",
+        "idFilm": "moana2",
         "titleFilm": "Moana 2",
         "sinopsisFilm": "Después de recibir una llamada inesperada de sus antepasados ​​navegantes, Moana viajará a los lejanos mares de Oceanía, donde vivirá una peligrosa aventura con su nueva tripulación.",
         "categories": [
@@ -161,7 +161,7 @@
         "movieReleased": "2025-05-23"
     },
     {
-        "idFilm": "09",
+        "idFilm": "flowAnim",
         "titleFilm": "Flow",
         "sinopsisFilm": "En un mundo al borde del colapso, un gato solitario pierde su hogar por una inundación y encuentra refugio en un barco con otras especies. Juntos, deberán superar diferencias y desafíos mientras navegan por un misterioso paisaje sumergido.",
         "categories": [
@@ -181,7 +181,7 @@
         "movieReleased": "2025-05-23"
     },
     {
-        "idFilm": "10",
+        "idFilm": "suckPunchMunSu",
         "titleFilm": "Sucker Punch Mundo surreal",
         "sinopsisFilm": "Ambientada en los años 50. Una chica es internada por su padrastro en una institución psiquiátrica para que le practiquen una lobotomía. Mientras espera, su imaginación crea una realidad alternativa que podría salvarla de su dramática situación. A partir de ahí, la joven comienza a preparar su fuga, cuyo éxito depende del robo de cinco objetos.",
         "categories": [
@@ -201,7 +201,7 @@
         "movieReleased": "2025-05-23"
     },
     {
-        "idFilm": "11",
+        "idFilm": "seisTripOcho",
         "titleFilm": "Seis Triple Ocho",
         "sinopsisFilm": "855 mujeres se unieron a la guerra para solucionar el retraso de tres años de correo no entregado. Enfrentadas a la discriminación y a un país devastado por la guerra, consiguieron clasificar antes de tiempo más de diecisiete millones de piezas de correo.",
         "categories": [
@@ -221,7 +221,7 @@
         "movieReleased": "2025-05-23"
     },
     {
-        "idFilm": "12",
+        "idFilm": "gladiator2",
         "titleFilm": "Gladiator II",
         "sinopsisFilm": "Dieciséis años después de la muerte de Marco Aurelio, Roma está gobernada por los despiadados emperadores gemelos Geta y Caracalla. El nieto de Aurelio, Lucio Vero, vive bajo el seudónimo de Hanno con su esposa Arishat en el reino norteafricano de Numidia. El ejército romano dirigido por el general Acacio invade y conquista el reino, esclavizando a Lucio junto con otros supervivientes. Los esclavos son llevados a Ostia, donde Lucio es comprado por el maestro de cuadra Macrinus, que le promete la oportunidad de vengarse matando a Acacio si gana suficientes combates para llegar al Coliseo.",
         "categories": [
@@ -241,7 +241,7 @@
         "movieReleased": "2025-05-23"
     },
     {
-        "idFilm": "13",
+        "idFilm": "garfieldPelicula",
         "titleFilm": "Garfield: La película",
         "sinopsisFilm": "El mundialmente famoso Garfield, el gato casero que odia los lunes y que adora la lasaña, está a punto de vivir una aventura ¡en el salvaje mundo exterior! Tras una inesperada reunión con su largamente perdido padre – el desaliñado gato callejero Vic – Garfield y su amigo canino Odie se ven forzados a abandonar sus perfectas y consentidas vidas al unirse a Vic en un hilarante y muy arriesgado atraco.",
         "categories": [
@@ -262,7 +262,7 @@
         "movieReleased": "2025-05-23"
     },
     {
-        "idFilm": "14",
+        "idFilm": "civilWar",
         "titleFilm": "Civil War",
         "sinopsisFilm": "En un futuro cercano, donde América está sumida en una cruenta guerra civil, un equipo de periodistas y fotógrafos de guerra emprenderá un viaje por carretera en dirección a Washington DC. Su misión: llegar antes de que las fuerzas rebeldes asalten la Casa Blanca y arrebaten el control al presidente de Estados Unidos.",
         "categories": [
@@ -282,7 +282,7 @@
         "movieReleased": "2025-05-23"
     },
     {
-        "idFilm": "15",
+        "idFilm": "equipajeDeMano",
         "titleFilm": "Equipaje de mano",
         "sinopsisFilm": "El día de Nochebuena, un viajero misterioso chantajea a un agente de seguridad del aeropuerto para que le deje subir un objeto peligroso al avión.",
         "categories": [
@@ -301,7 +301,7 @@
         "movieReleased": "2025-05-23"
     },
     {
-        "idFilm": "16",
+        "idFilm": "tiempoQueTenemos",
         "titleFilm": "El Tiempo Que Tenemos",
         "sinopsisFilm": "Una historia de amor eterna protagonizada por los nominados al Premio de la Academia© Florence Pugh y Andrew Garfield.",
         "categories": [
@@ -320,7 +320,7 @@
         "movieReleased": "2025-05-23"
     },
     {
-        "idFilm": "17",
+        "idFilm": "historiasCruzadas",
         "titleFilm": "Historias Cruzadas",
         "sinopsisFilm": "Mississippi, años 60. Skeeter es una joven sureña que regresa de la universidad decidida a convertirse en escritora. Su llegada altera la vida de la ciudad e incluso la de sus amigos porque se ha propuesto entrevistar a las mujeres negras que se han pasado la vida al servicio de las grandes familias sufriendo todas las formas de discriminación racial.",
         "categories": [
@@ -338,7 +338,7 @@
         "movieReleased": "2025-05-23"
     },
     {
-        "idFilm": "18",
+        "idFilm": "elGrinchAni",
         "titleFilm": "El Grinch",
         "sinopsisFilm": "Basada en el amado clásico del Dr. Seuss. El Grinch cuenta la historia de un cínico gruñón que va en una misión para robarse la Navidad, sólo para descubrir que su corazón ha cambiado gracias al generoso espíritu de una pequeña niña. Divertida, conmovedora y visualmente impresionante, ¡El Grinch es diversión para toda la familia!",
         "categories": [
@@ -359,7 +359,7 @@
         "movieReleased": "2025-05-23"
     },
     {
-        "idFilm": "19",
+        "idFilm": "elGrinch",
         "titleFilm": "El Grinch",
         "sinopsisFilm": "Dentro de un copo de nieve existe la tierra mágica de Villa Quien. En Villa Quien, viven los Quienes, que aman la Navidad, pero justo fuera de su querida villa quien vive el Grinch. El Grinch es una criatura desagradable que odia la Navidad, y trama robarla de los Quien, a quienes igualmente aborrece. Sin embargo, una niña pequeña, Cindy Lou Quien, decide intentar hacer amistad con el Grinch.",
         "categories": [
@@ -379,7 +379,7 @@
         "movieReleased": "2025-05-23"
     },
     {
-        "idFilm": "20",
+        "idFilm": "VenomUltimoBaile",
         "titleFilm": "Venom: El último baile",
         "sinopsisFilm": "Eddie y Venom están huyendo. Perseguidos por sus dos mundos, el dúo se ve obligado a tomar una decisión devastadora que bajará el telón en un último baile entre Venom y Eddie.",
         "categories": [
@@ -399,7 +399,7 @@
         "movieReleased": "2025-05-23"
     },
     {
-        "idFilm": "21",
+        "idFilm": "aliceSubser",
         "titleFilm": "Alice (Subservience)",
         "sinopsisFilm": "Con su mujer en el hospital, un padre en apuros compra una Inteligencia Artificial para ayudarle en las tareas de casa. Pero a medida que la robot se encariña de su nuevo dueño, los límites empiezan a cruzarse. Pronto ella se empeña en eliminar lo que percibe como la verdadera amenaza para su felicidad: su familia.",
         "categories": [
@@ -419,7 +419,7 @@
         "movieReleased": "2025-05-23"
     },
     {
-        "idFilm": "22",
+        "idFilm": "robotSalvaje",
         "titleFilm": "Robot salvaje",
         "sinopsisFilm": "Un robot - ROZZUM unidad 7134, <<Roz>> para abreviar - naufraga en una isla deshabitada y debe aprender a adaptarse al duro entorno, estableciendo gradualmente relaciones con los animales de la isla y convirtiéndose en la madre adoptiva de un ganso huérfano.",
         "categories": [
@@ -439,7 +439,7 @@
         "movieReleased": "2025-05-23"
     },
     {
-        "idFilm": "23",
+        "idFilm": "smile2",
         "titleFilm": "Smile 2",
         "sinopsisFilm": "La estrella del pop mundial Skye Riley está a punto de embarcarse en una nueva gira mundial cuando empieza a experimentar una serie de sucesos cada vez más aterradores e inexplicables. Angustiada por la espiral de horrores y la abrumadora presión de la fama, Skye tendrá que enfrentarse a su oscuro pasado para recuperar el control de su vida antes de que sea demasiado tarde. ",
         "categories": [
@@ -458,7 +458,7 @@
         "movieReleased": "2025-05-23"
     },
     {
-        "idFilm": "24",
+        "idFilm": "terrifier3",
         "titleFilm": "Terrifier 3",
         "sinopsisFilm": "El payaso Art desata el caos entre los desprevenidos habitantes del condado de Miles mientras duermen plácidamente en Nochebuena. Tras sobrevivir a la masacre de Halloween perpetrada por el peor asesino en serie desde Jack el Destripador, Sienna y su hermano se esfuerzan por reconstruir sus vidas destrozadas. A medida que se acercan las fiestas de Navidad, intentan abrazar el espíritu navideño y dejar atrás los horrores del pasado. Pero justo cuando creen que están a salvo, el payaso Art regresa, decidido a convertir su alegría navideña en una nueva pesadilla. La temporada festiva se desmorona rápidamente mientras el payaso Art desata su retorcido terror marca de la casa, demostrando que ninguna festividad es segura.",
         "categories": [
@@ -477,7 +477,7 @@
         "movieReleased": "2025-05-31"
     },
     {
-        "idFilm": "25",
+        "idFilm": "joker2",
         "titleFilm": "Joker 2: Folie à Deux",
         "sinopsisFilm": "El fracasado comediante Arthur Fleck conoce al amor de su vida, Harley Quinn, mientras está encarcelado en el Hospital Estatal de Arkham. Tras su liberación, los dos se embarcan en una desventura romántica condenada al fracaso.",
         "categories": [
@@ -497,7 +497,7 @@
         "movieReleased": "2025-05-31"
     },
     {
-        "idFilm": "26",
+        "idFilm": "transforUno",
         "titleFilm": "Transformer Uno",
         "sinopsisFilm": "El fracasado comediante Arthur Fleck conoce al amor de su vida, Harley Quinn, mientras está encarcelado en el Hospital Estatal de Arkham. Tras su liberación, los dos se embarcan en una desventura romántica condenada al fracaso.",
         "categories": [
@@ -518,7 +518,7 @@
         "movieReleased": "2025-05-31"
     },
     {
-        "idFilm": "27",
+        "idFilm": "horrorland",
         "titleFilm": "Horrorland",
         "sinopsisFilm": "Fiona, la encargada de un parque, debe ocuparse de unos antiguos amigos de la escuela secundaria quienes han ganado una visita previa exclusiva de Halloween en el parque de atracciones, una noche entera, para ellos solos. Algodón de azúcar, palomitas de maíz y tiovivos se suceden unos detrás de otros, pero la diversión se convierte rápidamente en una auténtica pesadilla cuando se dan cuenta de que no están solos en el parque. Todos sus pecados del pasado vuelven cuando se dan cuenta de que solo haciéndoles frente podrán sobrevivir.",
         "categories": [
@@ -536,7 +536,7 @@
         "movieReleased": "2025-05-31"
     },
     {
-        "idFilm": "28",
+        "idFilm": "elConjuro",
         "titleFilm": "El Conjuro",
         "sinopsisFilm": "Una familia aterrorizada pide ayuda a los investigadores paranormales Ed y Lorraine Warren a investigar una presencia oscura en su granja. Al ser obligados a enfrentarse a una entidad poderosa, los Warren se ven atrapados en el caso más aterrador de sus vidas.",
         "categories": [
@@ -555,7 +555,7 @@
         "movieReleased": "2025-05-31"
     },
     {
-        "idFilm": "29",
+        "idFilm": "intensamente2",
         "titleFilm": "IntensaMente 2",
         "sinopsisFilm": "Riley, ahora adolescente, enfrenta una reforma en la Central de sus emociones. Alegría, Tristeza, Ira, Miedo y Asco deben adaptarse a la llegada de nuevas emociones: Ansiedad, Vergüenza, Envidia y Ennui.",
         "categories": [
@@ -576,7 +576,7 @@
         "movieReleased": "2025-05-31"
     },
     {
-        "idFilm": "30",
+        "idFilm": "jackCajaMaldita3",
         "titleFilm": "Jack en la caja maldita 3: El Ascenso",
         "sinopsisFilm": "Cuando una adolescente estadounidense accede a un internado femenino del Reino Unido, sus compañeras no tardan en darse cuenta de que ha ido a buscar una misteriosa caja de juguetes escondida en el patio del colegio. Tras encontrarla y abrirla, seis alumnos se lanzan a una lucha por la supervivencia contra un demonio que escapa de su interior. ¿Lograrán salir con vida de la escuela, o el demonio cobrará las víctimas que necesita para seguir vivo?",
         "categories": [
@@ -594,7 +594,7 @@
         "movieReleased": "2025-05-31"
     },
     {
-        "idFilm": "31",
+        "idFilm": "elAsesinoJuegoCitas",
         "titleFilm": "El asesino del juego de citas",
         "sinopsisFilm": "Los Ángeles, 1978. Una aspirante a actriz (Anna Kendrick) se cruza con el asesino en serie Rodney Alcala (Daniel Zovatto) en el plató del popular concurso de televisión 'The Dating Game'. Debut en la dirección cinematográfica de Anna Kendrick, basado en hechos reales.",
         "categories": [
@@ -614,7 +614,7 @@
         "movieReleased": "2025-05-31"
     },
     {
-        "idFilm": "32",
+        "idFilm": "sismo9.5",
         "titleFilm": "Sismo magnitud 9.5",
         "sinopsisFilm": "Un repentino terremoto sacudió todo el parque químico en el condado de Gucheng, con fugas en las tuberías que provocaron constantes explosiones. El desastre se intensifica rápidamente y si se permite que se propague, toda la ciudad pronto será arrasada. Con la tarea de apagar el incendio, un grupo de hombres conducen desde la estación de bomberos hasta el lugar y así comienza una carrera contra el tiempo para proteger y salvar vidas.",
         "categories": [
@@ -633,7 +633,7 @@
         "movieReleased": "2025-05-31"
     },
     {
-        "idFilm": "33",
+        "idFilm": "eternoResplandoMenteSinRecuerdos",
         "titleFilm": "Eterno resplandor de una mente sin recuerdos",
         "sinopsisFilm": "Cuando descubre que su novia, Clementine, ha hecho que borren de su memoria todos los recuerdos de su tormentosa relación, Joel Barish se pone en contacto con el creador del proceso para que borre a Clementine de su memoria.",
         "categories": [
@@ -653,7 +653,7 @@
         "movieReleased": "2025-05-31"
     },
     {
-        "idFilm": "34",
+        "idFilm": "sing2",
         "titleFilm": "Sing 2: ¡Ven y Canta de Nuevo!",
         "sinopsisFilm": "Buster Moon y su elenco de animales artistas se preparan para lanzar un deslumbrante espectáculo escénico en la capital mundial del entretenimiento. Solo hay un problema: debe convencer a la estrella de rock más solitaria del mundo de unirse a ellos.",
         "categories": [
@@ -674,7 +674,7 @@
         "movieReleased": "2025-05-31"
     },
     {
-        "idFilm": "35",
+        "idFilm": "singVenCanta",
         "titleFilm": "Sing: ¡Ven y canta!",
         "sinopsisFilm": "En una ciudad de animales humanoides, el intento de un empresario de teatro de salvar su teatro con un concurso de canto se convierte en algo más grande de lo que prevé, incluso cuando sus finalistas descubren que sus vidas nunca serán las mismas.",
         "categories": [
@@ -695,7 +695,7 @@
         "movieReleased": "2025-05-31"
     },
     {
-        "idFilm": "35",
+        "idFilm": "napoleon",
         "titleFilm": "Napoleón",
         "sinopsisFilm": "Una mirada personal a los orígenes del líder militar francés y su rápido y despiadado ascenso a emperador. La historia se ve a través de la lente de la relación adictiva y volátil de Napoleón Bonaparte con su esposa y único amor verdadero, Josefina.",
         "categories": [
@@ -715,7 +715,7 @@
         "movieReleased": "2025-05-31"
     },
     {
-        "idFilm": "36",
+        "idFilm": "vivo",
         "titleFilm": "#Vivo",
         "sinopsisFilm": "La rápida propagación de una infección desconocida ha dejado a toda una ciudad en un caos ingobernable, pero un sobreviviente sigue vivo aislado. Esta es su historia.",
         "categories": [
@@ -734,7 +734,7 @@
         "movieReleased": "2025-05-31"
     },
     {
-        "idFilm": "37",
+        "idFilm": "terrifier1",
         "titleFilm": "Terrifier",
         "sinopsisFilm": "El payaso psicópata Art, aterroriza a dos chicas durante la noche de Halloween, matando a todos aquellos que se interponen en su camino.",
         "categories": [
@@ -753,7 +753,7 @@
         "movieReleased": "2025-05-31"
     },
     {
-        "idFilm": "38",
+        "idFilm": "terrifier2",
         "titleFilm": "Terrifier 2: El Payaso Siniestro",
         "sinopsisFilm": "Después de ser resucitado por una entidad siniestra, Art the Clown regresa al condado de Miles, donde debe cazar y destruir a una adolescente y a su hermano menor en la noche de Halloween.",
         "categories": [
@@ -772,7 +772,7 @@
         "movieReleased": "2025-05-31"
     },
     {
-        "idFilm": "39",
+        "idFilm": "laSustancia",
         "titleFilm": "La sustancia",
         "sinopsisFilm": "Elisabeth Sparkle, una celebridad en decadencia, decide usar una droga del mercado negro que replica células y crea temporalmente una versión más joven y mejor de ella misma.",
         "categories": [
@@ -791,7 +791,7 @@
         "movieReleased": "2025-05-31"
     },
     {
-        "idFilm": "40",
+        "idFilm": "deadpoolWolverine",
         "titleFilm": "Deadpool & Wolverine",
         "sinopsisFilm": "Un Wade Wilson apático se esfuerza en la vida civil. Sus días como el mercenario moralmente flexible Deadpool quedaron atrás. Cuando su mundo natal se enfrenta a una amenaza existencial, Wade debe, a regañadientes, volver a la acción junto a un reacio Wolverine.",
         "categories": [
@@ -811,7 +811,7 @@
         "movieReleased": "2025-05-31"
     },
     {
-        "idFilm": "41",
+        "idFilm": "alienRomulus",
         "titleFilm": "Alien: Romulus",
         "sinopsisFilm": "Mientras rebuscan en las profundidades de una estación espacial abandonada, un grupo de jóvenes colonizadores del espacio se encuentra cara a cara con la forma de vida más aterradora del universo. Nueva película de la saga Alien.",
         "categories": [
@@ -830,7 +830,7 @@
         "movieReleased": "2025-05-31"
     },
     {
-        "idFilm": "42",
+        "idFilm": "laRinoLulu",
         "titleFilm": "La rinoceronte Lulu",
         "sinopsisFilm": "En una misión para compartir la amabilidad, Lulu, una amante de la diversión, se embarca en la aventura de su vida, impulsada por sus nuevos amigos, la valentía y canciones pegadizas.",
         "categories": [
@@ -849,7 +849,7 @@
         "movieReleased": "2025-06-06"
     },
     {
-        "idFilm": "43",
+        "idFilm": "laLoteriaAmor",
         "titleFilm": "La loteria del amor",
         "sinopsisFilm": "Basada en una historia real, La lotería del amor es una comedia romántica que muestra la forma inesperada en que un boleto de lotería ganador une a un par de extraños. La camarera Yvonne se encuentra por primera vez con el oficial de policía Charlie cuando come en la cafetería donde ella trabaja. Al darse cuenta de que no tiene suficiente dinero para darle una propina, Charlie le promete a Yvonne dividir cualquier ganancia del boleto de lotería que acaba de comprar.",
         "categories": [
@@ -869,7 +869,7 @@
         "movieReleased": "2025-06-06"
     },
     {
-        "idFilm": "44",
+        "idFilm": "angelesDesierto",
         "titleFilm": "Ángeles del desierto",
         "sinopsisFilm": "Durante la retirada de Estados Unidos de Afganistán en 2021, un grupo de mujeres soldados que se hacen pasar por ayuda médica son enviadas de vuelta para rescatar a un grupo de adolescentes secuestradas entre ISIS y los talibanes.",
         "categories": [
@@ -890,7 +890,7 @@
         "movieReleased": "2025-06-06"
     },
     {
-        "idFilm": "45",
+        "idFilm": "pecadores",
         "titleFilm": "Pecadores",
         "sinopsisFilm": "Intentando dejar atrás sus vidas problemáticas, los hermanos gemelos regresan a su pueblo natal para empezar de nuevo, solo para descubrir que un mal aún mayor los espera para darles la bienvenida.",
         "categories": [
@@ -910,7 +910,7 @@
         "movieReleased": "2025-06-06"
     },
     {
-        "idFilm": "46",
+        "idFilm": "contador2",
         "titleFilm": "El contador 2",
         "sinopsisFilm": "Cuando un viejo conocido es asesinado, Wolff se siente obligado a resolver el caso. Al darse cuenta de que se requieren medidas más extremas, Wolff recluta a su hermano distanciado y altamente letal, Brax, para ayudar. En colaboración con Marybeth Medina, descubren una conspiración mortal, convirtiéndose en objetivos de una despiadada red de asesinos que no se detendrán ante nada para mantener sus secretos enterrados.",
         "categories": [
