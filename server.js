@@ -17,9 +17,14 @@ const s3 = new S3Client({
     },
 });
 
+app.get('/ping', async(req, res) => {
+    res.status(200).send('pong');
+}
+
 app.get('/video', async (req, res) => {
     const key = req.query.key;
     //key = 'Comando.1985.1080p.mp4'
+
     if (!key) return res.status(400).json({ error: 'Key is required' });
 
     const command = new GetObjectCommand({
