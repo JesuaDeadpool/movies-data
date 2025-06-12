@@ -10,6 +10,7 @@ app.use(cors());
 const s3 = new S3Client({
     region: process.env.REGION,
     endpoint: process.env.S3_WASABI_ENDPOINT, // tu endpoint Wasabi
+    forcePathStyle: true, 
     credentials: {
         accessKeyId: process.env.S3_ACCESS_KEY_ID,
         secretAccessKey: process.env.S3_SECRET_ACCESS_KEY_ID,
