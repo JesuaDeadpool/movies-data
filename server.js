@@ -10,21 +10,20 @@ app.use(cors());
 const s3 = new S3Client({
     region: process.env.REGION,
     endpoint: process.env.S3_WASABI_ENDPOINT, // tu endpoint Wasabi
-    forcePathStyle: true, 
+    forcePathStyle: true,
     credentials: {
         accessKeyId: process.env.S3_ACCESS_KEY_ID,
         secretAccessKey: process.env.S3_SECRET_ACCESS_KEY_ID,
     },
 });
 
-app.get('/ping', async(req, res) => {
+app.get('/ping', async (req, res) => {
     res.status(200).send('pong');
-}
+});
 
 app.get('/video', async (req, res) => {
     const key = req.query.key;
     //key = 'Comando.1985.1080p.mp4'
-
     if (!key) return res.status(400).json({ error: 'Key is required' });
 
     const command = new GetObjectCommand({
@@ -43,9 +42,7 @@ app.get('/video', async (req, res) => {
 
 const PORT = process.env.PORT || 3000;
 app.listen(PORT, () => {
-  const isRender = process.env.RENDER === 'true';
 
-console.log(
-  `✅ Servidor funcionando en ${isRender ? 'Render' : 'localhost'}:${PORT}`
-);
+    const isRender = process.env.RENDER == 'true';
+    console.log(`✅ Servidor funcionando en ${isRender ? 'Render' : 'localhost'}:${PORT}`);
 });
