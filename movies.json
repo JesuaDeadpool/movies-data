@@ -393,7 +393,7 @@
         "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748056920/logoPathVenomUltimoBaile_lxh08w.png",
         "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748056919/backdropPathVenomUltimoBaile_skmmh9.jpg",
         "trailerFilm": "https://youtube.com/embed/trailer",
-        "videoFilm": "Pecadores+(2025).mp4",
+        "videoFilm": "movies/Venom+The+Last+Dance.2024.5.1+WEBDL+LIGERA.mp4",
         "durationFilm": "1h 49m",
         "movieDate": "2024",
         "movieReleased": "2025-05-23"
@@ -413,7 +413,7 @@
         "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748056919/logoPathAlice_f3pzep.png",
         "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748056919/backdropPathAlice_khqkrf.jpg",
         "trailerFilm": "https://youtube.com/embed/trailer",
-        "videoFilm": "Pecadores+(2025).mp4",
+        "videoFilm": "movies/Subservience.2024.5.1+WEBDL+LIGERA.mp4",
         "durationFilm": "1h 45m",
         "movieDate": "2024",
         "movieReleased": "2025-05-23"
@@ -452,7 +452,7 @@
         "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748058094/logoPathSmile2_hfcgog.png",
         "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748058094/backdropPathSmil2_so1wsj.jpg",
         "trailerFilm": "https://youtube.com/embed/trailer",
-        "videoFilm": "Pecadores+(2025).mp4",
+        "videoFilm": "movies/Sonríe+2+(2024).mp4",
         "durationFilm": "2h 12m",
         "movieDate": "2024",
         "movieReleased": "2025-05-23"
@@ -668,7 +668,7 @@
         "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748751719/logoPathSing2_n7vr35.png",
         "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748751721/backdropPathSing2_hrheq7.jpg",
         "trailerFilm": "https://youtube.com/embed/trailer",
-        "videoFilm": "Comando.1985.1080p.mp4",
+        "videoFilm": "movies/Sing.2.Ven.y.canta.de.nuevo.2021.720p-dual-lat.mp4",
         "durationFilm": "1h 50m",
         "movieDate": "2021",
         "movieReleased": "2025-05-31"
@@ -928,5 +928,66 @@
         "durationFilm": "2h 13m",
         "movieDate": "2025",
         "movieReleased": "2025-06-06"
+    },
+    {
+        "idFilm": "libroDeLaVida",
+        "titleFilm": "El Libro de la Vida",
+        "sinopsisFilm": "La película cuenta el viaje de Manolo, un joven torero que se debate entre cumplir con las expectativas de su familia o seguir su corazón y dedicarse a su verdadera pasión: la música. Antes de escoger el camino que seguirá, emprende una aventura recorriendo tres mundos fantásticos, donde tendrá que superar sus peores miedos.",
+        "categories": [
+            "Fantasía",
+            "Comedia",
+            "Familia",
+            "Aventura",
+            "Animación"
+        ],
+        "typeFilm": "Pelicula",
+        "punctuactionFilm": 7.5,
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1749840849/posterPathElLibroDeLaVida_bbb395.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1749840846/logoElLibroDeLaVida_fmkhle.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1749840851/backdropPathElLibroDeLaVida_ukglkt.jpg",
+        "trailerFilm": "https://youtube.com/embed/trailer",
+        "videoFilm": "movies/THE+BOOK+OF+LIFE.mp4",
+        "durationFilm": "2h 13m",
+        "movieDate": "2014",
+        "movieReleased": "2025-06-13"
+    },
+    {
+        "idFilm": "elAmateurMisionVeng",
+        "titleFilm": "El amateur: Operación venzganza",
+        "sinopsisFilm": "Charlie Heller es un brillante pero introvertido decodificador de la CIA que trabaja en una oficina en el sótano de la sede de Langley. Su vida cambia radicalmente cuando su esposa muere en un ataque terrorista en Londres. Cuando sus supervisores se niegan a tomar cartas en el asunto, él mismo toma las riendas y se embarca en un peligroso viaje por todo el mundo para localizar a los responsables. Su inteligencia puede ser el arma definitiva para llevar a cabo su venganza.",
+        "categories": [
+            "Acción",
+            "Suspense"
+        ],
+        "typeFilm": "Pelicula",
+        "punctuactionFilm": 6.5,
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1749840847/posterPathElAmateur_fd4fzs.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1749840845/logoPathElAmateur_nz1nam.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1749840847/backdropPathElAmateur_nr1fo6.jpg",
+        "trailerFilm": "https://youtube.com/embed/trailer",
+        "videoFilm": "movies/ElamateurOperacionvenganza(2025).mp4",
+        "durationFilm": "2h 13m",
+        "movieDate": "2025",
+        "movieReleased": "2025-06-13"
+    },
+    {
+        "idFilm": "elViajeChihiro",
+        "titleFilm": "El viaje de Chihiro ",
+        "sinopsisFilm": "Durante la mudanza de su familia a los suburbios, una huraña niña de 10 años de edad deambula por un mundo gobernado por dioses, brujas y espíritus, y donde los humanos se convierten en bestias.",
+        "categories": [
+            "Animación",
+            "Fantasía",
+            "Familia"
+        ],
+        "typeFilm": "Pelicula",
+        "punctuactionFilm": 8.5,
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1749841706/posterPathElViajeDeChihiro_rcnd3z.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1749841705/logoElViajeDeChihiro_bfspyp.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1749841706/backdropPathElViajeDeChihiro_wokv8u.jpg",
+        "trailerFilm": "https://youtube.com/embed/trailer",
+        "videoFilm": "movies/ElamateurOperacionvenganza(2025).mp4",
+        "durationFilm": "2h 13m",
+        "movieDate": "2001",
+        "movieReleased": "2025-06-13"
     }
 ]
