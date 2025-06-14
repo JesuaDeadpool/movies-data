@@ -989,5 +989,61 @@
         "durationFilm": "2h 13m",
         "movieDate": "2001",
         "movieReleased": "2025-06-13"
+    },
+    {
+        "idFilm": "goodBoy",
+        "titleFilm": "BUEN CHICO",
+        "sinopsisFilm": "Tras 11 años, la Policía vuelve a reclutar exatletas nacionales. Antes eran héroes; ahora estos medallistas de primer nivel enfrentan duras realidades. Pese a problemas financieros, tragedias inesperadas y discriminación dentro de la Policía, los atletas, con historias únicas, forman un equipo especial para afrontar delitos graves con el valor y las habilidades que perfeccionaron como atletas.",
+        "categories": [
+            "Drama",
+            "Crimen",
+            "Comedia",
+            "Action & Adventure"
+        ],
+        "typeFilm": "Dorama",
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1749866077/posterPathGoodBoy_a4i3gk.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1749866077/logoPathGoodBoy_e0rigi.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1749866077/backdropPathGoodBoy_hxggyx.jpg",
+        "trailerFilm": "https://youtube.com/embed/trailerST",
+        "videoFilm": "",
+        "punctuactionFilm": 8.2,
+        "durationFilm": "1h",
+        "movieDate": "2016-07-15",
+        "movieReleased": "2025-06-13",
+        "filmSeason": [
+            {
+                "seasonNumber": 1,
+                "episodes": [
+                    {
+                        "episodeNumber": 1,
+                        "titleEpisode": "Capítulo Uno: La desaparición de Will Byers",
+                        "backdropEpisode": "https://ejemplo.com/ep1.jpg",
+                        "sinopsisEpisode": "Will desaparece en circunstancias extrañas.",
+                        "videoEpisode": "doramas/good-boy/goodBoy1x1"
+                    },
+                    {
+                        "episodeNumber": 2,
+                        "titleEpisode": "Capítulo Dos: La chica rara",
+                        "backdropEpisode": "https://ejemplo.com/ep2.jpg",
+                        "sinopsisEpisode": "Los amigos de Will conocen a Eleven.",
+                        "videoEpisode": "doramas/good-boy/goodBoy1x2"
+                    },
+                    {
+                        "episodeNumber": 3,
+                        "titleEpisode": "Capítulo Dos: La chica rara",
+                        "backdropEpisode": "https://ejemplo.com/ep2.jpg",
+                        "sinopsisEpisode": "Los amigos de Will conocen a Eleven.",
+                        "videoEpisode": "doramas/good-boy/goodBoy1x3"
+                    },
+                    {
+                        "episodeNumber": 4,
+                        "titleEpisode": "Capítulo Dos: La chica rara",
+                        "backdropEpisode": "https://ejemplo.com/ep2.jpg",
+                        "sinopsisEpisode": "Los amigos de Will conocen a Eleven.",
+                        "videoEpisode": "doramas/good-boy/goodBoy1x4"
+                    }
+                ]
+            }
+        ]
     }
 ]
