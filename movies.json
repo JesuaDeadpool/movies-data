@@ -1017,28 +1017,28 @@
                     {
                         "episodeNumber": 1,
                         "titleEpisode": "Capítulo Uno: La desaparición de Will Byers",
-                        "backdropEpisode": "https://ejemplo.com/ep1.jpg",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1749866077/backdropPathGoodBoy_hxggyx.jpg",
                         "sinopsisEpisode": "Will desaparece en circunstancias extrañas.",
                         "videoEpisode": "doramas/good-boy/goodBoy1x1"
                     },
                     {
                         "episodeNumber": 2,
                         "titleEpisode": "Capítulo Dos: La chica rara",
-                        "backdropEpisode": "https://ejemplo.com/ep2.jpg",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1749866077/backdropPathGoodBoy_hxggyx.jpg",
                         "sinopsisEpisode": "Los amigos de Will conocen a Eleven.",
                         "videoEpisode": "doramas/good-boy/goodBoy1x2"
                     },
                     {
                         "episodeNumber": 3,
                         "titleEpisode": "Capítulo Dos: La chica rara",
-                        "backdropEpisode": "https://ejemplo.com/ep2.jpg",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1749866077/backdropPathGoodBoy_hxggyx.jpg",
                         "sinopsisEpisode": "Los amigos de Will conocen a Eleven.",
                         "videoEpisode": "doramas/good-boy/goodBoy1x3"
                     },
                     {
                         "episodeNumber": 4,
                         "titleEpisode": "Capítulo Dos: La chica rara",
-                        "backdropEpisode": "https://ejemplo.com/ep2.jpg",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1749866077/backdropPathGoodBoy_hxggyx.jpg",
                         "sinopsisEpisode": "Los amigos de Will conocen a Eleven.",
                         "videoEpisode": "doramas/good-boy/goodBoy1x4"
                     }
