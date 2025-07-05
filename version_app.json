@@ -1,5 +1,6 @@
 {
     "latest_version": "0.1.0",
     "force_update": true,
-    "update_url": "https://pelistreaming.netlify.app/app-pelistreaming/pelistreaming.apk"
+    "update_url": "https://pelistreaming.netlify.app/app-pelistreaming/pelistreaming.apk",
+    "changelog": "✔ Mejoras en rendimiento\n Corrección de errores\n🎬 Nuevo diseño para películas"
 }
