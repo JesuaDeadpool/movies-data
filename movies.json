@@ -1171,6 +1171,67 @@
         ]
     },
     {
+        "idFilm": "chespiritoSinQuererQueriendo",
+        "titleFilm": "Chespirito: Sin querer queriendo ",
+        "sinopsisFilm": "Desde su infancia hasta su consagración en las décadas de los 50 a los 80, sigue la vida y carrera del actor, comediante y productor mexicano Roberto Gómez Bolaños, conocido por ser el creador de El Chavo del 8, El Chapulín Colorado y Chespirito.",
+        "categories": [
+            "Drama",
+            "Comedia"
+        ],
+        "typeFilm": "Serie",
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1751769869/posterPathChespiritoSQQ_wbcvuy.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1751769868/logoPathChespiritoSQQ_dtasnd.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1751769869/backdropPathChespiritoSQQ_vicn6y.jpg",
+        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1751770207/trailerChespirito_pw4o6x.mp4",
+        "videoFilm": "",
+        "punctuactionFilm": 8.0,
+        "durationFilm": "45 min",
+        "movieDate": "2025",
+        "movieReleased": "2025-07-05",
+        "filmSeason": [
+            {
+                "seasonNumber": 1,
+                "episodes": [
+                    {
+                        "episodeNumber": 1,
+                        "titleEpisode": "Zapatero a Tus Zapatos",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1751769870/backdropPathChesipiritoSQQ1x1_lpwaet.jpg",
+                        "sinopsisEpisode": "Desde chico, Roberto siempre ha tenido un fuerte anhelo de hacer reír. Así que, desafiando los deseos de su madre, él renuncia a su trabajo para probar suerte en la comedia... y el amor. Pero su talento genera tanto admiración como envidia.",
+                        "videoEpisode": "series/chespirito/CHSPRTNTRLYNPRPS27VQ1X1.mp4"
+                    },
+                    {
+                        "episodeNumber": 2,
+                        "titleEpisode": "No Hay Mal Que por Bien No Venga",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1751769870/backdropPathChesipiritoSQQ1x2_ezi2kn.jpg",
+                        "sinopsisEpisode": "Cansado de las humillaciones y luchas de ego de sus colegas, Roberto, ahora conocido como Chespirito, decide probar suerte en otra empresa. En el Canal 8, a pesar de algunos reveses, logra armar un sketch exitoso: El Doctor Chapatín.",
+                        "videoEpisode": "series/chespirito/CHSPRTNTRLYNPRPS27VQ1X2.mp4"
+                    },
+                    {
+                        "episodeNumber": 3,
+                        "titleEpisode": "Que No Panda el Cúnico",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1751769872/backdropPathChesipiritoSQQ1x3_ctb7an.jpg",
+                        "sinopsisEpisode": "La renuncia al Doctor Chapatín pone en riesgo la carrera de Roberto, por lo que debe crear un nuevo personaje antes de que los ejecutivos le den su lugar a otro comediante. Pero serán su astucia y una vieja ideas las que salvarán el día.",
+                        "videoEpisode": "series/chespirito/CHSPRTNTRLYNPRPS27VQ1X3.mp4"
+                    },
+                    {
+                        "episodeNumber": 4,
+                        "titleEpisode": "Es Que No Me Tienen Paciencia",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1751769870/backdropPathChesipiritoSQQ1x4_vioc1i.jpg",
+                        "sinopsisEpisode": "Roberto ahora debe probar que es capaz de crear nuevos personajes exitosos. Un cotidiano momento familiar y un tierno recuerdo de la infancia lo inspirar a crear El Chavo, el protagonista de un universo prometedor que sorprenderá a todos.",
+                        "videoEpisode": "series/chespirito/CHSPRTNTRLYNPRPS27VQ1X4.mp4"
+                    },
+                    {
+                        "episodeNumber": 5,
+                        "titleEpisode": "El que ríe último…",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1751769870/backdropPathChesipiritoSQQ1x5_tz6r3y.jpg",
+                        "sinopsisEpisode": "A medida que El Chavo gana popularidad y Roberto obtiene mayor libertad creativa, los competidores de Canal 8 compiten por fichar a Chespirito. Mientras tanto, el éxito y la fama causan problemas a Roberto, su equipo y su familia, lo que da lugar a la época más prolífica y devastadora del cómico.",
+                        "videoEpisode": "series/chespirito/CHSPRTNTRLYNPRPS27VQ1X5.mp4"
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "idFilm": "goodBoy",
         "titleFilm": "BUEN CHICO",
         "sinopsisFilm": "Tras 11 años, la Policía vuelve a reclutar exatletas nacionales. Antes eran héroes; ahora estos medallistas de primer nivel enfrentan duras realidades. Pese a problemas financieros, tragedias inesperadas y discriminación dentro de la Policía, los atletas, con historias únicas, forman un equipo especial para afrontar delitos graves con el valor y las habilidades que perfeccionaron como atletas.",
