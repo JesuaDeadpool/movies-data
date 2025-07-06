@@ -94,7 +94,7 @@
         "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1747976408/fNDT6usE6CKLv1gdRv5qrH24jmh_hnxj7c.png",
         "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1747976594/viPT9eOj4hm8skf3m7s09q40mel_uikjcl.jpg",
         "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1751653216/trailerSonic3_itafa0.mp4",
-        "videoFilm": "Pecadores+(2025).mp4",
+        "videoFilm": "movies/Sonic3.mp4",
         "durationFilm": "1h 50m",
         "movieDate": "2024",
         "movieReleased": "2025-05-22"
@@ -353,7 +353,7 @@
         "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748056795/logoPathElGrinchA_dyijqo.png",
         "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748056792/backdropPathElGrinchA_klprdk.jpg",
         "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1751653105/trailerGrinchAni_bd4nf7.mp4",
-        "videoFilm": "Pecadores+(2025).mp4",
+        "videoFilm": "movies/ElGrinchAnim.mp4",
         "durationFilm": "1h 25m",
         "movieDate": "2018",
         "movieReleased": "2025-05-23"
@@ -512,7 +512,7 @@
         "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748751480/logoPathTransformersUno_xzpjl8.png",
         "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748751479/backdropPathTransformersUno_yvh5qi.jpg",
         "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1748564943/TrailerLiloStitch_ji89qc.mp4",
-        "videoFilm": "Pecadores+(2025).mp4",
+        "videoFilm": "movies/TransformersOne.mp4",
         "durationFilm": "1h 44m",
         "movieDate": "2024",
         "movieReleased": "2025-05-31"
@@ -747,7 +747,7 @@
         "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748752876/logoPathTerrifier_hn8tgm.png",
         "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748751721/backdropPathTerrifier_emax91.jpg",
         "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1748564943/TrailerLiloStitch_ji89qc.mp4",
-        "videoFilm": "Comando.1985.1080p.mp4",
+        "videoFilm": "movies/Terrifier.mp4",
         "durationFilm": "1h 24m",
         "movieDate": "2018",
         "movieReleased": "2025-05-31"
@@ -785,7 +785,7 @@
         "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748752016/logoPathSustancia_pmnq2i.png",
         "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748752012/backdropPathSustancia_i1tahg.jpg",
         "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1748564943/TrailerLiloStitch_ji89qc.mp4",
-        "videoFilm": "Comando.1985.1080p.mp4",
+        "videoFilm": "movies/LaSustancia.mp4",
         "durationFilm": "2h 20m",
         "movieDate": "2024",
         "movieReleased": "2025-05-31"
@@ -1005,10 +1005,88 @@
         "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1751563676/logoPathBailerina_kqsyls.png",
         "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1751563672/backdropPathBailarina_imk5ui.jpg",
         "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1751563170/BallerinaTrailer_cae2z3.mp4",
-        "videoFilm": "movies/El.viaje.de.Chihiro.2001.1080p-dual-lat.mp4",
+        "videoFilm": "movies/Bailerina.mp4",
         "durationFilm": "2h 5m",
         "movieDate": "2025",
         "movieReleased": "2025-07-03"
+    },
+    {
+        "idFilm": "laNiniaDeMisOjos",
+        "titleFilm": "La niña de mis ojos",
+        "sinopsisFilm": "Jin-woo y sus amigos atraviesan los altibajos de la adolescencia. Sin embargo, todos comparten una fascinación por Seon-ah, la elegante y hermosa estudiante modelo que parece un sueño inalcanzable, a pesar de estar en la misma clase.",
+        "categories": [
+            "Romance",
+            "Drama",
+            "Comedia"
+        ],
+        "typeFilm": "Pelicula",
+        "punctuactionFilm": 8.2,
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1751761542/posterPathLaNiniaDeMisOjos_wa6gqt.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1751761542/logoLaNiniaDeMisOjos_xwgdrb.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1751761542/backdropPathLaNiniaDeMisOjos_kbhqrx.jpg",
+        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1751761089/trailerNiniaDeMisOjos_firssy.mp4",
+        "videoFilm": "movies/LaNiniaDeMisOjos.mp4",
+        "durationFilm": "1h 41m",
+        "movieDate": "2025",
+        "movieReleased": "2025-07-05"
+    },
+    {
+        "idFilm": "harta",
+        "titleFilm": "Harta",
+        "sinopsisFilm": "¿Cuál será la gota que colmará el vaso? Un día terriblemente malo lleva a una madre sola muy trabajadora al límite... y a cometer un sorprendente acto de desesperación.",
+        "categories": [
+            "Suspense",
+            "Drama",
+            "Crimen"
+        ],
+        "typeFilm": "Pelicula",
+        "punctuactionFilm": 8.0,
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1751761543/posterPathHarta_sdpmvp.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1751761542/logoPathHarta_rvz0ke.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1751761543/backdropPathHarta_vu6d9v.jpg",
+        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1751761089/trailerHarta_gq6rdg.mp4",
+        "videoFilm": "movies/Harta.mp4",
+        "durationFilm": "1h 45m",
+        "movieDate": "2025",
+        "movieReleased": "2025-07-05"
+    },
+    {
+        "idFilm": "destinoFinalLazosSangre",
+        "titleFilm": "Destino final lazos de sangre",
+        "sinopsisFilm": "Atragantada por una violenta pesadilla recurrente, la estudiante universitaria Stefanie regresa a casa para encontrar a la única persona que podría romper el ciclo y salvar a su familia de la horrible muerte que inevitablemente les espera a todos.",
+        "categories": [
+            "Terror",
+            "Misterio"
+        ],
+        "typeFilm": "Pelicula",
+        "punctuactionFilm": 7.2,
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1751765038/posterPathDestinoFinalLazosSangre_iznbti.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1751765037/logoPathDestinoFinalLazosSangre_govqb6.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1751765037/backdropPathDestinoFinalLazosSangre_mtcbbi.jpg",
+        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1751765340/DestinoFinalLazosSangre_v0j1p3.mp4",
+        "videoFilm": "movies/DestinoFinal2025.mp4",
+        "durationFilm": "1h 40m",
+        "movieDate": "2025",
+        "movieReleased": "2025-07-05"
+    },
+    {
+        "idFilm": "exorcismo2024",
+        "titleFilm": "Exorcismo",
+        "sinopsisFilm": "Un actor con problemas comienza a desmoronarse mientras filma una película de terror. Su hija, con la que no tiene mucha relación, se pregunta si está volviendo a caer en sus adicciones del pasado o si en esta oportunidad hay algo más siniestro en juego.",
+        "categories": [
+            "Terror",
+            "Suspense"
+        ],
+        "typeFilm": "Pelicula",
+        "punctuactionFilm": 5.1,
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1751765037/posterPathExorcismo2024_kj5gep.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1751765037/logoPathExorcismo2024_pnlwar.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1751765037/backdropPathExorcismo2024_hp0pxs.jpg",
+        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1751765306/trailerExorcismo2024_jymtvk.mp4",
+        "videoFilm": "movies/Exorcismo.2024.WEB-DL.1080p-Dual-Lat.mp4",
+        "durationFilm": "1h 36m",
+        "movieDate": "2024",
+        "movieReleased": "2025-07-05"
     },
     {
         "idFilm": "goodBoy",
