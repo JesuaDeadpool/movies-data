@@ -1089,6 +1089,88 @@
         "movieReleased": "2025-07-05"
     },
     {
+        "idFilm": "amosDelAire",
+        "titleFilm": "Los amos del aire",
+        "sinopsisFilm": "Durante la Segunda Guerra Mundial, los aviadores arriesgan sus vidas con el 100º Grupo de bombarderos, una hermandad forjada por el valor, la pérdida y el triunfo.",
+        "categories": [
+            "Drama",
+            "War & Politics"
+        ],
+        "typeFilm": "Serie",
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1751768166/posterPathAmosDelAire_vwodnk.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1751768165/logoPathAmosDelAire_iqccre.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1751768166/backdropPathAmosDelAire_kbi1mo.jpg",
+        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1751768558/trailerAmosdelAire_ywauiv.mp4",
+        "videoFilm": "",
+        "punctuactionFilm": 7.8,
+        "durationFilm": "1h",
+        "movieDate": "2024",
+        "movieReleased": "2025-07-05",
+        "filmSeason": [
+            {
+                "seasonNumber": 1,
+                "episodes": [
+                    {
+                        "episodeNumber": 1,
+                        "titleEpisode": "Primera Parte",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1751768168/backdropPathAmosDelAire1x1_qjmydj.jpg",
+                        "sinopsisEpisode": "Dirigido por los mayores Egan y Cleven, el 100º Grupo de bombarderos llega a Inglaterra y se une a la campaña de la 8ª Fuerza Aérea en contra de la Alemania nazi.",
+                        "videoEpisode": "series/Masters-of-the-air/Masters+of+the+Air+S01E01.mp4"
+                    },
+                    {
+                        "episodeNumber": 2,
+                        "titleEpisode": "Segunda parte",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1751768168/backdropPathAmosDelAire1x2_j0xvo5.jpg",
+                        "sinopsisEpisode": "El 100º bombardea los astilleros alemanes de los U-boat en Noruega. Con la ayuda de la navegación del teniente Crosby, un B-17 dañado logra regresar a Gran Bretaña.",
+                        "videoEpisode": "series/Masters-of-the-air/Masters+of+the+Air+S01E02.mp4"
+                    },
+                    {
+                        "episodeNumber": 3,
+                        "titleEpisode": "Tercera parte",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1751768168/backdropPathAmosDelAire1x3_yeneie.jpg",
+                        "sinopsisEpisode": "El grupo participa en su mayor misión, el bombardeo de importantes plantas de fabricación de aviones en el corazón de Alemania.",
+                        "videoEpisode": "series/Masters-of-the-air/Masters+of+the+Air+S01E03.mp4"
+                    },
+                    {
+                        "episodeNumber": 4,
+                        "titleEpisode": "Cuarta parte",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1751768168/backdropPathAmosDelAire1x4_rufp7e.jpg",
+                        "sinopsisEpisode": "El teniente Rosenthal se une al 100º cuando una de sus tripulaciones cumple con una meta. Los astilleros de los U-boat en Bremen se convierten en el blanco por segunda vez.",
+                        "videoEpisode": "series/Masters-of-the-air/S01E04.mp4"
+                    },
+                    {
+                        "episodeNumber": 5,
+                        "titleEpisode": "Quinta parte",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1751768167/backdropPathAmosDelAire1x5_qwjoge.jpg",
+                        "sinopsisEpisode": "La siguiente misión de Rosie es un cambio total para la estrategia de bombardeo del 100º. Crosby gana un ascenso, pero llega con un precio muy alto.",
+                        "videoEpisode": "series/Masters-of-the-air/Masters+of+the+Air+S01E05.mp4"
+                    },
+                    {
+                        "episodeNumber": 6,
+                        "titleEpisode": "Sexta Parte",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1751768168/backdropPathAmosDelAire1x6_wbk31t.jpg",
+                        "sinopsisEpisode": "Rosie y su tripulación son enviados a una casa de campo. Crosby conoce a una oficial británica intrigante en Oxford. Egan se enfrenta a la naturaleza malvada de los nazis.",
+                        "videoEpisode": "series/Masters-of-the-air/Masters+of+the+Air+S01E06.mp4"
+                    },
+                    {
+                        "episodeNumber": 7,
+                        "titleEpisode": "Séptima Parte",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1751768169/backdropPathAmosDelAire1x7_jqurji.jpg",
+                        "sinopsisEpisode": "Los prisioneros del Stalag Luft III intentan conectar con el mundo exterior. Berlín se convierte en el objetivo principal del 100º. Rosie toma una decisión crucial.",
+                        "videoEpisode": "series/Masters-of-the-air/Masters+of+the+Air+S01E07.mp4"
+                    },
+                    {
+                        "episodeNumber": 8,
+                        "titleEpisode": "Octava Parte",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1751768169/backdropPathAmosDelAire1x8_ow4jif.jpg",
+                        "sinopsisEpisode": "Crosby se prepara para el Día D. Los prisioneros de guerra se preguntan cómo afectará a su destino la llegada de los aliados. Los aviadores de Tuskegee atacan objetivos al sur de Francia.",
+                        "videoEpisode": "series/Masters-of-the-air/Masters+of+the+Air+S01E08.mp4"
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "idFilm": "goodBoy",
         "titleFilm": "BUEN CHICO",
         "sinopsisFilm": "Tras 11 años, la Policía vuelve a reclutar exatletas nacionales. Antes eran héroes; ahora estos medallistas de primer nivel enfrentan duras realidades. Pese a problemas financieros, tragedias inesperadas y discriminación dentro de la Policía, los atletas, con historias únicas, forman un equipo especial para afrontar delitos graves con el valor y las habilidades que perfeccionaron como atletas.",
