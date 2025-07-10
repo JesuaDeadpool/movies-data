@@ -1128,6 +1128,67 @@
         "movieReleased": "2025-07-07"
     },
     {
+        "idFilm": "deadpool2",
+        "titleFilm": "Deadpool 2",
+        "sinopsisFilm": "El mercenario mutante malhablado Wade Wilson (alias Deadpool), reúne a un equipo de mutantes para proteger a un joven con habilidades sobrenaturales del brutal cyborg Cable, que viaja a través del tiempo.",
+        "categories": [
+            "Acción",
+            "Comedia",
+            "Aventura"
+        ],
+        "typeFilm": "Pelicula",
+        "punctuactionFilm": 7.0,
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1752125451/posterPathDeadpool2_zvksbg.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1752125452/logoPathDeadpool2_aqqars.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1752125451/backdropPathDeadpool2_ao5kbz.jpg",
+        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1752125655/Deadpool_2_-_Trailer_2_ESPA%C3%91OL_2018_uxgenh.mp4",
+        "videoFilm": "movies/Deadpool2.mp4",
+        "durationFilm": "2h",
+        "movieDate": "2018",
+        "movieReleased": "2025-07-09"
+    },
+    {
+        "idFilm": "mazeRunnerCuraMortal",
+        "titleFilm": "Maze Runner: La cura mortal",
+        "sinopsisFilm": "El joven héroe Thomas no puede confiar en la organización CRUEL, entonces con sus amigos se embarca en una misión para encontrar una cura para la enfermedad mortal conocida como La Llamarada.",
+        "categories": [
+            "Acción",
+            "Aventura",
+            "Suspense",
+            "Ciencia ficción"
+        ],
+        "typeFilm": "Pelicula",
+        "punctuactionFilm": 7.1,
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1752125452/posterPathMazeRunnerCuraMortal_bfyuel.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1752125452/logoPathMazeRunnerCuraMortal_vi2msq.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1752125452/backdropPathMazeRunnerCuraMortal_bpxarz.jpg",
+        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1752125645/Maze_Runner_3_La_Cura_Mortal_-_Trailer_Espa%C3%B1ol_Latino_2017_sgzmpl.mp4",
+        "videoFilm": "movies/Maze.Runner.La.cura.mortal.2018.720p-dual-lat.mp4",
+        "durationFilm": "2h 22m",
+        "movieDate": "2018",
+        "movieReleased": "2025-07-09"
+    },
+    {
+        "idFilm": "deadpool",
+        "titleFilm": "Deadpool",
+        "sinopsisFilm": "Basado en el anti-héroe menos convencional de la Marvel, Deadpool narra el origen de un ex-operativo de la fuerzas especiales llamado Wade Wilson, reconvertido a mercenario, y que tras ser sometido a un cruel experimento adquiere poderes de curación rápida, adoptando Wade entonces el alter ego de Deadpool. Armado con sus nuevas habilidades y un oscuro y retorcido sentido del humor, Deadpool intentará dar caza al hombre que casi destruye su vida.",
+        "categories": [
+            "Acción",
+            "Comedia",
+            "Aventura"
+        ],
+        "typeFilm": "Pelicula",
+        "punctuactionFilm": 7.6,
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1752125452/posterPathDeadpool_c3lldn.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1752125452/logoPathDeadpool_uwop3c.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1752125452/backdropPathDeadpool_n8devy.jpg",
+        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1752125705/Deadpool_Red_Band_Trailers_ohsmop.mp4",
+        "videoFilm": "movies/Deadpool.mp4",
+        "durationFilm": "1h 48m",
+        "movieDate": "2016",
+        "movieReleased": "2025-07-09"
+    },
+    {
         "idFilm": "amosDelAire",
         "titleFilm": "Los amos del aire",
         "sinopsisFilm": "Durante la Segunda Guerra Mundial, los aviadores arriesgan sus vidas con el 100º Grupo de bombarderos, una hermandad forjada por el valor, la pérdida y el triunfo.",
@@ -1646,7 +1707,7 @@
                     {
                         "episodeNumber": 10,
                         "titleEpisode": "Mi pareja ideal",
-                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1752120327/backdropPathBesosKitty1x10_thxi9n.jpgg",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1752120327/backdropPathBesosKitty1x10_thxi9n.jpg",
                         "sinopsisEpisode": "Las notas finales, las clasificaciones y algunas verdades difíciles despiertan emociones fuertes, y Kitty toma una decisión mientras su futuro en KISS pende de un hilo.",
                         "videoEpisode": "series/besos-kitty/S01E10.mp4"
                     }
@@ -1786,23 +1847,22 @@
         ]
     },
     {
-        "idFilm": "ellaDiaOtraDeNoche",
-        "titleFilm": "Ella de día, otra de noche",
-        "sinopsisFilm": "Una mujer que pasa mágicamente de tener 20 años a tener 50 y viceversa consigue unas prácticas en la Fiscalía, atrapada entre dos generaciones y un jefe muy estricto.",
+        "idFilm": "amorEnLaboratorio",
+        "titleFilm": "Amor en el laboratorio ",
+        "sinopsisFilm": "Un estricto director llega al laboratorio de patatas de una apasionada investigadora decidido a demostrar que el amor puede germinar en los lugares más inesperados.",
         "categories": [
-            "Misterio",
-            "Comedia",
-            "Sci-Fi & Fantasy"
+            "Drama",
+            "Comedia"
         ],
         "typeFilm": "Dorama",
-        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1750135786/posterPathEllaDeDiaOtraDeNoche_kzrwyi.jpg",
-        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1750135786/logoPathEllaDeDiaOtraDeNoche_ddenen.png",
-        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1750135786/backdropPathEllaDeDiaOtraDeNoche_sra6nz.jpg",
-        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1748564943/TrailerLiloStitch_ji89qc.mp4ST",
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1752123493/posterPathAmorEnLaboratorio_ghdvrp.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1752123494/logoPathAmorEnLaboratorio_d3t8yh.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1752123493/backdropPathAmorEnLaboratorio_qcw0br.jpg",
+        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1752123796/Amor_en_el_laboratorio_TR%C3%81ILER_OFICIAL_Netflix_xbuxl5.mp4",
         "videoFilm": "",
-        "punctuactionFilm": 8.5,
-        "durationFilm": "1h",
-        "movieDate": "2024",
+        "punctuactionFilm": 87.7,
+        "durationFilm": "12 Ep.",
+        "movieDate": "2025",
         "movieReleased": "2025-06-16",
         "filmSeason": [
             {
@@ -1810,45 +1870,87 @@
                 "episodes": [
                     {
                         "episodeNumber": 1,
-                        "titleEpisode": "Nuestro héroe desfigurado",
-                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1750135175/backdropPathGodBoy1x1_r34njj.jpg",
-                        "sinopsisEpisode": "Luego de causar problemas, Dong-ju es degradado a la Policía Metropolitana de Insung, donde lo tratan como una carga. Sus colegas medallistas también sufren discriminación y desprecio, pero cuando surge un caso importante, la llama vuelve a encenderse en sus corazones.",
-                        "videoEpisode": "doramas/good-boy/goodBoy1x1.mp4"
+                        "titleEpisode": "Ese cretino de Wonhan",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1752123494/backdropPathAmorEnLaboratorio1x1_wfnyks.jpg",
+                        "sinopsisEpisode": "So Baek-ho, que enfrenta críticas por los duros cambios corporativos que debe hacer, choca con la feroz Kim Mi-kyung cuando visita su laboratorio de papas.",
+                        "videoEpisode": "doramas/amor-laboratorio/AmorenellaboratorioS01E01.mp4"
                     },
                     {
                         "episodeNumber": 2,
-                        "titleEpisode": "Más rápido, más lejos, más fuerte",
-                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1750135175/backdropPathGodBoy1x2_veltgd.jpg",
-                        "sinopsisEpisode": "Por sugerencia de Man-sik, los exmedallistas de primer nivel forman un equipo de investigación criminal especial. Cada miembro está listo para un nuevo comienzo y tiene sus propias esperanzas y objetivos, pero, detrás de este equipo especial, acechan intenciones ocultas.",
-                        "videoEpisode": "doramas/good-boy/goodBoy1x2.mp4"
+                        "titleEpisode": "El director sexi",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1752123494/backdropPathAmoEnLaboratorio1x2_rcjfb6.jpg",
+                        "sinopsisEpisode": "Luego de que Baek‑ho sin querer se muda a la casa de huéspedes de Mi‑kyung y establece su oficina en el laboratorio, ella pone al pueblo en su contra, lo que resulta en un fiasco.",
+                        "videoEpisode": "doramas/amor-laboratorio/Amor en el laboratorio S01E02.mp4"
                     },
                     {
                         "episodeNumber": 3,
-                        "titleEpisode": "Golpes del destino",
-                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1750135176/backdropPathGodBoy1x3_ep2s6a.jpg",
-                        "sinopsisEpisode": "Convencido de que Ju-yeong es el conductor que se dio a la fuga, Dong-ju busca pruebas. Mientras tanto, Jong-hyeon se dirige a la Fiscalía a petición de Man-sik para investigar el caso de Gyeong-il, y Ju-yeong se encuentra con alguien a escondidas.",
-                        "videoEpisode": "doramas/good-boy/goodBoy1x3.mp4"
+                        "titleEpisode": "El precio de un beso",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1752123494/backdropPathAmoEnLaboratorio1x3_cd5who.jpg",
+                        "sinopsisEpisode": "Una ansiosa Mi‑kyung intenta evadir a Baek‑ho por todos los medios, pero él acude en su ayuda durante una competencia de cocina. Luego, una figura del pasado reaparece.",
+                        "videoEpisode": "doramas/amor-laboratorio/S01E03.mp4"
                     },
                     {
                         "episodeNumber": 4,
-                        "titleEpisode": "Flota como una mariposa",
-                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1750135175/backdropPathGodBoy1x4_tj78rf.jpg",
-                        "sinopsisEpisode": "El Equipo Especial de Investigación Criminal se completa con el regreso de Han-na y la incorporación de Jong-hyeon. Comienzan a investigar a Min Ju-yeong por la muerte de Gyeong-il. Mientras se dividen en grupos y se acercan a sus objetivos, Han-na recibe los archivos del caso de su padre.",
-                        "videoEpisode": "doramas/good-boy/goodBoy1x4.mp4"
+                        "titleEpisode": "Este mensaje ha sido borrado",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1752123495/backdropPathAmoEnLaboratorio1x4_be2sqa.jpg",
+                        "sinopsisEpisode": "Baek‑ho le da noticias devastadoras a Mi‑kyung, forzándola a pensar en su próximo paso. Pero poco después, una emergencia los obliga a trabajar juntos.",
+                        "videoEpisode": "doramas/amor-laboratorio/S01E04.mp4"
                     },
                     {
                         "episodeNumber": 5,
-                        "titleEpisode": "Amor borracho",
-                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1750135176/backdropPathGodBoy1x5_mrdyhg.jpg",
-                        "sinopsisEpisode": "Mientras investiga a Ju-yeong, el Equipo Especial de Investigación Criminal se ve obligado a entregarlo a la fiscalía tras una intervención repentina. Dong-ju es hospitalizado para realizarle pruebas tras su accidente de coche, y el equipo investiga a fondo la verdadera identidad de Ju-yeong y sus vínculos con la fiscalía.",
-                        "videoEpisode": "doramas/good-boy/goodBoy1x4.mp4"
+                        "titleEpisode": "Persona de interés",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1752123496/backdropPathAmoEnLaboratorio1x5_geq2vd.jpg",
+                        "sinopsisEpisode": "Baek‑ho y Mi‑kyung conocen una faceta del otro que nunca habían visto, y los sentimientos comienzan a aflorar. Pero la llegada de alguien despierta celos en Mi‑kyung.",
+                        "videoEpisode": "doramas/amor-laboratorio/S01E05.mp4"
                     },
                     {
                         "episodeNumber": 6,
-                        "titleEpisode": "Contragolpe",
-                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1750135176/backdropPathGodBoy1x6_cu8reh.jpg",
-                        "sinopsisEpisode": "Usando el beso sorpresa de Han-na como excusa, Dong-ju sale a solas con ella a investigar y descubre el teléfono desechable de Ju-yeong. Jong-hyeon se siente cada vez más incómodo a medida que Dong-ju y Han-na se acercan. Mientras tanto, Drugmon, bajo vigilancia en un apartamento, comienza a planear su escape.",
-                        "videoEpisode": "doramas/good-boy/goodBoy1x4.mp4"
+                        "titleEpisode": "Falsa barba de cabra",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1752123497/backdropPathAmoEnLaboratorio1x6_spetm7.jpg",
+                        "sinopsisEpisode": "Tras un impactante anuncio en el laboratorio, Baek‑ho y Mi‑kyung emprenden un viaje de negocios juntos. Pero, poco después, él comienza a evitarla, y ella queda desconcertada.",
+                        "videoEpisode": "doramas/amor-laboratorio/S01E06.mp4"
+                    },
+                    {
+                        "episodeNumber": 7,
+                        "titleEpisode": "Bombón dulce",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1752123497/backdropPathAmoEnLaboratorio1x7_pgizpc.jpg",
+                        "sinopsisEpisode": "Con sus sentimientos claros, Mi‑kyung y Baek‑ho tienen su primera cita. Poco después, se dan cuenta de que los rumores se esparcen rápido en el trabajo.",
+                        "videoEpisode": "doramas/amor-laboratorio/S01E07.mp4"
+                    },
+                    {
+                        "episodeNumber": 8,
+                        "titleEpisode": "Letal",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1752123498/backdropPathAmoEnLaboratorio1x8_tqu16s.jpg",
+                        "sinopsisEpisode": "La súbita aparición de un visitante indeseado siembra el caos en la casa de huéspedes. Mi‑kyung entra en pánico tras descubrir una relación secreta.",
+                        "videoEpisode": "doramas/amor-laboratorio/S01E08.mp4"
+                    },
+                    {
+                        "episodeNumber": 9,
+                        "titleEpisode": "Me arrepiento",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1752123498/backdropPathAmoEnLaboratorio1x9_niwmnd.jpg",
+                        "sinopsisEpisode": "Cuando las heridas del pasado afligen a Mi‑kyung, Baek‑ho se preocupa e intenta animarla. Más tarde, ambos comparten un momento tierno e íntimo en un campo de papas en flor.",
+                        "videoEpisode": "doramas/amor-laboratorio/S01E09.mp4"
+                    },
+                    {
+                        "episodeNumber": 10,
+                        "titleEpisode": "Sí",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1752123498/backdropPathAmoEnLaboratorio1x10_saf8lc.jpg",
+                        "sinopsisEpisode": "Tras ser testigo de una interacción sorprendente entre Park Ki‑se y Mi‑kyung, Baek‑ho descubre la verdad sobre el pasado de ella y decide confesarlo todo.",
+                        "videoEpisode": "doramas/amor-laboratorio/S01E10.mp4"
+                    },
+                    {
+                        "episodeNumber": 11,
+                        "titleEpisode": "Catástrofe",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1752123499/backdropPathAmoEnLaboratorio1x11_hddwaa.jpg",
+                        "sinopsisEpisode": "Mi‑kyung se siente traicionada por Baek‑ho y decide alejarse. Cuando la tensión entre ellos aumenta, sus colegas idean un plan para reconciliarlos.",
+                        "videoEpisode": "doramas/amor-laboratorio/S01E11.mp4"
+                    },
+                    {
+                        "episodeNumber": 12,
+                        "titleEpisode": "MK107",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1752123501/backdropPathAmoEnLaboratorio1x12_parvgd.jpg",
+                        "sinopsisEpisode": "El tiempo de Mi‑kyung en el laboratorio está por concluir y la incertidumbre amenaza su relación con Baek‑ho. ¿Qué les deparará el futuro?",
+                        "videoEpisode": "doramas/amor-laboratorio/S01E12.mp4"
                     }
                 ]
             }
