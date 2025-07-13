@@ -529,7 +529,7 @@
         "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748751479/logoPathElConjuro_r7dnrr.png",
         "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748751478/backdropPathElConjuro_cgfdni.jpg",
         "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1748564943/TrailerLiloStitch_ji89qc.mp4",
-        "videoFilm": "Pecadores+(2025).mp4",
+        "videoFilm": "movies/The+Conjuring+-+The+Devil+Made+Me+Do+It+2021+1080p+WEB-DL+LIGERA+Lat+5.1.mp4",
         "durationFilm": "1h 52m",
         "movieDate": "2013",
         "movieReleased": "2025-05-31"
@@ -1187,6 +1187,87 @@
         "durationFilm": "1h 48m",
         "movieDate": "2016",
         "movieReleased": "2025-07-09"
+    },
+    {
+        "idFilm": "badboys4",
+        "titleFilm": "Bad Boys: Hasta la muerte",
+        "sinopsisFilm": "Tras escuchar falsas acusaciones sobre su excapitán y mentor Mike y Marcus deciden investigar el asunto incluso volverse los más buscados de ser necesarios",
+        "categories": [
+            "Acción",
+            "Comedia",
+            "Aventura",
+            "Crimen",
+            "Aventura"
+        ],
+        "typeFilm": "Pelicula",
+        "punctuactionFilm": 7.4,
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1752374295/posterPathBadboys4_rpb3aq.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1752374295/logoPathBadboy4_inrubi.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1752374294/backdropPathBadboys4_wrt8u5.jpg",
+        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1752374492/BAD_BOYS_RIDE_OR_DIE._Tr%C3%A1iler_oficial_en_espa%C3%B1ol_HD._Exclusivamente_en_cines._cfbt5x.mp4",
+        "videoFilm": "movies/BadBoys4.mp4",
+        "durationFilm": "1h 55m",
+        "movieDate": "2024",
+        "movieReleased": "2025-07-12"
+    },
+    {
+        "idFilm": "godzillaXKong",
+        "titleFilm": "Godzilla y Kong: El nuevo imperio",
+        "sinopsisFilm": "Una aventura cinematográfica completamente nueva, que enfrentará al todopoderoso Kong y al temible Godzilla contra una colosal amenaza desconocida escondida dentro de nuestro mundo. La nueva y épica película profundizará en las historias de estos titanes, sus orígenes y los misterios de Isla Calavera y más allá, mientras descubre la batalla mítica que ayudó a forjar a estos seres extraordinarios y los unió a la humanidad para siempre.",
+        "categories": [
+            "Acción",
+            "Aventura",
+            "Ciencia ficción"
+        ],
+        "typeFilm": "Pelicula",
+        "punctuactionFilm": 7.1,
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1752375045/posterPathGodzillaXKong_iegmoh.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1752375044/logoPathGodzillaXKong_k33rnz.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1752375044/backdropPathGodzillaXKong_dqtadn.jpg",
+        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1752374989/Godzilla_y_Kong_El_nuevo_imperio_Tr%C3%A1iler_Oficial_Doblado_ugukk9.mp4",
+        "videoFilm": "movies/Godzilla+x+Kong+The+New+Empire+2024+1080p+WEB-DL+AMZN+LIGERO+Latino+5.1.mp4",
+        "durationFilm": "1h 55m",
+        "movieDate": "2024",
+        "movieReleased": "2025-07-12"
+    },
+    {
+        "idFilm": "cadaverDeLaNovia",
+        "titleFilm": "El cadáver de la novia",
+        "sinopsisFilm": "Cuando un tímido novio practica sus votos matrimoniales en presencia inadvertida de una joven fallecida, ella se levanta de la tumba asumiendo que se ha casado con ella.",
+        "categories": [
+            "Animación",
+            "Fantasía",
+            "Romance"
+        ],
+        "typeFilm": "Pelicula",
+        "punctuactionFilm": 7.6,
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1752375563/posterPathCadaverDeLaNovia_dki1r3.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1752375564/logoPathCadaverDeLaNovia_urue7q.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1752375563/backdropPathCadaverDeLaNovia_zhthz3.jpg",
+        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1752375684/La_Novia_Cad%C3%A1ver_Trailer_espa%C3%B1ol_dtrjdz.mp4",
+        "videoFilm": "movies/El.cadáver.de.la.novia.2005.WEB-DL.1080p-Dual-Lat.mp4",
+        "durationFilm": "1h 17m",
+        "movieDate": "2005",
+        "movieReleased": "2025-07-12"
+    },
+    {
+        "idFilm": "trumanShow",
+        "titleFilm": "The Truman Show: Historia de una Vida",
+        "sinopsisFilm": "Truman Burbank es un hombre corriente y algo ingenuo que ha vivido toda su vida en uno de esos pueblos donde nunca pasa nada. Sin embargo, unos extraños sucesos le hacen sospechar que algo anormal está ocurriendo.",
+        "categories": [
+            "Comedia",
+            "Drama"
+        ],
+        "typeFilm": "Pelicula",
+        "punctuactionFilm": 8.1,
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1752376774/posterPathTrumanShow_oofehy.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1752376774/logoPathTrumanShow_ieknlh.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1752376774/backdropPathTrumanShow_x2pjql.jpg",
+        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1752376678/The_Truman_Show_1998_Trailer_1_Movieclips_Classic_Trailers_uvpvd9.mp4",
+        "videoFilm": "movies/The+Truman+Show.1998.5.1+BRRIP.mp4",
+        "durationFilm": "1h 43m",
+        "movieDate": "1998",
+        "movieReleased": "2025-07-12"
     },
     {
         "idFilm": "amosDelAire",
