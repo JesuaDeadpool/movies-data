@@ -80,26 +80,6 @@
         "movieReleased": "2025-05-22"
     },
     {
-        "idFilm": "misionImpSentFin",
-        "titleFilm": "Misión: Imposible - Sentencia final",
-        "sinopsisFilm": "El agente Ethan Hunt continúa su misión de impedir que Gabriel controle el tecnológicamente omnipotente programa de IA conocido como <<Entity>>",
-        "categories": [
-            "Acción",
-            "Aventura",
-            "Suspense"
-        ],
-        "typeFilm": "Pelicula",
-        "punctuactionFilm": 7.1,
-        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748026738/posterPathMisionImposible_cg16vv.jpg",
-        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748026737/logoPathMisionImposibleFinal_vu7vjd.png",
-        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748026737/backdropPathMisionImposibleFinal_t75bjq.jpg",
-        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1751562628/misionImposible8Trailer_easdd3.mp4",
-        "videoFilm": "Pecadores+(2025).mp4",
-        "durationFilm": "2h 50m",
-        "movieDate": "2025",
-        "movieReleased": "2025-05-23"
-    },
-    {
         "idFilm": "godziMinusOne",
         "titleFilm": "Godzilla Minus One",
         "sinopsisFilm": "En el Japón de la posguerra, Godzilla trae una nueva devastación a un paisaje ya abrasado. Sin intervención militar ni ayuda gubernamental a la vista, los supervivientes deben unirse frente a la desesperación y luchar contra un horror implacable.",
@@ -141,26 +121,6 @@
         "movieReleased": "2025-05-23"
     },
     {
-        "idFilm": "flowAnim",
-        "titleFilm": "Flow",
-        "sinopsisFilm": "En un mundo al borde del colapso, un gato solitario pierde su hogar por una inundación y encuentra refugio en un barco con otras especies. Juntos, deberán superar diferencias y desafíos mientras navegan por un misterioso paisaje sumergido.",
-        "categories": [
-            "Animación",
-            "Fantasía",
-            "Aventura"
-        ],
-        "typeFilm": "Pelicula",
-        "punctuactionFilm": 8.2,
-        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748026737/posterPathFlow_rtpb5f.jpg",
-        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748026736/logoPathFlow_xqanfv.png",
-        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748026737/backdropPathFlow_b49b9a.jpg",
-        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1748564943/TrailerLiloStitch_ji89qc.mp4",
-        "videoFilm": "Pecadores+(2025).mp4",
-        "durationFilm": "1h 25m",
-        "movieDate": "2024",
-        "movieReleased": "2025-05-23"
-    },
-    {
         "idFilm": "suckPunchMunSu",
         "titleFilm": "Sucker Punch Mundo surreal",
         "sinopsisFilm": "Ambientada en los años 50. Una chica es internada por su padrastro en una institución psiquiátrica para que le practiquen una lobotomía. Mientras espera, su imaginación crea una realidad alternativa que podría salvarla de su dramática situación. A partir de ahí, la joven comienza a preparar su fuga, cuyo éxito depende del robo de cinco objetos.",
@@ -195,7 +155,7 @@
         "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748056796/LogoPathSeisTripleOcho_gprasa.png",
         "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748056792/backdropPathSeisTripleOcho_kva5zi.jpg",
         "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1751653194/trailerSeisTripleOcho_dqtle9.mp4",
-        "videoFilm": "Pecadores+(2025).mp4",
+        "videoFilm": "movies/Seis+Triple+Ocho+(2024).mp4",
         "durationFilm": "2h 10m",
         "movieDate": "2024",
         "movieReleased": "2025-05-23"
@@ -215,7 +175,7 @@
         "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748056796/logoPathGladiador2_po9i0i.png",
         "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748056792/backdropPathGladiador2_nqtmpr.jpg",
         "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1751653193/trailerGladiador2_ykntg3.mp4",
-        "videoFilm": "Pecadores+(2025).mp4",
+        "videoFilm": "movies/Gladiador.II.2024.1080p-Dual-Lat.mp4",
         "durationFilm": "2h 28m",
         "movieDate": "2024",
         "movieReleased": "2025-05-23"
@@ -236,7 +196,7 @@
         "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748056796/logoPathGarfield_hsqi0x.png",
         "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748056793/bakcdropPathGarfield_nrvhi1.jpg",
         "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1751653125/trailerGarfieldMovie_cawm4f.mp4",
-        "videoFilm": "Pecadores+(2025).mp4",
+        "videoFilm": "movies/TGFEL.mp4",
         "durationFilm": "1h 40m",
         "movieDate": "2024",
         "movieReleased": "2025-05-23"
@@ -256,7 +216,7 @@
         "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748056793/logoPathCivilWar_mjwtyx.png",
         "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748056791/backdropPathCivilWar_u6hwpn.jpg",
         "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1751653190/trailerGuerraCivil_mk7cja.mp4",
-        "videoFilm": "Pecadores+(2025).mp4",
+        "videoFilm": "movies/GECI.mp4",
         "durationFilm": "1h 49m",
         "movieDate": "2024",
         "movieReleased": "2025-05-23"
@@ -372,7 +332,7 @@
         "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748056922/posterPathVenomUltimoBaile_knfzip.jpg",
         "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748056920/logoPathVenomUltimoBaile_lxh08w.png",
         "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748056919/backdropPathVenomUltimoBaile_skmmh9.jpg",
-        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1748564943/TrailerLiloStitch_ji89qc.mp4",
+        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1752548533/VENOM_EL_%C3%9ALTIMO_BAILE._Tr%C3%A1iler_oficial_en_espa%C3%B1ol_HD._Exclusivamente_en_cines._m9iecw.mp4",
         "videoFilm": "movies/Venom+The+Last+Dance.2024.5.1+WEBDL+LIGERA.mp4",
         "durationFilm": "1h 49m",
         "movieDate": "2024",
@@ -392,7 +352,7 @@
         "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748056920/posterPathAlice_c9ufoy.jpg",
         "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748056919/logoPathAlice_f3pzep.png",
         "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748056919/backdropPathAlice_khqkrf.jpg",
-        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1748564943/TrailerLiloStitch_ji89qc.mp4",
+        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1752547678/Alice_Subservience_-_Trailer_espa%C3%B1ol_umdqm3.mp4",
         "videoFilm": "movies/Subservience.2024.5.1+WEBDL+LIGERA.mp4",
         "durationFilm": "1h 45m",
         "movieDate": "2024",
@@ -412,7 +372,7 @@
         "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748056922/posterPathRobotSalvaje_pgl9ls.jpg",
         "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748056920/logoPathRobotSalvaje_s8ue5u.png",
         "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748056919/backdropPathRobotSalvaje_yodn9l.jpg",
-        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1748564943/TrailerLiloStitch_ji89qc.mp4",
+        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1752547687/ROBOT_SALVAJE_Tr%C3%A1iler_Oficial_Universal_Studios_-_HD_lsmw6r.mp4",
         "videoFilm": "movies/ROBSALV.mp4",
         "durationFilm": "1h 41m",
         "movieDate": "2024",
@@ -431,7 +391,7 @@
         "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748058094/posterPathSmile2_ojmbrs.jpg",
         "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748058094/logoPathSmile2_hfcgog.png",
         "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748058094/backdropPathSmil2_so1wsj.jpg",
-        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1748564943/TrailerLiloStitch_ji89qc.mp4",
+        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1752547684/Sonr%C3%ADe_2_Tr%C3%A1iler_Oficial_DOBLADO_Naomi_Scott_Lukas_Gage_Octubre_17_solo_en_cines_xt6c51.mp4",
         "videoFilm": "movies/Sonríe+2+(2024).mp4",
         "durationFilm": "2h 12m",
         "movieDate": "2024",
@@ -450,7 +410,7 @@
         "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748752331/posterPathTerrifier3_od40fi.jpg",
         "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748751480/logoPathTerrifier3_xkhl5x.png",
         "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748480671/backdropPathTerrifier3_kkd4ey.jpg",
-        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1748564943/TrailerLiloStitch_ji89qc.mp4",
+        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1752547681/TERRIFIER_3_-_TR%C3%81ILER_ESPA%C3%91OL_HD_cbtetw.mp4",
         "videoFilm": "movies/Terrifier+3+Payaso+siniestro+(2024).mp4",
         "durationFilm": "2h 5m",
         "movieDate": "2024",
@@ -470,7 +430,7 @@
         "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748751483/posterPathJoker2_sltlqx.jpg",
         "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748751480/logoPathJoker2_jz19hu.png",
         "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748751478/backdropPathJoker2_e3ora9.jpg",
-        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1748564943/TrailerLiloStitch_ji89qc.mp4",
+        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1752547682/Guas%C3%B3n_2_Folie_%C3%80_Deux_Tr%C3%A1iler_Oficial_Doblado_scnbe5.mp4",
         "videoFilm": "movies/JK2.mp4",
         "durationFilm": "2h 18m",
         "movieDate": "2024",
@@ -491,7 +451,7 @@
         "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748751484/posterPathTransformersUno_iwkpua.jpg",
         "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748751480/logoPathTransformersUno_xzpjl8.png",
         "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748751479/backdropPathTransformersUno_yvh5qi.jpg",
-        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1748564943/TrailerLiloStitch_ji89qc.mp4",
+        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1752547688/Transformers_Uno_Tr%C3%A1iler_Oficial_Septiembre_2024_solo_en_cines_t5yux9.mp4",
         "videoFilm": "movies/TransformersOne.mp4",
         "durationFilm": "1h 44m",
         "movieDate": "2024",
@@ -509,7 +469,7 @@
         "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748751483/posterPathHorrorland_wiwjzm.jpg",
         "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748751479/logoPathHorrorland_aoayuw.png",
         "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748751478/backdropPathHorrorland_uoeqzn.jpg",
-        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1748564943/TrailerLiloStitch_ji89qc.mp4",
+        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1752547669/Horrorland_KARUSELL_-_Trailer_oficial_vihq4x.mp4",
         "videoFilm": "movies/Horrorland+(2024).mp4",
         "durationFilm": "1h 33m",
         "movieDate": "2023",
@@ -528,7 +488,7 @@
         "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748751483/posterPathElConjuro_hu6bxs.jpg",
         "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748751479/logoPathElConjuro_r7dnrr.png",
         "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748751478/backdropPathElConjuro_cgfdni.jpg",
-        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1748564943/TrailerLiloStitch_ji89qc.mp4",
+        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1752547668/El_Conjuro_3_El_Diablo_Me_Oblig%C3%B3_a_Hacerlo_-_Trailer_Final_The_Conjuring_Latam_l0lw2m.mp4",
         "videoFilm": "movies/The+Conjuring+-+The+Devil+Made+Me+Do+It+2021+1080p+WEB-DL+LIGERA+Lat+5.1.mp4",
         "durationFilm": "1h 52m",
         "movieDate": "2013",
@@ -549,7 +509,7 @@
         "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748751483/posterPathIntensamente2_atpah1.jpg",
         "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748751479/logoPathIntensamente2_nqxvxh.png",
         "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748751479/backdropPathIntensamente2_qwrj6j.jpg",
-        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1748564943/TrailerLiloStitch_ji89qc.mp4",
+        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1752547664/IntensaMente_2_Tr%C3%A1iler_Oficial_Doblado_con_subt%C3%ADtulos_descriptivos_takbgr.mp4",
         "videoFilm": "movies/IntensaMente.2.2024.1080p-Dual-Lat.mp4",
         "durationFilm": "1h 36m",
         "movieDate": "2024",
@@ -567,7 +527,7 @@
         "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748751483/posterPathJackEnLaCajaMaldita3_pcmkqc.jpg",
         "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748751479/logoPathJackEnLaCajaMaldita3_eqzftf.png",
         "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748751478/backdropPathJackEnLaCajaMaldita3_wcqtr9.jpg",
-        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1748564943/TrailerLiloStitch_ji89qc.mp4",
+        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1752547669/JACK_EN_LA_CAJA_MALDITA_3_Trailer_Oficial_DoblaDO_psv8qc.mp4",
         "videoFilm": "movies/JAENCAMA.mp4",
         "durationFilm": "1h 30m",
         "movieDate": "2024",
@@ -587,7 +547,7 @@
         "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748751481/posterPathElAsesinoDelJuegoCitas_iitd7w.jpg",
         "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748751479/logoPathElAsesinoDelJuegoCitas_pbbvyu.png",
         "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748751478/backdropPathElAsesinoDelJuegoCitas_go0udo.jpg",
-        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1748564943/TrailerLiloStitch_ji89qc.mp4",
+        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1752547658/El_Asesino_del_Juego_de_Citas_-_Tr%C3%A1iler_en_Espa%C3%B1ol_nj1ib3.mp4",
         "videoFilm": "movies/El.asesino.del.juego.de.citas.2024.1080p-Dual-Lat.mp4",
         "durationFilm": "1h 34m",
         "movieDate": "2024",
@@ -606,7 +566,7 @@
         "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748751483/posterPathSismo_iamzp7.jpg",
         "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748751479/logoPathSismo_i6jhjt.png",
         "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748751479/backdropPathSismo_jz1zm3.jpg",
-        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1748564943/TrailerLiloStitch_ji89qc.mp4",
+        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1752547704/Sismo_Magnitud_9.5_Tr%C3%A1iler_Oficial_Doblado_Estreno_14_de_Marzo_2024_bxayyw.mp4",
         "videoFilm": "movies/SISM95.mp4",
         "durationFilm": "1h 54m",
         "movieDate": "2023",
@@ -626,7 +586,7 @@
         "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748751719/posterPathEternoResplandor_iierdu.jpg",
         "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748751719/logoPathEternoResplandor_t4ydgi.png",
         "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748751722/backdropPathEternoResplandor_fezkcr.jpg",
-        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1748564943/TrailerLiloStitch_ji89qc.mp4",
+        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1752548530/Olvidate_de_m%C3%AD_TRAILER_ESPA%C3%91OL_vf3x8f.mp4",
         "videoFilm": "movies/ETRDUSRC.mp4",
         "durationFilm": "1h 48m",
         "movieDate": "2004",
@@ -647,7 +607,7 @@
         "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748751721/posterPathSing2_gkvwc7.jpg",
         "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748751719/logoPathSing2_n7vr35.png",
         "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748751721/backdropPathSing2_hrheq7.jpg",
-        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1748564943/TrailerLiloStitch_ji89qc.mp4",
+        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1752548528/Sing_2_ven_y_canta_de_nuevo_Tr%C3%A1iler_Oficial_Espa%C3%B1ol_HBO_Max_zzthrn.mp4",
         "videoFilm": "movies/Sing.2.Ven.y.canta.de.nuevo.2021.720p-dual-lat.mp4",
         "durationFilm": "1h 50m",
         "movieDate": "2021",
@@ -668,7 +628,7 @@
         "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748751720/posterPathSing_awyqhm.jpg",
         "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748751720/logoPathSing_wp6dbk.png",
         "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748751722/backdropPathSing_w9tycq.jpg",
-        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1748564943/TrailerLiloStitch_ji89qc.mp4",
+        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1752548533/Sing_Ven_Y_Canta_Trailer_En_Espa%C3%B1ol_Latino_vnnrlh.mp4",
         "videoFilm": "movies/Sing.Ven.y.canta.2016.720p-dual-lat.mp4",
         "durationFilm": "1h 48m",
         "movieDate": "2016",
@@ -688,7 +648,7 @@
         "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748751718/posterPathNapoleon_lcjyah.jpg",
         "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748751723/logoPathNapoleon_bzkpkr.png",
         "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748751723/backdropPathNapoleon_jer9mg.jpg",
-        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1748564943/TrailerLiloStitch_ji89qc.mp4",
+        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1752548519/NAPOLE%C3%93N._Tr%C3%A1iler_oficial_en_espa%C3%B1ol_HD._Exclusivamente_en_cines._w5n4hz.mp4",
         "videoFilm": "movies/Napoleón.2023.1080p-Dual-Lat.mp4",
         "durationFilm": "2h 38m",
         "movieDate": "2023",
@@ -707,7 +667,7 @@
         "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748751718/posterPathVivo_h6tqbt.jpg",
         "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748751717/logoPathVivo_us4dmz.png",
         "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748751717/backdropPathVivo_xxmtjm.jpg",
-        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1748564943/TrailerLiloStitch_ji89qc.mp4",
+        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1752548519/VIVO_-_Trailer_en_Espa%C3%B1ol_Latino_l_Netflix_qif4y2.mp4",
         "videoFilm": "movies/#VIVO.2020.1080p-dual-lat.mp4",
         "durationFilm": "1h 38m",
         "movieDate": "2020",
@@ -726,7 +686,7 @@
         "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748751719/posterPathTerrifier_w19pav.jpg",
         "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748752876/logoPathTerrifier_hn8tgm.png",
         "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748751721/backdropPathTerrifier_emax91.jpg",
-        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1748564943/TrailerLiloStitch_ji89qc.mp4",
+        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1752548517/Terrifier_Official_Trailer_ufmjgx.mp4",
         "videoFilm": "movies/Terrifier.mp4",
         "durationFilm": "1h 24m",
         "movieDate": "2018",
@@ -745,7 +705,7 @@
         "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748752012/posterPathTerrifier2_gzm84y.jpg",
         "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748752017/logoPathTerrifier2_mmbn3t.png",
         "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748752015/backdropPathTerrifier2_fekmjb.jpg",
-        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1748564943/TrailerLiloStitch_ji89qc.mp4",
+        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1752548514/Terrifier_2_-_Trailer_espa%C3%B1ol_qeoqx5.mp4",
         "videoFilm": "Comando.1985.1080p.mp4",
         "durationFilm": "2h 18m",
         "movieDate": "2022",
@@ -764,7 +724,7 @@
         "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748752011/posterPathSustancia_nzr4hs.jpg",
         "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748752016/logoPathSustancia_pmnq2i.png",
         "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748752012/backdropPathSustancia_i1tahg.jpg",
-        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1748564943/TrailerLiloStitch_ji89qc.mp4",
+        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1752548516/La_Sustancia_2024_Trailer_doblado_en_espa%C3%B1ol_pslly2.mp4",
         "videoFilm": "movies/LaSustancia.mp4",
         "durationFilm": "2h 20m",
         "movieDate": "2024",
@@ -784,7 +744,7 @@
         "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748752018/posterPathDeadpool3_omm67t.jpg",
         "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748752014/logoPathDeadpool3_qqbvka.png",
         "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748752016/backdropPathDeadpool3_lkp67v.jpg",
-        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1748564943/TrailerLiloStitch_ji89qc.mp4",
+        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1752548514/Deadpool_Wolverine_Tr%C3%A1iler_Oficial_Doblado_vagq6i.mp4",
         "videoFilm": "movies/DeadpoolWolverine.mp4",
         "durationFilm": "2h 8m",
         "movieDate": "2024",
@@ -803,7 +763,7 @@
         "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748751480/posterPathAlienRomulus_ly1qlq.jpg",
         "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748751479/logoPathAlienRomulus_x7fwcz.png",
         "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1748751478/backdropPathAlienRomulus_erskvn.jpg",
-        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1748564943/TrailerLiloStitch_ji89qc.mp4",
+        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1752548620/Alien_Romulus_Tr%C3%A1iler_Oficial_en_espa%C3%B1ol_HD_ad1vx0.mp4",
         "videoFilm": "movies/ALRM.mp4",
         "durationFilm": "1h 59m",
         "movieDate": "2024",
@@ -1941,7 +1901,7 @@
         "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1752123493/backdropPathAmorEnLaboratorio_qcw0br.jpg",
         "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1752123796/Amor_en_el_laboratorio_TR%C3%81ILER_OFICIAL_Netflix_xbuxl5.mp4",
         "videoFilm": "",
-        "punctuactionFilm": 87.7,
+        "punctuactionFilm": 8.7,
         "durationFilm": "12 Ep.",
         "movieDate": "2025",
         "movieReleased": "2025-06-16",
@@ -2032,6 +1992,211 @@
                         "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1752123501/backdropPathAmoEnLaboratorio1x12_parvgd.jpg",
                         "sinopsisEpisode": "El tiempo de Mi‑kyung en el laboratorio está por concluir y la incertidumbre amenaza su relación con Baek‑ho. ¿Qué les deparará el futuro?",
                         "videoEpisode": "doramas/amor-laboratorio/S01E12.mp4"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "idFilm": "venticincoVeintiuno",
+        "titleFilm": "Veinticinco, veintiuno",
+        "sinopsisFilm": "En una época en la que los sueños parecen inalcanzables, un esgrimista adolescente persigue grandes ambiciones y conoce a un joven trabajador que busca reconstruir su vida.",
+        "categories": [
+            "Drama"
+        ],
+        "typeFilm": "Dorama",
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1752554021/posterPath2521_znzdjb.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1752554021/logoPath2521_uaa47m.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1752554021/backdropPath2521_dd2tee.jpg",
+        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1752555423/Veinticinco_veintiuno_Tr%C3%A1iler_Oficial_Netflix_kpbnnx.mp4",
+        "videoFilm": "",
+        "punctuactionFilm": 8.4,
+        "durationFilm": "16 Epi.",
+        "movieDate": "2022",
+        "movieReleased": "2025-07-14",
+        "filmSeason": [
+            {
+                "seasonNumber": 1,
+                "episodes": [
+                    {
+                        "episodeNumber": 1,
+                        "titleEpisode": "Episodio 1",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1752554021/backdropPath25211x1_nw6ktj.jpg",
+                        "sinopsisEpisode": "Cuando la crisis financiera del FMI amenaza con acabar con los sueños de Na Hee-do, ella se propone conseguir que la transfieran a otra escuela con un programa de esgrima.",
+                        "videoEpisode": "doramas/2521/S01E01.mp4"
+                    },
+                    {
+                        "episodeNumber": 2,
+                        "titleEpisode": "Episodio 2",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1752554021/backdropPath25211x2_qc2qt5.jpg",
+                        "sinopsisEpisode": "Aunque desconcertada por la fría actitud de Ko Yu-rim, Hee-do da lo mejor de sí en su primer enfrentamiento. La situación de Back Yi-jin cobra mayor relevancia.",
+                        "videoEpisode": "doramas/2521/S01E02.mp4"
+                    },
+                    {
+                        "episodeNumber": 3,
+                        "titleEpisode": "Episodio 3",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1752554021/backdropPath25211x3_rp1ema.jpg",
+                        "sinopsisEpisode": "Cuando se presenta una oportunidad fortuita, Hee-do le ruega a su entrenador que le dé entrenamiento extra. Un visitante inesperado llega con la esperanza de ver a Yi-jin.",
+                        "videoEpisode": "doramas/2521/S01E03.mp4"
+                    },
+                    {
+                        "episodeNumber": 4,
+                        "titleEpisode": "Episodio 4",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1752554021/backdropPath25211x4_olkn6q.jpg",
+                        "sinopsisEpisode": "A cambio de un favor, Hee-do hace un recado diario para Moon Ji-woong. Se encuentra con un Yi-jin borracho después de que este suspendiera otra entrevista de trabajo.",
+                        "videoEpisode": "doramas/2521/S01E04.mp4"
+                    },
+                    {
+                        "episodeNumber": 5,
+                        "titleEpisode": "Episodio 5",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1752554021/backdropPath25211x5_a5gnuk.jpg",
+                        "sinopsisEpisode": "Hee-do da un gran paso hacia su sueño. Ansiosa por contarle la buena noticia a Yi-jin, pero se da cuenta de que ha desaparecido sin dejar rastro.",
+                        "videoEpisode": "doramas/2521/S01E05.mp4"
+                    },
+                    {
+                        "episodeNumber": 6,
+                        "titleEpisode": "Episodio 6",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1752554021/backdropPath25211x6_f5y5dz.jpg",
+                        "sinopsisEpisode": "La tensión entre Hee-do y Yu-rim aumenta antes de un evento importante. Yi-jin acepta una nueva misión y ve un rostro familiar entre la multitud.",
+                        "videoEpisode": "doramas/2521/S01E06.mp4"
+                    },
+                    {
+                        "episodeNumber": 7,
+                        "titleEpisode": "Episodio 7",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1752554022/backdropPath25211x7_z1k4vq.jpg",
+                        "sinopsisEpisode": "Una frustrante narrativa mediática empaña un momento monumental para Hee-do. Yi-jin persigue a la única persona que podría arreglar las cosas.",
+                        "videoEpisode": "doramas/2521/S01E07.mp4"
+                    },
+                    {
+                        "episodeNumber": 8,
+                        "titleEpisode": "Episodio 8",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1752554022/backdropPath25211x8_vzr9qx.jpg",
+                        "sinopsisEpisode": "Hee-do percibe una creciente distancia entre ella y Yi-jin, incluso cuando él regresa al barrio. Los problemas en casa aumentan el estrés de Yu-rim.",
+                        "videoEpisode": "doramas/2521/S01E08.mp4"
+                    },
+                    {
+                        "episodeNumber": 9,
+                        "titleEpisode": "Episodio 9",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1752554022/backdropPath25211x9_rot75e.jpg",
+                        "sinopsisEpisode": "A medida que la perspectiva de Yu-rim sobre Hee-do cambia, también cambia su comportamiento. Aunque Hee-do evita ver a Yi-jin, se ofrece como voluntario para un proyecto documental especial.",
+                        "videoEpisode": "doramas/2521/Veinticinco veintiuno 19 DORAMAS LATINO.mp4"
+                    },
+                    {
+                        "episodeNumber": 10,
+                        "titleEpisode": "Episodio 10",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1752554022/backdropPath25211x10_wkjj2t.jpg",
+                        "sinopsisEpisode": "Con el pretexto de trabajar, Yi-jin lleva a Hee-do y Yu-rim a una escapada de fin de semana al océano, y acepta que Ji Seung-wan y Ji-woong los acompañen.",
+                        "videoEpisode": "doramas/2521/S01E10.mp4"
+                    },
+                    {
+                        "episodeNumber": 11,
+                        "titleEpisode": "Episodio 11",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1752554022/backdropPath25211x11_f6ogef.jpg",
+                        "sinopsisEpisode": "Hee-do se enfada cuando su madre, obsesionada con su carrera, incumple una promesa. Yi-jin colabora con Ji-woong en sus planes para un gran gesto en un festival de música..",
+                        "videoEpisode": "doramas/2521/S01E11.mp4"
+                    },
+                    {
+                        "episodeNumber": 12,
+                        "titleEpisode": "Episodio 12",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1752554023/backdropPath25211x12_f3ppjh.jpg",
+                        "sinopsisEpisode": "Incapaz de contenerse y poner fin al comportamiento abusivo de un profesor, Seung-wan se mantiene firme. Hee-do y Yu-rim apoyan a una compañera de equipo angustiada.",
+                        "videoEpisode": "doramas/2521/S01E12.mp4"
+                    },
+                    {
+                        "episodeNumber": 13,
+                        "titleEpisode": "Episodio 13",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1752554024/backdropPath25211x13_ejfzme.jpg",
+                        "sinopsisEpisode": "Las advertencias sobre permitir que sus vínculos personales afecten su trabajo pesan mucho sobre Yi-jin. El equipo de esgrima de la escuela participa en su última competición juntos.",
+                        "videoEpisode": "doramas/2521/S01E13.mp4"
+                    },
+                    {
+                        "episodeNumber": 14,
+                        "titleEpisode": "Episodio 14",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1752554024/backdropPath25211x14_zmpfdr.jpg",
+                        "sinopsisEpisode": "Asumiendo el peso de una desgracia repentina en su familia, Yu-rim toma una decisión que la pone en problemas con el público.",
+                        "videoEpisode": "doramas/2521/S01E14.mp4"
+                    },
+                    {
+                        "episodeNumber": 15,
+                        "titleEpisode": "Episodio 15",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1752554024/backdropPath25211x15_qbcboj.jpg",
+                        "sinopsisEpisode": "Hee-do se encuentra una vez más frente a su oponente más formidable. Yi-jin está más ocupado que nunca tras su traslado a otro departamento.",
+                        "videoEpisode": "doramas/2521/S01E15.mp4"
+                    },
+                    {
+                        "episodeNumber": 16,
+                        "titleEpisode": "Episodio 16",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1752554024/backdropPath25211x16_uolgxq.jpg",
+                        "sinopsisEpisode": "En un intercambio emotivo, Hee-do y Yi-jin confrontan el estado de su relación. Hee-do olvida accidentalmente su diario en un autobús.",
+                        "videoEpisode": "doramas/2521/S01E16.mp4"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "idFilm": "karma2025",
+        "titleFilm": "Karma",
+        "sinopsisFilm": "Un accidente fatídico entrelaza las vidas de seis personas en una historia cargada de karma y crimen en la que deben enfrentar sus oscuras verdades y conexiones.",
+        "categories": [
+            "Drama",
+            "Crimen"
+        ],
+        "typeFilm": "Dorama",
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1752546604/posterPathKarma_vufq43.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1752546604/logoPathKarma_xmemkb.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1752546604/backdropPathKarma_lvc1m7.jpg",
+        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1752546907/Karma_Tr%C3%A1iler_oficial_Netflix_ygfvpw.mp4",
+        "videoFilm": "",
+        "punctuactionFilm": 7.5,
+        "durationFilm": "6 Ep.",
+        "movieDate": "2025",
+        "movieReleased": "2025-07-12",
+        "filmSeason": [
+            {
+                "seasonNumber": 1,
+                "episodes": [
+                    {
+                        "episodeNumber": 1,
+                        "titleEpisode": "El hombre que le debe a un prestamista",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1752546604/backdropPathKarma1x1_f9zniw.jpg",
+                        "sinopsisEpisode": "Ante las graves amenazas de su prestamista, un hombre endeudado recluta a Jang Gil-ryong para ejecutar una terrible tarea, que tendrá un elevadísimo costo personal.",
+                        "videoEpisode": "doramas/karma/Karma S01E01.mp4"
+                    },
+                    {
+                        "episodeNumber": 2,
+                        "titleEpisode": "El hombre que se deshizo de un cadáver",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1752546604/backdropPathKarma1x2_oo8gfd.jpg",
+                        "sinopsisEpisode": "Distraído por Lee Yu-jeong, Han Sang-hun tiene un accidente de auto. Al darse cuenta de que hay un testigo, entra en pánico e intenta borrar todo rastro de su participación.",
+                        "videoEpisode": "doramas/karma/Karma S01E02.mp4"
+                    },
+                    {
+                        "episodeNumber": 3,
+                        "titleEpisode": "Los perversos",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1752546604/backdropPathKarma1x3_w97z9t.jpg",
+                        "sinopsisEpisode": "El testigo exige más dinero. Han Sang-hun descubre inconsistencias en el accidente reciente. El deudor no sabe qué hacer cuando Gil-ryong le exige pagar.",
+                        "videoEpisode": "doramas/karma/Karma S01E03.mp4"
+                    },
+                    {
+                        "episodeNumber": 4,
+                        "titleEpisode": "La mujer atrapada en su pasado",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1752546604/backdropPathKarma1x4_objxev.jpg",
+                        "sinopsisEpisode": "Atrapada por su pasado, Lee Ju-yeon se ve sacudida por un nombre que le trae viejos recuerdos y la impulsa a enfrentarse a preguntas sin resolver.",
+                        "videoEpisode": "doramas/karma/Karma S01E04.mp4"
+                    },
+                    {
+                        "episodeNumber": 5,
+                        "titleEpisode": "Qué pasó antes",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1752546604/backdropPathKarma1x5_zgnxjh.jpg",
+                        "sinopsisEpisode": "Preparado con un plan, el deudor confronta a Gil-ryong, pero todo se descontrola cuando el testigo ve una oportunidad para sacar provecho.",
+                        "videoEpisode": "doramas/karma/Karma S01E05.mp4"
+                    },
+                    {
+                        "episodeNumber": 6,
+                        "titleEpisode": "Karma",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1752546604/backdropPathKarma1x6_kiswqi.jpg",
+                        "sinopsisEpisode": "Cuando creía haberse salido con la suya, el testigo enfrenta problemas inesperados. Con Ju-yeon pisándole los talones, ¿será capaz de romper el ciclo del karma?",
+                        "videoEpisode": "doramas/karma/Karma S01E06.mp4"
                     }
                 ]
             }
