@@ -1230,6 +1230,46 @@
         "movieReleased": "2025-07-12"
     },
     {
+        "idFilm": "comoEntrenarATuDragonLA",
+        "titleFilm": "Cómo entrenar a tu dragón",
+        "sinopsisFilm": "En la escarpada Isla Mema, donde vikingos y dragones han mantenido una amarga enemistad durante generaciones, Hipo es un muchacho diferente a los demás. El ingenioso y subestimado hijo del jefe Estoico el Inmenso desafía siglos de tradición haciéndose amigo de Desdentao, un temido dragón Furia Nocturna. Su insospechado vínculo desvelará la verdadera naturaleza de los dragones, poniendo a prueba los cimientos de la sociedad vikinga. En compañía de la feroz y ambiciosa Astrid y Bocón, el estrafalario herrero del pueblo, Hipo planta cara a un mundo dividido por el miedo y la incomprensión. ",
+        "categories": [
+            "Fantasía",
+            "Familia",
+            "Acción"
+        ],
+        "typeFilm": "Pelicula",
+        "punctuactionFilm": 8.0,
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1752639308/posterPathComoEntrenarATuDragon_ynbrfr.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1752639309/logoPathComoEntrenarATuDragon_sn53ca.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1752639308/backdropPathComoEntrenarATuDragon_frwvyz.jpg",
+        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1752639188/C%C3%B3mo_Entrenar_A_Tu_Drag%C3%B3n_-_Tr%C3%A1iler_Oficial_Universal_Pictures_-_HD_ius1rw.mp4",
+        "videoFilm": "movies/Cómo entrenar a tu dragón (2025).mp4",
+        "durationFilm": "2h 5m",
+        "movieDate": "2025",
+        "movieReleased": "2025-07-15"
+    },
+    {
+        "idFilm": "megan2",
+        "titleFilm": "M3GAN 2.0",
+        "sinopsisFilm": "Secuela de ‘M3GAN’ (2023). Con el futuro de la existencia humana en juego, Gemma se da cuenta de que la única opción es resucitar a M3GAN y darle unas cuantas mejoras, haciéndola más rápida, más fuerte y más letal.",
+        "categories": [
+            "Acción",
+            "Suspense",
+            "Ciencia ficción"
+        ],
+        "typeFilm": "Pelicula",
+        "punctuactionFilm": 7.5,
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1752639309/posterPathMegan2_hq4ztv.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1752639309/logoPathMegan2_pmdoqw.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1752639314/backdropPathMegan2_evas76.jpg",
+        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1752639190/M3GAN_2.0_-_Tr%C3%A1iler_Oficial_Universal_Pictures_HD_jitoap.mp4",
+        "videoFilm": "movies/M3GAN 2.0 (2025).mp4",
+        "durationFilm": "2h",
+        "movieDate": "2025",
+        "movieReleased": "2025-07-15"
+    },
+    {
         "idFilm": "amosDelAire",
         "titleFilm": "Los amos del aire",
         "sinopsisFilm": "Durante la Segunda Guerra Mundial, los aviadores arriesgan sus vidas con el 100º Grupo de bombarderos, una hermandad forjada por el valor, la pérdida y el triunfo.",
@@ -2197,6 +2237,59 @@
                         "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1752546604/backdropPathKarma1x6_kiswqi.jpg",
                         "sinopsisEpisode": "Cuando creía haberse salido con la suya, el testigo enfrenta problemas inesperados. Con Ju-yeon pisándole los talones, ¿será capaz de romper el ciclo del karma?",
                         "videoEpisode": "doramas/karma/Karma S01E06.mp4"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "idFilm": "atendadoEnLondres",
+        "titleFilm": "Atentado en Londres: La cacería tras las bombas del 7/7",
+        "sinopsisFilm": "Relatos internos e imágenes nunca antes vistas cuentan la historia de los atentados del 7/7 en la red de transporte de Londres en 2005, y sus explosivas consecuencias.",
+        "categories": [
+            "Documental"
+        ],
+        "typeFilm": "Serie",
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1752637860/posterPathAtentadoEnLondres_eipvcx.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1752637860/logoPathAtentadoEnLondres_olylb9.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1752637860/backdropPathAtentadoEnLondres_drxvhg.jpg",
+        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1752638049/Attack_on_London_Hunting_The_7_7_Bombers_Official_Trailer_Netflix_uv5dru.mp4",
+        "videoFilm": "",
+        "punctuactionFilm": 8.2,
+        "durationFilm": "4 Epi.",
+        "movieDate": "2025",
+        "movieReleased": "2025-07-15",
+        "filmSeason": [
+            {
+                "seasonNumber": 1,
+                "episodes": [
+                    {
+                        "episodeNumber": 1,
+                        "titleEpisode": "Episodio 1",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1752637860/backdropPathAtentadoEnLondres1x1_tlgd96.jpg",
+                        "sinopsisEpisode": "No tenemos un resumen traducido a tu idioma. Ayúdanos agregando uno.",
+                        "videoEpisode": "series/atentado-en-londres/S01E01.mp4"
+                    },
+                    {
+                        "episodeNumber": 2,
+                        "titleEpisode": "Episodio 2",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1752637860/backdropPathAtentadoEnLondres1x2_xiejsq.jpg",
+                        "sinopsisEpisode": "No tenemos un resumen traducido a tu idioma. Ayúdanos agregando uno.",
+                        "videoEpisode": "series/atentado-en-londres/S01E02.mp4"
+                    },
+                    {
+                        "episodeNumber": 3,
+                        "titleEpisode": "Episodio 3",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1752637860/backdropPathAtentadoEnLondres1x3_yt6drg.jpg",
+                        "sinopsisEpisode": "No tenemos un resumen traducido a tu idioma. Ayúdanos agregando uno.",
+                        "videoEpisode": "series/atentado-en-londres/S01E03.mp4"
+                    },
+                    {
+                        "episodeNumber": 4,
+                        "titleEpisode": "Episodio 4",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1752637860/backdropPathAtentadoEnLondres1x4_xpeqos.jpg",
+                        "sinopsisEpisode": "No tenemos un resumen traducido a tu idioma. Ayúdanos agregando uno.",
+                        "videoEpisode": "series/atentado-en-londres/S01E04.mp4"
                     }
                 ]
             }
