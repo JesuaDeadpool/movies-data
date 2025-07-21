@@ -1270,6 +1270,141 @@
         "movieReleased": "2025-07-15"
     },
     {
+        "idFilm": "johnWick1",
+        "titleFilm": "John Wick: Otro Día para Matar",
+        "sinopsisFilm": "La ciudad de Nueva York se convierte en el patio acribillado a balazos de un ex-asesino mientras él elimina a los gánsteres que destruyeron todo lo que él quería.",
+        "categories": [
+            "Acción",
+            "Suspense"
+        ],
+        "typeFilm": "Pelicula",
+        "punctuactionFilm": 7.5,
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1753124832/posterPathJohnWickCap1_hnw1eg.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1753124831/logoPathJohnWickCap1_al0cy1.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1753124832/backdropPathJohnWickCap1_f0wjdt.jpg",
+        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1753125787/John_Wick_1_Tr%C3%A1iler_oficial_4K_Espa%C3%B1ol_JohnWick_KeanuReaves_trailerespa%C3%B1ol_vpo4sz.mp4",
+        "videoFilm": "movies/JHNWCK 720p.mp4",
+        "durationFilm": "1h 41m",
+        "movieDate": "2014",
+        "movieReleased": "2025-07-21"
+    },
+    {
+        "idFilm": "johnWick2",
+        "titleFilm": "John Wick 2: Un Nuevo Día para Matar",
+        "sinopsisFilm": "En esta secuela del éxito de 2014, el legendario asesino John Wick (Keanu Reeves) se ve obligado a salir del retiro por un ex-asociado que planea obtener el control de un misterioso grupo internacional de asesinos. Obligado a ayudarlo por un juramento de sangre, John emprende un viaje a Roma lleno de adrenalina estremecedora para pelear contra los asesinos más peligrosos del mundo.",
+        "categories": [
+            "Acción",
+            "Suspense",
+            "Crimen"
+        ],
+        "typeFilm": "Pelicula",
+        "punctuactionFilm": 7.3,
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1753124832/posterPathJohnWickCap2_wrjfdb.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1753124832/logoPathJohnWickCap2_eeuhu3.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1753124831/backdropPathJohnWickCap2_bzopse.jpg",
+        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1753125777/JOHN_WICK_2_UN_NUEVO_D%C3%8DA_PARA_MATAR_TR%C3%81ILER_2_OFICIAL_ESPA%C3%91OL_LATINO_1080P_HD_fpusgc.mp4",
+        "videoFilm": "movies/JHNWCK2 720p.mp4",
+        "durationFilm": "2h 2m",
+        "movieDate": "2017",
+        "movieReleased": "2025-07-21"
+    },
+    {
+        "idFilm": "johnWick3",
+        "titleFilm": "John Wick 3: Parabellum",
+        "sinopsisFilm": "Después de matar a un miembro del misterioso gremio internacional de asesinos, la Mesa Alta, John Wick está excomulgado, pero los hombres y mujeres más despiadados del mundo esperan cada uno su turno.",
+        "categories": [
+            "Acción",
+            "Suspense",
+            "Crimen"
+        ],
+        "typeFilm": "Pelicula",
+        "punctuactionFilm": 7.4,
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1753124834/posterPathJohnWickCap3_egg6kb.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1753124832/logoPathJohnWickCap3_ji9l7y.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1753124833/backdropPathJohnWickCap3_ghsyrk.jpg",
+        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1753125780/John_Wick_3_Parabellum_-_Trailer_Espa%C3%B1ol_Latino_Doblado_2019_rdedlp.mp4",
+        "videoFilm": "movies/JHNWCK3 720p.mp4",
+        "durationFilm": "2h 11m",
+        "movieDate": "2019",
+        "movieReleased": "2025-07-21"
+    },
+    {
+        "idFilm": "johnWick4",
+        "titleFilm": "John Wick 4",
+        "sinopsisFilm": "John Wick descubre un camino para derrotar a La Mesa. Pero antes de poder ganar su libertad, Wick deberá enfrentarse a un nuevo enemigo con poderosas alianzas en todo el mundo; y contra las fuerzas que convierten a viejos amigos en enemigos.",
+        "categories": [
+            "Acción",
+            "Suspense",
+            "Crimen"
+        ],
+        "typeFilm": "Pelicula",
+        "punctuactionFilm": 7.7,
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1753124834/posterPathJohnWickCap4_wnfl1c.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1753124833/logoPathJohnWickCap4_c0w4xl.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1753124833/backdropPathJohnWickCap4_utfjzx.jpg",
+        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1753125781/John_Wick_4_-_Tr%C3%A1iler_Doblado_Espa%C3%B1ol_Latino_zjgjg8.mp4",
+        "videoFilm": "movies/John.Wick.Chapter.4.2023.LAT.mp4",
+        "durationFilm": "2h 50m",
+        "movieDate": "2023",
+        "movieReleased": "2025-07-21"
+    },
+    {
+        "idFilm": "perdonTiemposGuerra",
+        "titleFilm": "Perdón en tiempos de guerra",
+        "sinopsisFilm": "El joven sargento Lyubomir Zukh, que nunca se ha enfrentado a un combate, abandona su unidad durante tres horas para despedirse de su novia. Considerado desertor por la ley, es condenado a muerte. ¿Pero podrá el sistema encontrar la manera de perdonarlo?",
+        "categories": [
+            "Drama"
+        ],
+        "typeFilm": "Pelicula",
+        "punctuactionFilm": 6.0,
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1753126871/posterPathTiemposDeGuerra_kc9m8s.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1753124833/logoPathJohnWickCap4_c0w4xl.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1753126871/backdropPathTiemposDeGuerra_orm5vz.jpg",
+        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1753125778/%D0%9F%D0%BE%D0%BC%D0%B8%D0%BB%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_-_%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D1%80%D0%B5%D0%B9%D0%BB%D0%B5%D1%80_2023_wyyzih.mp4",
+        "videoFilm": "movies/PerdonTiemposDeGuerra.mp4",
+        "durationFilm": "1h 41m",
+        "movieDate": "2023",
+        "movieReleased": "2025-07-21"
+    },
+    {
+        "idFilm": "amanecerDeMuertos",
+        "titleFilm": "El amanecer de los muertos",
+        "sinopsisFilm": "Una enfermera, un policía, un joven matrimonio, un vendedor y otros sobrevivientes de una plaga mundial que está produciendo zombis agresivos y carnívoros, se refugian en un mega centro comercial.",
+        "categories": [
+            "Terror",
+            "Acción"
+        ],
+        "typeFilm": "Pelicula",
+        "punctuactionFilm": 7.1,
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1753126871/posterPathTiemposDeGuerra_kc9m8s.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1753124833/logoPathJohnWickCap4_c0w4xl.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1753126871/backdropPathTiemposDeGuerra_orm5vz.jpg",
+        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1753125778/%D0%9F%D0%BE%D0%BC%D0%B8%D0%BB%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_-_%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D1%80%D0%B5%D0%B9%D0%BB%D0%B5%D1%80_2023_wyyzih.mp4",
+        "videoFilm": "movies/PerdonTiemposDeGuerra.mp4",
+        "durationFilm": "1h 50m",
+        "movieDate": "2004",
+        "movieReleased": "2025-07-21"
+    },
+    {
+        "idFilm": "amanecerDeMuertos",
+        "titleFilm": "El amanecer de los muertos",
+        "sinopsisFilm": "Una enfermera, un policía, un joven matrimonio, un vendedor y otros sobrevivientes de una plaga mundial que está produciendo zombis agresivos y carnívoros, se refugian en un mega centro comercial.",
+        "categories": [
+            "Terror",
+            "Acción"
+        ],
+        "typeFilm": "Pelicula",
+        "punctuactionFilm": 7.1,
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1753127466/posterPathAmanecerMuertos_rfbjp3.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1753127466/logoPathAmanecerMuertos_bbker3.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1753127466/backdropPathAmanecerMuertos_xci65q.jpg",
+        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1753127907/El_Amanecer_De_Los_Muertos_Oficial_Trailer_tayfle.mp4",
+        "videoFilm": "movies/ELAMNCDLM041080p.mp4",
+        "durationFilm": "1h 50m",
+        "movieDate": "2004",
+        "movieReleased": "2025-07-21"
+    },
+    {
         "idFilm": "amosDelAire",
         "titleFilm": "Los amos del aire",
         "sinopsisFilm": "Durante la Segunda Guerra Mundial, los aviadores arriesgan sus vidas con el 100º Grupo de bombarderos, una hermandad forjada por el valor, la pérdida y el triunfo.",
