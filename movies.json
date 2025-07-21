@@ -1405,6 +1405,85 @@
         "movieReleased": "2025-07-21"
     },
     {
+        "idFilm": "jefesEstado",
+        "titleFilm": "Jefes de Estado",
+        "sinopsisFilm": "El Primer Ministro del Reino Unido (Idris Elba) y el Presidente de los Estados Unidos (John Cena) mantienen una rivalidad pública que pone en peligro la alianza de sus países. Pero cuando se convierten en objetivos de un poderoso enemigo, se ven obligados a confiar el uno en el otro mientras emprenden una alocada carrera multinacional. Aliados con Noel, una brillante agente del MI6 (Priyanka Chopra Jonas), deben encontrar la forma de frustrar una conspiración que amenaza al mundo libre.",
+        "categories": [
+            "Acción",
+            "Suspense",
+            "Comedia"
+        ],
+        "typeFilm": "Pelicula",
+        "punctuactionFilm": 7.0,
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1753137950/posterPathJefesEstado_ax7d3n.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1753137950/logoPathJefesEstado_aizwjv.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1753137950/backdropPathJefesEstado_zmzdqg.jpg",
+        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1753138724/Jefes_de_Estado_Trailer_Final_Prime_Video_nl13j8.mp4",
+        "videoFilm": "movies/Jefes de estado (2025) 1080p.mp4",
+        "durationFilm": "1h 53m",
+        "movieDate": "2025",
+        "movieReleased": "2025-07-21"
+    },
+    {
+        "idFilm": "karateKidLeyendas",
+        "titleFilm": "Karate Kid: Leyendas",
+        "sinopsisFilm": "Tras una tragedia familiar, el prodigio del kung fu Li Fong se ve obligado a abandonar su hogar en Pekín y trasladarse a Nueva York con su madre. Li lucha por dejar atrás su pasado mientras intenta encajar con sus nuevos compañeros de clase y, aunque no quiere pelear, los problemas parecen encontrarle en todas partes. ",
+        "categories": [
+            "Acción",
+            "Aventura",
+            "Drama"
+        ],
+        "typeFilm": "Pelicula",
+        "punctuactionFilm": 7.2,
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1753137950/posterPathKarateKidLeyendas_b4kowj.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1753137950/logoPathKarateKidLeyendas_gyzech.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1753137950/backdropPathKarateKidLeyendas_is4wyu.jpg",
+        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1753138721/Karate_Kid_Leyendas_Tr%C3%A1iler_Oficial_b7ebxs.mp4",
+        "videoFilm": "movies/Karate Kid Leyendas (2025) 1080p.mp4",
+        "durationFilm": "1h 34m",
+        "movieDate": "2025",
+        "movieReleased": "2025-07-21"
+    },
+    {
+        "idFilm": "thunderbolts",
+        "titleFilm": "Thunderbolts*",
+        "sinopsisFilm": "Un grupo de supervillanos poco convencional es reclutado para hacer misiones para el gobierno: Yelena Belova, Bucky Barnes, Red Guardian, Ghost, Taskmaster y John Walker. Después de verse atrapados en una trampa mortal urdida por Valentina Allegra de Fontaine, estos marginados deben embarcarse en una peligrosa misión que les obligará a enfrentarse a los recovecos más oscuros de su pasado.",
+        "categories": [
+            "Acción",
+            "Aventura",
+            "Ciencia ficción"
+        ],
+        "typeFilm": "Pelicula",
+        "punctuactionFilm": 7.4,
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1753137951/posterPathThunderbolts_bc2tkc.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1753137951/logoPathThunderbolts_hyl0ox.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1753137951/backdropPathThunderbolts_kjqjzn.jpg",
+        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1753138716/Thunderbolts_Tr%C3%A1iler_Oficial_Doblado_br5rok.mp4",
+        "videoFilm": "movies/Thunderbolts (2025) 1080p.mp4",
+        "durationFilm": "2h 7m",
+        "movieDate": "2025",
+        "movieReleased": "2025-07-21"
+    },
+    {
+        "idFilm": "warfareTiempoGuerra",
+        "titleFilm": "Tiempo de guerra",
+        "sinopsisFilm": "Un pelotón de SEALs de la Marina estadounidense en la casa de una familia iraquí supervisa el movimiento de las fuerzas estadounidenses a través de territorio insurgente.",
+        "categories": [
+            "Bélica",
+            "Acción"
+        ],
+        "typeFilm": "Pelicula",
+        "punctuactionFilm": 7.2,
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1753137951/posterPathTiempoGuerra_gjpx4g.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1753137951/logoPathTiempoGuerra_rjixjd.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1753137951/backdropPathTiempoGuerra_nigynh.jpg",
+        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1753138717/Tiempo_de_Guerra_Trailer_Oficial_Prime_Video_f7pk2v.mp4",
+        "videoFilm": "movies/Warfare Tiempo de guerra (2025) 1080p.mp4",
+        "durationFilm": "1h 36m",
+        "movieDate": "2025",
+        "movieReleased": "2025-07-21"
+    },
+    {
         "idFilm": "amosDelAire",
         "titleFilm": "Los amos del aire",
         "sinopsisFilm": "Durante la Segunda Guerra Mundial, los aviadores arriesgan sus vidas con el 100º Grupo de bombarderos, una hermandad forjada por el valor, la pérdida y el triunfo.",
