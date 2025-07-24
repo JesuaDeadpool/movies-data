@@ -1642,7 +1642,7 @@
         "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1751844002/trailerJuegoCalamar_goim2h.mp4",
         "videoFilm": "",
         "punctuactionFilm": 7.9,
-        "durationFilm": "1h (aprox.)",
+        "durationFilm": "3 Temp.",
         "movieDate": "2021/2025",
         "movieReleased": "2025-07-06",
         "filmSeason": [
@@ -2481,14 +2481,14 @@
                         "episodeNumber": 1,
                         "titleEpisode": "Episodio 1",
                         "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1752637860/backdropPathAtentadoEnLondres1x1_tlgd96.jpg",
-                        "sinopsisEpisode": "No tenemos un resumen traducido a tu idioma. Ayúdanos agregando uno.",
+                        "sinopsisEpisode": "Sin descripción...",
                         "videoEpisode": "series/atentado-en-londres/S01E01.mp4"
                     },
                     {
                         "episodeNumber": 2,
                         "titleEpisode": "Episodio 2",
                         "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1752637860/backdropPathAtentadoEnLondres1x2_xiejsq.jpg",
-                        "sinopsisEpisode": "No tenemos un resumen traducido a tu idioma. Ayúdanos agregando uno.",
+                        "sinopsisEpisode": "Sin descripción...",
                         "videoEpisode": "series/atentado-en-londres/S01E02.mp4"
                     },
                     {
@@ -2504,6 +2504,343 @@
                         "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1752637860/backdropPathAtentadoEnLondres1x4_xpeqos.jpg",
                         "sinopsisEpisode": "No tenemos un resumen traducido a tu idioma. Ayúdanos agregando uno.",
                         "videoEpisode": "series/atentado-en-londres/S01E04.mp4"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "idFilm": "liloStitch",
+        "titleFilm": "Lilo y Stitch",
+        "sinopsisFilm": "Remake en imagen real de «Lilo & Stitch». Narra la historia de una niña hawaiana solitaria y un extraterrestre fugitivo que la ayuda a recomponer su rota familia.",
+        "categories": [
+            "Familia",
+            "Comedia",
+            "Aventura",
+            "Ciencia ficción"
+        ],
+        "typeFilm": "Pelicula",
+        "punctuactionFilm": 7.3,
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1747976594/ckQzKpQJO4ZQDCN5evdpKcfm7Ys_p98ppt.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1747976408/hvi0C2A1YBOvRoWPX5WGQZk9dsC_vyzftx.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1747976593/7Zx3wDG5bBtcfk8lcnCWDOLM4Y4_uo3wfj.jpg",
+        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1751562623/liloStitchTrailer_vw8kin.mp4",
+        "videoFilm": "movies/Lilo&Stitch.mp4",
+        "durationFilm": "1h 48m",
+        "movieDate": "2025",
+        "movieReleased": "2025-07-24"
+    },
+    {
+        "idFilm": "opus2025",
+        "titleFilm": "Opus",
+        "sinopsisFilm": "Una joven escritora es invitada a la remota casa de una legendaria estrella del pop que desapareció misteriosamente hace treinta años. Rodeada por el culto de aduladores y periodistas borrachos de la estrella, se encuentra en medio de su perverso plan.",
+        "categories": [
+            "Terror",
+            "Misterio",
+            "Suspense"
+        ],
+        "typeFilm": "Pelicula",
+        "punctuactionFilm": 5.8,
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1753372926/posterPathOpus_l2tmuy.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1753372925/logoPathOps_bmdq7v.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1753372926/backdropPathOpus_gm0vxa.jpg",
+        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1753372773/OPUS_Trailer_2025_SUBTITULADO_HD_A24_Terrror_Ayo_Edebiri_John_Malkovich_rhzn4f.mp4",
+        "videoFilm": "movies/Opus.mp4",
+        "durationFilm": "1h 44m",
+        "movieDate": "2025",
+        "movieReleased": "2025-07-24"
+    },
+    {
+        "idFilm": "FNaF's",
+        "titleFilm": "Five Nights at Freddy's ",
+        "sinopsisFilm": "Un guardia de seguridad con problemas comienza a trabajar en Freddy Fazbear's Pizza. Mientras pasa su primera noche en el trabajo, se da cuenta de que el turno de noche en Freddy's no será tan fácil de superar.",
+        "categories": [
+            "Terror",
+            "Suspense"
+        ],
+        "typeFilm": "Pelicula",
+        "punctuactionFilm": 7.4,
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1753372926/posterPathFiveNightsAtFreddy_s3wzdo.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1753372926/logoPathFiveNightsAtFreddy_veut5q.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1753372926/backdropPathFiveNightsAtFreddy_gxdkqv.jpg",
+        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1753372769/Five_Nights_At_Freddy_s_Official_Trailer_yoqz0q.mp4",
+        "videoFilm": "movies/FiveNightsatFreddys.mp4",
+        "durationFilm": "1h 50m",
+        "movieDate": "2023",
+        "movieReleased": "2025-07-24"
+    },
+    {
+        "idFilm": "amorPredestinado",
+        "titleFilm": "Un amor predestinado",
+        "sinopsisFilm": "Un drama que representa un romance irresistible entre una mujer que obtuvo un libro prohibido que fue completamente sellado hace 300 años y un hombre que se convirtió en víctima del libro prohibido.",
+        "categories": [
+            "Drama",
+            "Comedia",
+            "Sci-Fi & Fantasy"
+        ],
+        "typeFilm": "Dorama",
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1753379106/posterPathAmorPredestinado_ytthyh.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1753379106/logoPathAmorPredestinado_zchlae.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1753379106/backdropPathAmorPredestinado_vwhoi6.jpg",
+        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1753379677/Un_Amor_Predestinado_Trailer_espa%C3%B1ol_latino_ig9xnx.mp4",
+        "videoFilm": "",
+        "punctuactionFilm": 8.1,
+        "durationFilm": "16 Ep.",
+        "movieDate": "2023",
+        "movieReleased": "2025-07-24",
+        "filmSeason": [
+            {
+                "seasonNumber": 1,
+                "episodes": [
+                    {
+                        "episodeNumber": 1,
+                        "titleEpisode": "Episodio 1",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1753379106/backdropPathAmorPredestinado1x1_wa76kv.jpg",
+                        "sinopsisEpisode": "Sin descripción...",
+                        "videoEpisode": "doramas/amor-predestinado/amor+lat+1.mp4"
+                    },
+                    {
+                        "episodeNumber": 2,
+                        "titleEpisode": "Episodio 2",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1753379106/backdropPathAmorPredestinado1x2_ivhkgc.jpg",
+                        "sinopsisEpisode": "Sin descripción...",
+                        "videoEpisode": "doramas/amor-predestinado/amor+lat+2.mp4"
+                    },
+                    {
+                        "episodeNumber": 3,
+                        "titleEpisode": "Episodio 3",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1753379106/backdropPathAmorPredestinado1x3_jpbjnl.jpg",
+                        "sinopsisEpisode": "Sin descripción...",
+                        "videoEpisode": "doramas/amor-predestinado/amor+lat+3.mp4"
+                    },
+                    {
+                        "episodeNumber": 4,
+                        "titleEpisode": "Episodio 4",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1753379106/backdropPathAmorPredestinado1x4_yhcqac.jpg",
+                        "sinopsisEpisode": "Sin descripción...",
+                        "videoEpisode": "doramas/amor-predestinado/amor+4+lat.mp4"
+                    },
+                    {
+                        "episodeNumber": 5,
+                        "titleEpisode": "Episodio 5",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1753379106/backdropPathAmorPredestinado1x5_zruwz7.jpg",
+                        "sinopsisEpisode": "Sin descripción...",
+                        "videoEpisode": "doramas/amor-predestinado/amor+5+lat.mp4"
+                    },
+                    {
+                        "episodeNumber": 6,
+                        "titleEpisode": "Episodio 6",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1753379107/backdropPathAmorPredestinado1x6_ngmdid.jpg",
+                        "sinopsisEpisode": "Sin descripción...",
+                        "videoEpisode": "doramas/amor-predestinado/amor+6+lat.mp4"
+                    },
+                    {
+                        "episodeNumber": 7,
+                        "titleEpisode": "Episodio 7",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1753379107/backdropPathAmorPredestinado1x7_hpicxv.jpg",
+                        "sinopsisEpisode": "Sin descripción...",
+                        "videoEpisode": "doramas/amor-predestinado/amor+lat+7.mp4"
+                    },
+                    {
+                        "episodeNumber": 8,
+                        "titleEpisode": "Episodio 8",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1753379108/backdropPathAmorPredestinado1x8_hjax0z.jpg",
+                        "sinopsisEpisode": "Sin descripción...",
+                        "videoEpisode": "doramas/amor-predestinado/amor+lat+8.mp4"
+                    },
+                    {
+                        "episodeNumber": 9,
+                        "titleEpisode": "Episodio 9",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1753379109/backdropPathAmorPredestinado1x9_us4tt0.jpg",
+                        "sinopsisEpisode": "Sin descripción...",
+                        "videoEpisode": "doramas/amor-predestinado/amor+lat+9.mp4"
+                    },
+                    {
+                        "episodeNumber": 10,
+                        "titleEpisode": "Episodio 10",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1753379109/backdropPathAmorPredestinado1x10_knlhpq.jpg",
+                        "sinopsisEpisode": "Sin descripción...",
+                        "videoEpisode": "doramas/amor-predestinado/amor+lat+10.mp4"
+                    },
+                    {
+                        "episodeNumber": 11,
+                        "titleEpisode": "Episodio 11",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1753379109/backdropPathAmorPredestinado1x11_hnm8ad.jpg",
+                        "sinopsisEpisode": "Sin descripción...",
+                        "videoEpisode": "doramas/amor-predestinado/amor+11+lat.mp4"
+                    },
+                    {
+                        "episodeNumber": 12,
+                        "titleEpisode": "Episodio 12",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1753379109/backdropPathAmorPredestinado1x12_woa5ao.jpg",
+                        "sinopsisEpisode": "Sin descripción...",
+                        "videoEpisode": "doramas/amor-predestinado/amor+lat+12.mp4"
+                    },
+                    {
+                        "episodeNumber": 13,
+                        "titleEpisode": "Episodio 13",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1753379110/backdropPathAmorPredestinado1x13_pokcvj.jpg",
+                        "sinopsisEpisode": "Sin descripción...",
+                        "videoEpisode": "doramas/amor-predestinado/AmorPredestinado-13.mp4"
+                    },
+                    {
+                        "episodeNumber": 14,
+                        "titleEpisode": "Episodio 14",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1753379111/backdropPathAmorPredestinado1x14_dam530.jpg",
+                        "sinopsisEpisode": "Sin descripción...",
+                        "videoEpisode": "doramas/amor-predestinado/AmorPredestinado-14.mp4"
+                    },
+                    {
+                        "episodeNumber": 15,
+                        "titleEpisode": "Episodio 15",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1753379111/backdropPathAmorPredestinado1x15_obpxg3.jpg",
+                        "sinopsisEpisode": "Sin descripción...",
+                        "videoEpisode": "doramas/amor-predestinado/AmorPredestinado-15.mp4"
+                    },
+                    {
+                        "episodeNumber": 16,
+                        "titleEpisode": "Episodio 16",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1753379111/backdropPathAmorPredestinado1x16_vcjcyt.jpg",
+                        "sinopsisEpisode": "Sin descripción...",
+                        "videoEpisode": "doramas/amor-predestinado/AmorPredestinado-16.mp4"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "idFilm": "aterrizajeEmergenciaTuCorazon",
+        "titleFilm": "Aterrizaje de emergencia en tu corazón ",
+        "sinopsisFilm": "Una heredera surcoreana sufre un accidente de parapente en cielos norcoreanos y debe ocultarse en tierra hostil con la ayuda de un oficial del ejército.",
+        "categories": [
+            "Drama",
+            "Comedia"
+        ],
+        "typeFilm": "Dorama",
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1753383604/posterPathAterrizajeEmergenciaTuCorazon_ondwrx.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1753383603/logoPathAterrizajeTuCorazon_tk6zol.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1753383600/backdropPathAterrizajeEmergenciaTuCorazon_xp4uzm.jpg",
+        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1753385102/Crash_Landing_on_You_Official_Trailer_Netflix_op4fkp.mp4",
+        "videoFilm": "",
+        "punctuactionFilm": 8.5,
+        "durationFilm": "16 Ep.",
+        "movieDate": "2019",
+        "movieReleased": "2025-07-24",
+        "filmSeason": [
+            {
+                "seasonNumber": 1,
+                "episodes": [
+                    {
+                        "episodeNumber": 1,
+                        "titleEpisode": "Episodio 1",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1753383569/backdropPathAterrizajeTuCorazon1x1_jsbbrn.jpg",
+                        "sinopsisEpisode": "Víctima de la violencia de los vientos, Yun Se‑ri cae en parapente y despierta en el lado norte de la zona desmilitarizada coreana, donde la encuentra Ri Jeong Hyeok.",
+                        "videoEpisode": "doramas/amor-predestinado/aterrizaje+01.mp4"
+                    },
+                    {
+                        "episodeNumber": 2,
+                        "titleEpisode": "Episodio 2",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1753383569/backdropPathAterrizajeTuCorazon1x2_cbxyqi.jpg",
+                        "sinopsisEpisode": "Se-ri persuade a Jeong Hyeok y sus camaradas de que la oculten en su casa, donde conoce de primera mano su modo de vida. Gu Seung‑jun paga por refugio en Pyongyang.",
+                        "videoEpisode": "doramas/amor-predestinado/aterrizaje+02.mp4"
+                    },
+                    {
+                        "episodeNumber": 3,
+                        "titleEpisode": "Episodio 3",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1753383569/backdropPathAterrizajeTuCorazon1x3_kaypcf.jpg",
+                        "sinopsisEpisode": "Jeong Hyeok inventa una historia descabellada para Se-ri, pero Cho Cheol Gang no es tan fácil de engañar. Seo Dan regresa a Corea del Norte.",
+                        "videoEpisode": "doramas/amor-predestinado/aterrizaje+03.mp4"
+                    },
+                    {
+                        "episodeNumber": 4,
+                        "titleEpisode": "Episodio 4",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1753383569/backdropPathAterrizajeTuCorazon1x4_cgjozc.jpg",
+                        "sinopsisEpisode": "Luego de que su plan de escape se frustra, Se-ri decide poner otra idea en marcha. Dan viaja al pueblo a ver a Jeong Hyeok.",
+                        "videoEpisode": "doramas/amor-predestinado/aterrizaje 04.mp4"
+                    },
+                    {
+                        "episodeNumber": 5,
+                        "titleEpisode": "Episodio 5",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1753383579/backdropPathAterrizajeTuCorazon1x5_tvmzs8.jpg",
+                        "sinopsisEpisode": "Jeong Hyeok accede al deseo de sus padres de que adelante su boda con Dan, pero antes deberán hacerle un favor. Seung-jun entrevé a Se‑ri.",
+                        "videoEpisode": "doramas/amor-predestinado/aterrizaje+05.mp4"
+                    },
+                    {
+                        "episodeNumber": 6,
+                        "titleEpisode": "Episodio 6",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1753383593/backdropPathAterrizajeTuCorazon1x6_pi0dol.jpg",
+                        "sinopsisEpisode": "A Dan no le complace en absoluto enterarse de que Jeong Hyeok y Se‑ri están juntos en un hotel. Entretanto, Seung‑jun hace lo que tenga que hacer para salvarse.",
+                        "videoEpisode": "doramas/amor-predestinado/aterrizaje+06.mp4"
+                    },
+                    {
+                        "episodeNumber": 7,
+                        "titleEpisode": "Episodio 7",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1753383593/backdropPathAterrizajeTuCorazon1x7_vh1ygl.jpg",
+                        "sinopsisEpisode": "A Se‑ri la espera en el aeropuerto un vuelo que sale de Corea del Norte, pero ella no está dispuesta a dejar a un herido Jeong Hyeok y decide llevarlo al hospital.",
+                        "videoEpisode": "doramas/amor-predestinado/aterrizaje+07.mp4"
+                    },
+                    {
+                        "episodeNumber": 8,
+                        "titleEpisode": "Episodio 8",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1753383594/backdropPathAterrizajeTuCorazon1x8_n3ymcy.jpg",
+                        "sinopsisEpisode": "Mantener a Jeong Hyeok separado de Se‑ri resulta mucho más difícil de lo que Seung‑jun esperaba. Cheol Gang los sigue de cerca.",
+                        "videoEpisode": "doramas/amor-predestinado/aterrizaje+08.mp4"
+                    },
+                    {
+                        "episodeNumber": 9,
+                        "titleEpisode": "Episodio 9",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1753383594/backdropPathAterrizajeTuCorazon1x9_bnpmif.jpg",
+                        "sinopsisEpisode": "Se-ri confronta a su secuestrador. Jeong Hyeok se ve obligado a esparcir un rumor increíble sobre sí mismo para escapar de las garras de Cheol Gang.",
+                        "videoEpisode": "doramas/amor-predestinado/aterrizaje+09.mp4"
+                    },
+                    {
+                        "episodeNumber": 10,
+                        "titleEpisode": "Episodio 10",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1753383595/backdropPathAterrizajeTuCorazon1x10_erloqv.jpg",
+                        "sinopsisEpisode": "De regreso en su cómoda vida, Se-ri se ocupa del negocio y la familia, pero todo parece haber cambiado. Jeong Hyeok tiene a Cheol Gang en la mira.",
+                        "videoEpisode": "doramas/amor-predestinado/aterrizaje+10.mp4"
+                    },
+                    {
+                        "episodeNumber": 11,
+                        "titleEpisode": "Episodio 11",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1753383596/backdropPathAterrizajeTuCorazon1x11_hdha74.jpg",
+                        "sinopsisEpisode": "Llega el turno de Jeong Hyeok de adaptarse a un mundo nuevo. En Corea del Norte, Seung-jun pierde la protección, y Dan le ofrece refugio.",
+                        "videoEpisode": "doramas/amor-predestinado/aterrizaje+11.mp4"
+                    },
+                    {
+                        "episodeNumber": 12,
+                        "titleEpisode": "Episodio 12",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1753383596/backdropPathAterrizajeTuCorazon1x12_fojurp.jpg",
+                        "sinopsisEpisode": "Los camaradas de Jeong Hyeok quieren encontrarse con él y van un evento organizado por la compañía de Se-ri. Seung-jun se abre con Dan mientras comen.",
+                        "videoEpisode": "doramas/amor-predestinado/aterrizaje 12.mp4"
+                    },
+                    {
+                        "episodeNumber": 13,
+                        "titleEpisode": "Episodio 13",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1753383596/backdropPathAterrizajeTuCorazon1x13_vvakgf.jpg",
+                        "sinopsisEpisode": "Se-ri envía de compras a los camaradas y falta al trabajo para pasar todo el día con Jeong Hyeok. Jung Man Bok enfrenta un dilema.",
+                        "videoEpisode": "doramas/amor-predestinado/aterrizaje+13.mp4"
+                    },
+                    {
+                        "episodeNumber": 14,
+                        "titleEpisode": "Episodio 14",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1753383600/backdropPathAterrizajeTuCorazon1x14_bt7g8e.jpg",
+                        "sinopsisEpisode": "Mientras Jeong Hyeok cuida a Se-ri, sus camaradas no desperdician el tiempo. Seung-jun se preocupa mucho por Dan.",
+                        "videoEpisode": "doramas/amor-predestinado/aterrizaje+14.mp4"
+                    },
+                    {
+                        "episodeNumber": 15,
+                        "titleEpisode": "Episodio 15",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1753383602/backdropPathAterrizajeTuCorazon1x15_rbzj6g.jpg",
+                        "sinopsisEpisode": "El Servicio de Inteligencia de Corea del Sur intenta descifrar qué ocurre, pero encuentran versiones contradictorias. Seung-jun escapa de sus captores.",
+                        "videoEpisode": "doramas/amor-predestinado/aterrizaje+15.mp4"
+                    },
+                    {
+                        "episodeNumber": 16,
+                        "titleEpisode": "Episodio 16",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1753383603/backdropPathAterrizajeTuCorazon1x16_wr6q03.jpg",
+                        "sinopsisEpisode": "Antes de partir, Jeong Hyeok deja una sorpresa sin vencimiento. Dan hace justicia.",
+                        "videoEpisode": "doramas/amor-predestinado/aterrizaje+16.mp4"
                     }
                 ]
             }
