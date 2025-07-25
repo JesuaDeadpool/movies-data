@@ -2845,5 +2845,367 @@
                 ]
             }
         ]
+    },
+    {
+        "idFilm": "agenteNocturno",
+        "titleFilm": "El agente nocturno",
+        "sinopsisFilm": "Después de que una llamada telefónica los junta, un agente del FBI y una experta en ciberseguridad deben desmantelar una intrincada red de conspiraciones políticas.",
+        "categories": [
+            "Drama",
+            "Misterio",
+            "Action & Adventure"
+        ],
+        "typeFilm": "Serie",
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1753402458/posterPathAgenteNocturno_loeksx.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1753402457/logoPathAgenteNocturno_fd8jya.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1753402457/backdropPathAgenteNocturno_qdxrpl.jpg",
+        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1753403445/El_Agente_Nocturno_Tr%C3%A1iler_en_Espa%C3%B1ol_Netflix_ElAgenteNocturno_SerieAdictos_Netflix_lur3vj.mp4",
+        "videoFilm": "",
+        "punctuactionFilm": 7.8,
+        "durationFilm": "2 Temp.",
+        "movieDate": "2023/2025",
+        "movieReleased": "2025-07-24",
+        "filmSeason": [
+            {
+                "seasonNumber": 1,
+                "episodes": [
+                    {
+                        "episodeNumber": 1,
+                        "titleEpisode": "La llamada",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1753402457/backdropPathAgenteNocturno1x1_ni4nia.jpg",
+                        "sinopsisEpisode": "Peter, un agente del FBI, recibe una llamada de auxilio en la línea de Acción Nocturna y pronto se le asigna la misión de proteger a Rose, una experta en ciberseguridad.",
+                        "videoEpisode": "series/agente-nocturno/S01E01.mp4"
+                    },
+                    {
+                        "episodeNumber": 2,
+                        "titleEpisode": "Retomar el contacto",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1753402457/backdropPathAgenteNocturno1x2_iedvcp.jpg",
+                        "sinopsisEpisode": "Luego de hallar una conexión entre los Campbell y el FBI, Peter y Rose se ven obligados a huir para buscar un disco duro... y más respuestas.",
+                        "videoEpisode": "series/agente-nocturno/S01E02.mp4"
+                    },
+                    {
+                        "episodeNumber": 3,
+                        "titleEpisode": "La que controla todo",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1753402458/backdropPathAgenteNocturno1x3_imocd0.jpg",
+                        "sinopsisEpisode": "Peter se alía con Rose en una arriesgada misión en la Casa Blanca. Por otro lado, un notable agente se une al equipo de seguridad de la hija del vicepresidente.",
+                        "videoEpisode": "series/agente-nocturno/S01E03.mp4"
+                    },
+                    {
+                        "episodeNumber": 4,
+                        "titleEpisode": "Confidencial",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1753402458/backdropPathAgenteNocturno1x4_osdrvi.jpg",
+                        "sinopsisEpisode": "Peter y Rose descubren nueva información cuando encuentran a uno de los últimos contactos de los Campbell. Monks habla de su vida con Chelsea. Paulo seduce a Maddie.",
+                        "videoEpisode": "series/agente-nocturno/S01E04.mp4"
+                    },
+                    {
+                        "episodeNumber": 5,
+                        "titleEpisode": "La marioneta",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1753402474/backdropPathAgenteNocturno1x5_sfbdqv.jpg",
+                        "sinopsisEpisode": "Peter visita a alguien cercano a Hawkins. Rose llega a una conclusión clave. La salida de Maddie da un giro peligroso que obliga al Servicio Secreto a entrar en acción.",
+                        "videoEpisode": "series/agente-nocturno/S01E05.mp4"
+                    },
+                    {
+                        "episodeNumber": 6,
+                        "titleEpisode": "Claro como el agua",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1753402474/backdropPathAgenteNocturno1x6_xpckly.jpg",
+                        "sinopsisEpisode": "Con asesinos pisándoles los talones, Peter y Rose se separan para llegar a la Casa Blanca. Un descubrimiento sorprendente pronto pone en riesgo sus vidas.",
+                        "videoEpisode": "series/agente-nocturno/S01E06.mp4"
+                    },
+                    {
+                        "episodeNumber": 7,
+                        "titleEpisode": "Un plato que se sirve frío",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1753402475/backdropPathAgenteNocturno1x7_u2zheb.jpg",
+                        "sinopsisEpisode": "En su escondite, Peter y Rose estrechan su relación mientras investigan a un sospechoso del atentado. En la Casa Blanca, los conspiradores obtienen un video inquietante.",
+                        "videoEpisode": "series/agente-nocturno/S01E07.mp4"
+                    },
+                    {
+                        "episodeNumber": 8,
+                        "titleEpisode": "Otra vez",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1753402475/backdropPathAgenteNocturno1x8_tzzgkk.jpg",
+                        "sinopsisEpisode": "Afloran más verdades sobre la identidad del sospechoso del atentado. Chelsea y Peter tratan de encontrar a Maddie después de que ella envía un video con un mensaje en clave.",
+                        "videoEpisode": "series/agente-nocturno/S01E08.mp4"
+                    },
+                    {
+                        "episodeNumber": 9,
+                        "titleEpisode": "Más vale malo conocido...",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1753402475/backdropPathAgenteNocturno1x9_oessvg.jpg",
+                        "sinopsisEpisode": "Después de que salen a la luz nuevas revelaciones, Peter y Rose intentan encontrar más pruebas con ayuda de Chelsea y Maddie. Una amenaza mayor se cierne sobre Campo David.",
+                        "videoEpisode": "series/agente-nocturno/S01E09.mp4"
+                    },
+                    {
+                        "episodeNumber": 10,
+                        "titleEpisode": "Padres",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1753402487/backdropPathAgenteNocturno1x10_zpjm40.jpg",
+                        "sinopsisEpisode": "El grupo intenta detener un plan macabro y salvar vidas antes de que sea demasiado tarde. Posteriormente, Peter se enfrenta al pasado y empieza una nueva etapa.",
+                        "videoEpisode": "series/agente-nocturno/S01E10.mp4"
+                    }
+                ]
+            },
+            {
+                "seasonNumber": 2,
+                "episodes": [
+                    {
+                        "episodeNumber": 1,
+                        "titleEpisode": "Rastreo de llamadas",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1753402492/backdropPathAgenteNocturno2x1_gafrbk.jpg",
+                        "sinopsisEpisode": "Tras una misión desastrosa en Bangkok, Peter desaparece para rastrear a un agente estadounidense acusado de espionaje. Mientras, Rose recibe una llamada inquietante.",
+                        "videoEpisode": "series/agente-nocturno/El+agente+nocturno+S02E01.mp4"
+                    },
+                    {
+                        "episodeNumber": 2,
+                        "titleEpisode": "Desconexión",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1753402492/backdropPathAgenteNocturno2x2_go63j1.jpg",
+                        "sinopsisEpisode": "Peter y Rose, juntos por fin, se apresuran para capturar a Warren. Noor usa su acceso a información clasificada sobre Irán para sus propios fines.",
+                        "videoEpisode": "series/agente-nocturno/El+agente+nocturno+S02E02.mp4"
+                    },
+                    {
+                        "episodeNumber": 3,
+                        "titleEpisode": "Propiedad del Gobierno",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1753402492/backdropPathAgenteNocturno2x3_b9wpse.jpg",
+                        "sinopsisEpisode": "Catherine colabora con Peter en la investigación no oficial de Foxglove, mientras Noor presencia un encuentro inesperado. Un secuestro se sale de control.",
+                        "videoEpisode": "series/agente-nocturno/El+agente+nocturno+S02E03.mp4"
+                    },
+                    {
+                        "episodeNumber": 4,
+                        "titleEpisode": "Medidas desesperadas",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1753402493/backdropPathAgenteNocturno2x4_aufoi0.jpg",
+                        "sinopsisEpisode": "Peter y Rose se infiltran en una fiesta en la residencia del embajador iraní y despiertan las sospechas de Javad. Tomás y Markus se enfrentan por el plan de Foxglove.",
+                        "videoEpisode": "series/agente-nocturno/El+agente+nocturno+S02E04.mp4"
+                    },
+                    {
+                        "episodeNumber": 5,
+                        "titleEpisode": "Un asunto familiar",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1753402493/backdropPathAgenteNocturno2x5_xt4edv.jpg",
+                        "sinopsisEpisode": "Jacob, ansioso por saber más sobre Acción Nocturna, le hace una generosa oferta a Solomon. Javad sospecha una traición. Sami tiene una misión secreta en Irán.",
+                        "videoEpisode": "series/agente-nocturno/El+agente+nocturno+S02E05.mp4"
+                    },
+                    {
+                        "episodeNumber": 6,
+                        "titleEpisode": "Un buen agente",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1753402495/backdropPathAgenteNocturno2x6_pwnhks.jpg",
+                        "sinopsisEpisode": "Rose tiene una crisis de conciencia. Viktor le revela a Tomás su verdadero objetivo. Cuando el equipo de Solomon sigue a Peter, el cazador se convierte en la presa.",
+                        "videoEpisode": "series/agente-nocturno/El+agente+nocturno+S02E06.mp4"
+                    },
+                    {
+                        "episodeNumber": 7,
+                        "titleEpisode": "Rabia",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1753402495/backdropPathAgenteNocturno2x7_kkbejq.jpg",
+                        "sinopsisEpisode": "Peter toma medidas extremas para hacer hablar a Solomon. Rose busca respuestas de un científico de Foxglove, pero queda atrapada en una situación mortal.",
+                        "videoEpisode": "series/agente-nocturno/El+agente+nocturno+S02E07.mp4"
+                    },
+                    {
+                        "episodeNumber": 8,
+                        "titleEpisode": "Divergencia",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1753402496/backdropPathAgenteNocturno2x8_ckyciu.jpg",
+                        "sinopsisEpisode": "Peter, desesperado por encontrar a Rose, hace un trato con Jacob que lo cambia todo. Tomás descubre hasta dónde puede llegar Markus por lealtad a su padre.",
+                        "videoEpisode": "series/agente-nocturno/El+agente+nocturno+S02E08.mp4"
+                    },
+                    {
+                        "episodeNumber": 9,
+                        "titleEpisode": "Intercambio cultural",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1753402496/backdropPathAgenteNocturno2x9_vxamzy.jpg",
+                        "sinopsisEpisode": "Peter usa sus habilidades para infiltrarse en uno de los lugares más seguros de Nueva York. Rose y el Dr. Cole ponen en marcha un plan para detener a Markus.",
+                        "videoEpisode": "series/agente-nocturno/El+agente+nocturno+S02E09.mp4"
+                    },
+                    {
+                        "episodeNumber": 10,
+                        "titleEpisode": "Remordimiento del comprador",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1753402496/backdropPathAgenteNocturno2x10_afxx3w.jpg",
+                        "sinopsisEpisode": "En una carrera contra el tiempo, Peter y Rose intentan evitar una masacre. Catherine hace una propuesta intrigante.",
+                        "videoEpisode": "series/agente-nocturno/El+agente+nocturno+S02E10.mp4"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "idFilm": "90Minutos2025",
+        "titleFilm": "90 minutos",
+        "sinopsisFilm": "Cuando Las Navajas, un equipo de fútbol amateur antaño legendario, se ve sacudido por una escandalosa reyerta, su anciano propietario recluta a la leyenda local <<Veneno>> Montoya para que entrene a los desvalidos en un torneo lleno de amargas rivalidades, amenazas de la mafia y probabilidades imposibles, iniciando un alocado viaje para recuperar su honor y restaurar el orgullo de su barrio.",
+        "categories": [
+            "Drama"
+        ],
+        "typeFilm": "Serie",
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1753411949/posterPath90Minutos_yftsir.jpg",
+        "logoPath": "90 minutos",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1753411939/backdropPath90Minutos_jgq1t4.jpg",
+        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1753403445/El_Agente_Nocturno_Tr%C3%A1iler_en_Espa%C3%B1ol_Netflix_ElAgenteNocturno_SerieAdictos_Netflix_lur3vj.mp4",
+        "videoFilm": "",
+        "punctuactionFilm": 10,
+        "durationFilm": "10 Ep.",
+        "movieDate": "2025",
+        "movieReleased": "2025-07-24",
+        "filmSeason": [
+            {
+                "seasonNumber": 1,
+                "episodes": [
+                    {
+                        "episodeNumber": 1,
+                        "titleEpisode": "Episodio 1",
+                        "backdropEpisode": "",
+                        "sinopsisEpisode": "Sin descripción...",
+                        "videoEpisode": "series/90-minutos/S01E01.mp4"
+                    },
+                    {
+                        "episodeNumber": 2,
+                        "titleEpisode": "Episodio 2",
+                        "backdropEpisode": "",
+                        "sinopsisEpisode": "Sin descripción...",
+                        "videoEpisode": "series/90-minutos/S01E02.mp4"
+                    },
+                    {
+                        "episodeNumber": 3,
+                        "titleEpisode": "Episodio 3",
+                        "backdropEpisode": "",
+                        "sinopsisEpisode": "Sin descripción...",
+                        "videoEpisode": "series/90-minutos/S01E03.mp4"
+                    },
+                    {
+                        "episodeNumber": 4,
+                        "titleEpisode": "Episodio 4",
+                        "backdropEpisode": "",
+                        "sinopsisEpisode": "Sin descripción...",
+                        "videoEpisode": "series/90-minutos/S01E04.mp4"
+                    },
+                    {
+                        "episodeNumber": 5,
+                        "titleEpisode": "Episodio 5",
+                        "backdropEpisode": "",
+                        "sinopsisEpisode": "Sin descripción...",
+                        "videoEpisode": "series/90-minutos/S01E05.mp4"
+                    },
+                    {
+                        "episodeNumber": 6,
+                        "titleEpisode": "Episodio 6",
+                        "backdropEpisode": "",
+                        "sinopsisEpisode": "Sin descripción...",
+                        "videoEpisode": "series/90-minutos/S01E06.mp4"
+                    },
+                    {
+                        "episodeNumber": 7,
+                        "titleEpisode": "Episodio 7",
+                        "backdropEpisode": "",
+                        "sinopsisEpisode": "Sin descripción...",
+                        "videoEpisode": "series/90-minutos/S01E07.mp4"
+                    },
+                    {
+                        "episodeNumber": 8,
+                        "titleEpisode": "Episodio 8",
+                        "backdropEpisode": "",
+                        "sinopsisEpisode": "Sin descripción...",
+                        "videoEpisode": "series/90-minutos/S01E08.mp4"
+                    },
+                    {
+                        "episodeNumber": 9,
+                        "titleEpisode": "Episodio 9",
+                        "backdropEpisode": "",
+                        "sinopsisEpisode": "Sin descripción...",
+                        "videoEpisode": "series/90-minutos/S01E09.mp4"
+                    },
+                    {
+                        "episodeNumber": 10,
+                        "titleEpisode": "Episodio 10",
+                        "backdropEpisode": "",
+                        "sinopsisEpisode": "Sin descripción...",
+                        "videoEpisode": "series/90-minutos/S01E10.mp4"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "idFilm": "theLastOfUs",
+        "titleFilm": "The Last of Us",
+        "sinopsisFilm": "Veinte años después de la destrucción de la civilización moderna, Joel, un aguerrido superviviente, es contratado para sacar a Ellie, una joven de 14 años, de una opresiva zona de cuarentena. Lo que empieza como un trabajo sencillo pronto se convierte en un viaje brutal y desgarrador, ya que ambos deben atravesar Estados Unidos y depender el uno del otro para sobrevivir.",
+        "categories": [
+            "Drama"
+        ],
+        "typeFilm": "Serie",
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1753411949/posterPath90Minutos_yftsir.jpg",
+        "logoPath": "90 minutos",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1753411939/backdropPath90Minutos_jgq1t4.jpg",
+        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1753403445/El_Agente_Nocturno_Tr%C3%A1iler_en_Espa%C3%B1ol_Netflix_ElAgenteNocturno_SerieAdictos_Netflix_lur3vj.mp4",
+        "videoFilm": "",
+        "punctuactionFilm": 10,
+        "durationFilm": "2 Temp.",
+        "movieDate": "2023/2025",
+        "movieReleased": "2025-07-24",
+        "filmSeason": [
+            {
+                "seasonNumber": 1,
+                "episodes": [
+                    {
+                        "episodeNumber": 1,
+                        "titleEpisode": "Episodio 1",
+                        "backdropEpisode": "",
+                        "sinopsisEpisode": "Sin descripción...",
+                        "videoEpisode": "series/90-minutos/S01E01.mp4"
+                    },
+                    {
+                        "episodeNumber": 2,
+                        "titleEpisode": "Episodio 2",
+                        "backdropEpisode": "",
+                        "sinopsisEpisode": "Sin descripción...",
+                        "videoEpisode": "series/90-minutos/S01E02.mp4"
+                    },
+                    {
+                        "episodeNumber": 3,
+                        "titleEpisode": "Episodio 3",
+                        "backdropEpisode": "",
+                        "sinopsisEpisode": "Sin descripción...",
+                        "videoEpisode": "series/90-minutos/S01E03.mp4"
+                    },
+                    {
+                        "episodeNumber": 4,
+                        "titleEpisode": "Episodio 4",
+                        "backdropEpisode": "",
+                        "sinopsisEpisode": "Sin descripción...",
+                        "videoEpisode": "series/90-minutos/S01E04.mp4"
+                    },
+                    {
+                        "episodeNumber": 5,
+                        "titleEpisode": "Episodio 5",
+                        "backdropEpisode": "",
+                        "sinopsisEpisode": "Sin descripción...",
+                        "videoEpisode": "series/90-minutos/S01E05.mp4"
+                    },
+                    {
+                        "episodeNumber": 6,
+                        "titleEpisode": "Episodio 6",
+                        "backdropEpisode": "",
+                        "sinopsisEpisode": "Sin descripción...",
+                        "videoEpisode": "series/90-minutos/S01E06.mp4"
+                    },
+                    {
+                        "episodeNumber": 7,
+                        "titleEpisode": "Episodio 7",
+                        "backdropEpisode": "",
+                        "sinopsisEpisode": "Sin descripción...",
+                        "videoEpisode": "series/90-minutos/S01E07.mp4"
+                    },
+                    {
+                        "episodeNumber": 8,
+                        "titleEpisode": "Episodio 8",
+                        "backdropEpisode": "",
+                        "sinopsisEpisode": "Sin descripción...",
+                        "videoEpisode": "series/90-minutos/S01E08.mp4"
+                    },
+                    {
+                        "episodeNumber": 9,
+                        "titleEpisode": "Episodio 9",
+                        "backdropEpisode": "",
+                        "sinopsisEpisode": "Sin descripción...",
+                        "videoEpisode": "series/90-minutos/S01E09.mp4"
+                    },
+                    {
+                        "episodeNumber": 10,
+                        "titleEpisode": "Episodio 10",
+                        "backdropEpisode": "",
+                        "sinopsisEpisode": "Sin descripción...",
+                        "videoEpisode": "series/90-minutos/S01E10.mp4"
+                    }
+                ]
+            }
+        ]
     }
 ]
