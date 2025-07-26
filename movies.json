@@ -1243,7 +1243,7 @@
         "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1752639308/posterPathComoEntrenarATuDragon_ynbrfr.jpg",
         "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1752639309/logoPathComoEntrenarATuDragon_sn53ca.png",
         "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1752639308/backdropPathComoEntrenarATuDragon_frwvyz.jpg",
-        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1752639188/C%C3%B3mo_Entrenar_A_Tu_Drag%C3%B3n_-_Tr%C3%A1iler_Oficial_Universal_Pictures_-_HD_ius1rw.mp4",
+        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1753501869/Como_entrenar_a_tu_dragon_-_Official_Teaser_Trailer_IMDb_q2qwbi.mp4",
         "videoFilm": "movies/Cómo entrenar a tu dragón (2025).mp4",
         "durationFilm": "2h 5m",
         "movieDate": "2025",
@@ -3034,101 +3034,6 @@
         "punctuactionFilm": 10,
         "durationFilm": "10 Ep.",
         "movieDate": "2025",
-        "movieReleased": "2025-07-24",
-        "filmSeason": [
-            {
-                "seasonNumber": 1,
-                "episodes": [
-                    {
-                        "episodeNumber": 1,
-                        "titleEpisode": "Episodio 1",
-                        "backdropEpisode": "",
-                        "sinopsisEpisode": "Sin descripción...",
-                        "videoEpisode": "series/90-minutos/S01E01.mp4"
-                    },
-                    {
-                        "episodeNumber": 2,
-                        "titleEpisode": "Episodio 2",
-                        "backdropEpisode": "",
-                        "sinopsisEpisode": "Sin descripción...",
-                        "videoEpisode": "series/90-minutos/S01E02.mp4"
-                    },
-                    {
-                        "episodeNumber": 3,
-                        "titleEpisode": "Episodio 3",
-                        "backdropEpisode": "",
-                        "sinopsisEpisode": "Sin descripción...",
-                        "videoEpisode": "series/90-minutos/S01E03.mp4"
-                    },
-                    {
-                        "episodeNumber": 4,
-                        "titleEpisode": "Episodio 4",
-                        "backdropEpisode": "",
-                        "sinopsisEpisode": "Sin descripción...",
-                        "videoEpisode": "series/90-minutos/S01E04.mp4"
-                    },
-                    {
-                        "episodeNumber": 5,
-                        "titleEpisode": "Episodio 5",
-                        "backdropEpisode": "",
-                        "sinopsisEpisode": "Sin descripción...",
-                        "videoEpisode": "series/90-minutos/S01E05.mp4"
-                    },
-                    {
-                        "episodeNumber": 6,
-                        "titleEpisode": "Episodio 6",
-                        "backdropEpisode": "",
-                        "sinopsisEpisode": "Sin descripción...",
-                        "videoEpisode": "series/90-minutos/S01E06.mp4"
-                    },
-                    {
-                        "episodeNumber": 7,
-                        "titleEpisode": "Episodio 7",
-                        "backdropEpisode": "",
-                        "sinopsisEpisode": "Sin descripción...",
-                        "videoEpisode": "series/90-minutos/S01E07.mp4"
-                    },
-                    {
-                        "episodeNumber": 8,
-                        "titleEpisode": "Episodio 8",
-                        "backdropEpisode": "",
-                        "sinopsisEpisode": "Sin descripción...",
-                        "videoEpisode": "series/90-minutos/S01E08.mp4"
-                    },
-                    {
-                        "episodeNumber": 9,
-                        "titleEpisode": "Episodio 9",
-                        "backdropEpisode": "",
-                        "sinopsisEpisode": "Sin descripción...",
-                        "videoEpisode": "series/90-minutos/S01E09.mp4"
-                    },
-                    {
-                        "episodeNumber": 10,
-                        "titleEpisode": "Episodio 10",
-                        "backdropEpisode": "",
-                        "sinopsisEpisode": "Sin descripción...",
-                        "videoEpisode": "series/90-minutos/S01E10.mp4"
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "idFilm": "theLastOfUs",
-        "titleFilm": "The Last of Us",
-        "sinopsisFilm": "Veinte años después de la destrucción de la civilización moderna, Joel, un aguerrido superviviente, es contratado para sacar a Ellie, una joven de 14 años, de una opresiva zona de cuarentena. Lo que empieza como un trabajo sencillo pronto se convierte en un viaje brutal y desgarrador, ya que ambos deben atravesar Estados Unidos y depender el uno del otro para sobrevivir.",
-        "categories": [
-            "Drama"
-        ],
-        "typeFilm": "Serie",
-        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1753411949/posterPath90Minutos_yftsir.jpg",
-        "logoPath": "90 minutos",
-        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1753411939/backdropPath90Minutos_jgq1t4.jpg",
-        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1753403445/El_Agente_Nocturno_Tr%C3%A1iler_en_Espa%C3%B1ol_Netflix_ElAgenteNocturno_SerieAdictos_Netflix_lur3vj.mp4",
-        "videoFilm": "",
-        "punctuactionFilm": 10,
-        "durationFilm": "2 Temp.",
-        "movieDate": "2023/2025",
         "movieReleased": "2025-07-24",
         "filmSeason": [
             {
