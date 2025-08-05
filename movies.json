@@ -3112,5 +3112,126 @@
                 ]
             }
         ]
+    },
+    {
+        "idFilm": "28AniosDespues",
+        "titleFilm": "Exterminio: La evolución",
+        "sinopsisFilm": "Años transcurridos tras los sucesos de «28 semanas después», el virus de la ira ha regresado y un grupo de supervivientes debe sobrevivir en un mundo asolado por hordas de infectados. Realizada con un iPhone 15 Pro Max y con la ayuda de numerosos accesorios especializados.",
+        "categories": [
+            "Terror",
+            "Suspense",
+            "Ciencia ficción"
+        ],
+        "typeFilm": "Pelicula",
+        "punctuactionFilm": 7.0,
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754340399/posterPathExterminioEvolucion_qx58xn.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754340400/logoPathExterminioEvolucion_uah9b2.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754340400/backdropPathExterminioEvolucion_tfuhjp.jpg",
+        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1754341760/28_anos_despues_-_28_Years_Later_IMDb_gm58tm.mp4",
+        "videoFilm": "movies/28 Years Later (2025) 720p.mkv",
+        "durationFilm": "1h 55m",
+        "movieDate": "2025",
+        "movieReleased": "2025-07-31"
+    },
+    {
+        "idFilm": "spiderManTravesSpiderUniverso",
+        "titleFilm": "Spider-Man: A través del Spider-Verso",
+        "sinopsisFilm": "Después de reunirse con Gwen Stacy, Miles Morales, el amigable Spider-Man del vecindario de tiempo completo de Brooklyn, es catapultado a través del Multiverso, donde se encuentra con un equipo de Spider-People encargado de proteger su existencia. Pero cuando los héroes chocan sobre cómo manejar una nueva amenaza, Miles se enfrenta a las otras arañas y debe redefinir lo que significa ser un héroe para poder salvar a las personas que más ama.",
+        "categories": [
+            "Animación",
+            "Acción",
+            "Aventura",
+            "Ciencia ficción"
+        ],
+        "typeFilm": "Pelicula",
+        "punctuactionFilm": 8.3,
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754340400/posterPathSpiderManTravesSpiderUniverso_sexyaa.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754340400/logoPathSpiderManTravesSpiderUniverso_kachmo.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754340400/backdropPathSpiderManTravesSpiderUniverso_ggsd7f.jpg",
+        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1754341750/Spider-Man_Cruzando_el_multiverso_-_Book_Tickets_IMDb_vkfxhs.mp4",
+        "videoFilm": "movies/Spider-Man A Través Del Spider Verso (2023) 720p.mkv",
+        "durationFilm": "2h 20m",
+        "movieDate": "2023",
+        "movieReleased": "2025-07-31"
+    },
+    {
+        "idFilm": "happyGilmore2",
+        "titleFilm": "Happy Gilmore 2",
+        "sinopsisFilm": "Happy, ya retirado del golf profesional, regresa al circuito no por gloria sino para financiar la escuela de danza de su hija, Viena.",
+        "categories": [
+            "Comedia"
+        ],
+        "typeFilm": "Pelicula",
+        "punctuactionFilm": 6.8,
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754340400/posterPathHappyGilmore2_hir5tj.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754340401/logoPathHappyGilmore2_ndumqw.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754340401/backdropPathHappyGilmore2_n3qzr9.jpg",
+        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1753372769/Five_Nights_At_Freddy_s_Official_Trailer_yoqz0q.mp4",
+        "videoFilm": "movies/Happy Gilmore 2 (2025) 720p.mkv",
+        "durationFilm": "1h 54m",
+        "movieDate": "2025",
+        "movieReleased": "2025-07-31"
+    },
+    {
+        "idFilm": "28diasDespues",
+        "titleFilm": "Exterminio",
+        "sinopsisFilm": "Cuatro semanas después de que un misterioso e incurable virus se extendiera por todo el Reino Unido, un puñado de supervivientes intentan encontrar refugio.",
+        "categories": [
+            "Terror",
+            "Suspense",
+            "Ciencia ficción"
+        ],
+        "typeFilm": "Pelicula",
+        "punctuactionFilm": 7.2,
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754413766/posterPath28DiasDespues_tn9g5s.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754413766/logoPath28DiasDespues_nbo9sb.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754413768/backdropPathZootopia_obfxyj.jpg",
+        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1754413616/28_dias_despues_2002_-_IMDb_datzxq.mp4",
+        "videoFilm": "movies/28DSDSPS-720p.mkv",
+        "durationFilm": "1h 53m",
+        "movieDate": "2002",
+        "movieReleased": "2025-08-05"
+    },
+    {
+        "idFilm": "spiderManNuevoUniverso",
+        "titleFilm": "Spider-Man: Un nuevo universo",
+        "sinopsisFilm": "En un universo paralelo donde Peter Parker ha muerto, un jóven de secundaria llamado Miles Morales es el nuevo Spider-Man. Sin embargo, cuando el líder mafioso Wilson Fisk (a.k.a Kingpin) construye el <<Super Colisionador>> trae a una versión alternativa de Peter Parker que tratará de enseñarle a Miles como ser un mejor Spider-Man. Pero no será el único Spider Man en entrar a este universo, 4 versiones alternas de Spidey aparecerán y buscarán regresar a su universo antes de que toda la realidad colapse.",
+        "categories": [
+            "Acción",
+            "Aventura",
+            "Animación",
+            "Ciencia ficción"
+        ],
+        "typeFilm": "Pelicula",
+        "punctuactionFilm": 8.4,
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754413767/posterPathSpiderManUnNuevoUniverso_zxbedc.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754413768/logoPathSpiderManUnNuevoUniverso_th7x08.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754413767/backdropPathSpiderManUnNuevoUniverso1_vtse3a.jpg",
+        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1754413616/Spider-Man_Un_nuevo_universo_-_Now_Playing_IMDb-01_hpndzp.mp4",
+        "videoFilm": "movies/Spider-man.into.the.spider-verse.2018.1080p-dual-lat.mp4",
+        "durationFilm": "1h 57m",
+        "movieDate": "2018",
+        "movieReleased": "2025-08-05"
+    },
+    {
+        "idFilm": "zootopia2016",
+        "titleFilm": "Zootopia",
+        "sinopsisFilm": "Decidida a demostrar su valía, la oficial Judy Hopps, la primera conejita de la fuerza policial de Zootopia, aprovecha la oportunidad de resolver su primer caso, incluso si eso significa asociarse con el zorro estafador Nick Wilde para resolver el misterio.",
+        "categories": [
+            "Familia",
+            "Aventura",
+            "Animación",
+            "Comedia"
+        ],
+        "typeFilm": "Pelicula",
+        "punctuactionFilm": 7.7,
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754413768/posterPathZootopia_ku78vi.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754413768/logoPathZootopia_dgfkp1.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754413768/backdropPathZootopia_obfxyj.jpg",
+        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1754413616/Zootropolis_-_Trailer_2_IMDb_zxfmmt.mp4",
+        "videoFilm": "movies/Zootopia (2016) 720p.mkv",
+        "durationFilm": "1h 49m",
+        "movieDate": "2016",
+        "movieReleased": "2025-08-05"
     }
 ]
