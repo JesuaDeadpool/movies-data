@@ -3312,5 +3312,149 @@
         "durationFilm": "1h 32m",
         "movieDate": "2020",
         "movieReleased": "2025-08-05"
+    },
+    {
+        "idFilm": "elElegido",
+        "titleFilm": "El Elegido",
+        "sinopsisFilm": "Un pescador carismático que lucha contra las deudas. Una mujer con problemas que lucha contra sus demonios. Un talentoso contable marginado por su familia y su pueblo. En esta innovadora primera temporada de <<Los elegidos>>, veremos cómo Jesús llega a cada uno de ellos y a muchos más mientras realiza sus primeros milagros y se embarca en su ministerio para cambiar el mundo. Míralo a través de los ojos de aquellos que lo conocieron.",
+        "categories": [
+            "Drama",
+            "Familia",
+            "Action & Adventure"
+        ],
+        "typeFilm": "Serie",
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754434253/posterPathElElegido_yy86kv.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754434253/logoPathElElegido_vtjnbe.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754434253/backdropPathElElegido_imbbsi.jpg",
+        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1754434839/Los_elegidos_Serie_de_TV_2017_-_Trailer_videos_-_FilmAffinity_vlnhk4.mp4",
+        "videoFilm": "",
+        "punctuactionFilm": 8.7,
+        "durationFilm": "5 Temp.",
+        "movieDate": "2019-2025",
+        "movieReleased": "2025-08-05",
+        "filmSeason": [
+            {
+                "seasonNumber": 1,
+                "episodes": [
+                    {
+                        "episodeNumber": 1,
+                        "titleEpisode": "Episodio 1",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754434253/backdropPathElElegido1x1_bitejz.jpg",
+                        "sinopsisEpisode": "Sin descripción...",
+                        "videoEpisode": "series/los-elegidos/Elegidos1x1.mp4"
+                    },
+                    {
+                        "episodeNumber": 2,
+                        "titleEpisode": "Episodio 2",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754434253/backdropPathElElegido1x2_kggbb1.jpg",
+                        "sinopsisEpisode": "Sin descripción...",
+                        "videoEpisode": "series/los-elegidos/Elegidos1x2.mp4"
+                    },
+                    {
+                        "episodeNumber": 3,
+                        "titleEpisode": "Episodio 3",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754434253/backdropPathElElegido1x3_vxit3n.jpg",
+                        "sinopsisEpisode": "Sin descripción...",
+                        "videoEpisode": "series/los-elegidos/Elegidos1x3.mp4"
+                    },
+                    {
+                        "episodeNumber": 4,
+                        "titleEpisode": "Episodio 4",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754434253/backdropPathElElegido1x4_uk7e9b.jpg",
+                        "sinopsisEpisode": "Sin descripción...",
+                        "videoEpisode": "series/los-elegidos/Elegidos1x4.mp4"
+                    },
+                    {
+                        "episodeNumber": 5,
+                        "titleEpisode": "Episodio 5",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754434253/backdropPathElElegido1x5_xsicye.jpg",
+                        "sinopsisEpisode": "Sin descripción...",
+                        "videoEpisode": "series/los-elegidos/Elegidos1x5.mp4"
+                    },
+                    {
+                        "episodeNumber": 6,
+                        "titleEpisode": "Episodio 6",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754434254/backdropPathElElegido1x6_lj0l0q.jpg",
+                        "sinopsisEpisode": "Sin descripción...",
+                        "videoEpisode": "series/los-elegidos/Elegidos1x6.mp4"
+                    },
+                    {
+                        "episodeNumber": 7,
+                        "titleEpisode": "Episodio 7",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754434253/backdropPathElElegido1x7_vp8fod.jpg",
+                        "sinopsisEpisode": "Sin descripción...",
+                        "videoEpisode": "series/los-elegidos/Elegidos1x7.mp4"
+                    },
+                    {
+                        "episodeNumber": 8,
+                        "titleEpisode": "Episodio 8",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754434254/backdropPathElElegido1x8_yvxywf.jpg",
+                        "sinopsisEpisode": "Sin descripción...",
+                        "videoEpisode": "series/los-elegidos/Elegidos1x8.mp4"
+                    }
+                ]
+            },
+            {
+                "seasonNumber": 1,
+                "episodes": [
+                    {
+                        "episodeNumber": 1,
+                        "titleEpisode": "Episodio 1",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754434254/backdropPathElElegido2x1_hgcgzs.jpg",
+                        "sinopsisEpisode": "Sin descripción...",
+                        "videoEpisode": "series/los-elegidos/Elegidos2x1.mp4"
+                    },
+                    {
+                        "episodeNumber": 2,
+                        "titleEpisode": "Episodio 2",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754434255/backdropPathElElegido2x2_djnljs.jpg",
+                        "sinopsisEpisode": "Sin descripción...",
+                        "videoEpisode": "series/los-elegidos/l0$.3l3g1d0$.2x2.LAT.mp4"
+                    },
+                    {
+                        "episodeNumber": 3,
+                        "titleEpisode": "Episodio 3",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754434257/backdropPathElElegido2x3_ld2syz.jpg",
+                        "sinopsisEpisode": "Sin descripción...",
+                        "videoEpisode": "series/los-elegidos/l0$.3l3g1d0$.2x3.LAT.mp4"
+                    },
+                    {
+                        "episodeNumber": 4,
+                        "titleEpisode": "Episodio 4",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754434258/backdropPathElElegido2x4_d1jsdq.jpg",
+                        "sinopsisEpisode": "Sin descripción...",
+                        "videoEpisode": "series/los-elegidos/l0$.3l3g1d0$.2x4.LAT.mp4"
+                    },
+                    {
+                        "episodeNumber": 5,
+                        "titleEpisode": "Episodio 5",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754434258/backdropPathElElegido2x5_zvdfed.jpg",
+                        "sinopsisEpisode": "Sin descripción...",
+                        "videoEpisode": "series/los-elegidos/l0$.3l3g1d0$.2x5.LAT.mp4"
+                    },
+                    {
+                        "episodeNumber": 6,
+                        "titleEpisode": "Episodio 6",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754434279/backdropPathElElegido2x6_zhpbcc.jpg",
+                        "sinopsisEpisode": "Sin descripción...",
+                        "videoEpisode": "series/los-elegidos/l0$.3l3g1d0$.2x6.LAT.mp4"
+                    },
+                    {
+                        "episodeNumber": 7,
+                        "titleEpisode": "Episodio 7",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754434305/backdropPathElElegido2x7_kg723n.jpg",
+                        "sinopsisEpisode": "Sin descripción...",
+                        "videoEpisode": "series/los-elegidos/l0$.3l3g1d0$.2x7.LAT.mp4"
+                    },
+                    {
+                        "episodeNumber": 8,
+                        "titleEpisode": "Episodio 8",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754434344/backdropPathElElegido2x8_ctygp9.jpg",
+                        "sinopsisEpisode": "Sin descripción...",
+                        "videoEpisode": "series/los-elegidos/l0$.3l3g1d0$.2x8.LAT.mp4"
+                    }
+                ]
+            }
+        ]
     }
 ]
