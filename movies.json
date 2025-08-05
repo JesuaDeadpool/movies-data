@@ -3185,7 +3185,7 @@
         "punctuactionFilm": 7.2,
         "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754413766/posterPath28DiasDespues_tn9g5s.jpg",
         "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754413766/logoPath28DiasDespues_nbo9sb.png",
-        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754413768/backdropPathZootopia_obfxyj.jpg",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754413767/backdropPath28DiasDespues_x6cper.jpg",
         "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1754413616/28_dias_despues_2002_-_IMDb_datzxq.mp4",
         "videoFilm": "movies/28DSDSPS-720p.mkv",
         "durationFilm": "1h 53m",
@@ -3228,10 +3228,89 @@
         "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754413768/posterPathZootopia_ku78vi.jpg",
         "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754413768/logoPathZootopia_dgfkp1.png",
         "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754413768/backdropPathZootopia_obfxyj.jpg",
-        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1754413616/Zootropolis_-_Trailer_2_IMDb_zxfmmt.mp4",
+        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1754426255/Zootopia_Movie_Tickets_Showtimes_Near_You_Fandango_mmtqos.mp4",
         "videoFilm": "movies/Zootopia (2016) 720p.mkv",
         "durationFilm": "1h 49m",
         "movieDate": "2016",
+        "movieReleased": "2025-08-05"
+    },
+    {
+        "idFilm": "duchess",
+        "titleFilm": "Duchess",
+        "sinopsisFilm": "Una dura delincuente de poca monta de clase trabajadora se transforma en una antiheroína a tener en cuenta en el turbio submundo del contrabando de diamantes.",
+        "categories": [
+            "Acción",
+            "Crimen",
+            "Suspense"
+        ],
+        "typeFilm": "Pelicula",
+        "punctuactionFilm": 6.0,
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754427688/posterPathDuchess_f0c3na.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754427687/logoPathDuchess_w0om4k.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754427687/backdropPathDuchess_jqhyyu.jpg",
+        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1754422938/La_duquesa_vengadora_2024_-_Trailer_videos_-_FilmAffinity_qexqss.mp4",
+        "videoFilm": "movies/Duchess (2024) 720p.mkv",
+        "durationFilm": "1h 53m",
+        "movieDate": "2024",
+        "movieReleased": "2025-08-05"
+    },
+    {
+        "idFilm": "patos2023",
+        "titleFilm": "¡Patos!",
+        "sinopsisFilm": "Una dura delincuente de poca monta de clase trabajadora se transforma en una antiheroína a tener en cuenta en el turbio submundo del contrabando de diamantes.",
+        "categories": [
+            "Familia",
+            "Comedia",
+            "Aventura",
+            "Animación"
+        ],
+        "typeFilm": "Pelicula",
+        "punctuactionFilm": 7.4,
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754427688/posterPathPatos_kwm01a.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754427688/logoPathPatos_h1bqwc.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754427688/backdropPathPatos_pmkfhr.jpg",
+        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1754427115/Patos_2023_-_Trailer_videos_-_FilmAffinity_zhibty.mp4",
+        "videoFilm": "movies/¡Patos! (2023) 720p.mkv",
+        "durationFilm": "1h 23m",
+        "movieDate": "2023",
+        "movieReleased": "2025-08-05"
+    },
+    {
+        "idFilm": "hombreAcero",
+        "titleFilm": "El Hombre de Acero",
+        "sinopsisFilm": "Un niño extraterrestre es evacuado de su mundo moribundo y enviado a la Tierra para vivir entre los humanos. Su paz se ve amenazada cuando los sobrevivientes de su planeta invaden la Tierra.",
+        "categories": [
+            "Acción",
+            "Aventura",
+            "Ciencia ficción"
+        ],
+        "typeFilm": "Pelicula",
+        "punctuactionFilm": 6.6,
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754427688/posterPathHombreAcero_izl4cn.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754427688/logoPathHombreAcero_y8zlxv.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754427688/backdropPathHombreAcero_s9fb9n.jpg",
+        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1754426236/El_hombre_de_acero_2013_-_Trailer_videos_-_FilmAffinity_ctnmk0.mp4",
+        "videoFilm": "movies/ELHMBDACR13 720p.mkv",
+        "durationFilm": "2h 23m",
+        "movieDate": "2013",
+        "movieReleased": "2025-08-05"
+    },
+    {
+        "idFilm": "maldito2Ritual",
+        "titleFilm": "Maldito 2: El ritual",
+        "sinopsisFilm": "Ebru estudia periodismo y no presta atención a las historias que se cuentan sobre la desaparición de chicas de la residencia. Pero tras vivir experiencias aterradoras, Ebru decide investigar los casos, descubriendo rápidamente terribles verdades. Pronto se encuentra en medio de un ritual que romperá el acuerdo entre humanos y espíritus que ha existido durante años.",
+        "categories": [
+            "Terror"
+        ],
+        "typeFilm": "Pelicula",
+        "punctuactionFilm": 8.0,
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754427687/posterPathMaldito2Ritual_nd4om8.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754427689/logoPathMaldito2Ritual_jxtvku.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754427688/backdropPathMaldito2Ritual_mhwfcp.jpg",
+        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1754426249/Maldito_2_El_ritual_-_Apple_TV_zssa65.mp4",
+        "videoFilm": "movies/Maldito 2 El ritual 720p.mkv",
+        "durationFilm": "1h 32m",
+        "movieDate": "2020",
         "movieReleased": "2025-08-05"
     }
 ]
