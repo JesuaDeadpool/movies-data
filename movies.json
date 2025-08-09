@@ -3395,7 +3395,7 @@
                 ]
             },
             {
-                "seasonNumber": 1,
+                "seasonNumber": 2,
                 "episodes": [
                     {
                         "episodeNumber": 1,
@@ -3456,5 +3456,66 @@
                 ]
             }
         ]
+    },
+    {
+        "idFilm": "ejercitoDeLadrones",
+        "titleFilm": "El ejército de los ladrones",
+        "sinopsisFilm": "Una misteriosa mujer recluta a Dieter, un empleado bancario, para que ayude a su equipo a abrir tres bóvedas en Europa.",
+        "categories": [
+            "Acción",
+            "Crimen",
+            "Comedia"
+        ],
+        "typeFilm": "Pelicula",
+        "punctuactionFilm": 6.8,
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754715708/posterPathEjercitoLadrones_srtydi.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754715707/logoPathEjercitoLadrones_k7o0b6.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754715708/backdropPathEjercitoLadrones_rvfgmf.jpg",
+        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1754716173/Army_of_Thieves_Official_Trailer_Netflix_1_bwftqv.mp4",
+        "videoFilm": "movies/El Ejercito De Los Ladrones (2021) 720p.mkv",
+        "durationFilm": "2h 7m",
+        "movieDate": "2021",
+        "movieReleased": "2025-08-08"
+    },
+    {
+        "idFilm": "megamente2010",
+        "titleFilm": "Megamente",
+        "sinopsisFilm": "Megamente es el supervillano más brillante que el mundo haya conocido. Y el que menos éxito tiene. Durante años, ha estado intentando conquistar Metro City por todos los medios posibles. Cada intento constituye un fracaso, por culpa de Metro Man, un héroe invencible hasta que Megamente consigue matarlo...",
+        "categories": [
+            "Acción",
+            "Familia",
+            "Comedia",
+            "Animación"
+        ],
+        "typeFilm": "Pelicula",
+        "punctuactionFilm": 7.0,
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754715708/posterPathMegamente_i1zit4.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754715708/logoPathMegamente_yj3gdd.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754715708/backdropPathMegamente_vxyjbs.jpg",
+        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1754715957/MegaMind_Theatrial_Trailer_2010_HD_1080P_mmjceg.mp4",
+        "videoFilm": "movies/El Ejercito De Los Ladrones (2021) 720p.mkv",
+        "durationFilm": "1h 36m",
+        "movieDate": "2010",
+        "movieReleased": "2025-08-08"
+    },
+    {
+        "idFilm": "miAnioOxford",
+        "titleFilm": "Mi año en Oxford",
+        "sinopsisFilm": "Una estadounidense ambiciosa cumple su sueño de estudiar en Oxford, pero se enamora de un encantador profesor que esconde un secreto que podría cambiar todos sus planes.",
+        "categories": [
+            "Romance",
+            "Drama",
+            "Comedia"
+        ],
+        "typeFilm": "Pelicula",
+        "punctuactionFilm": 7.3,
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754715708/posterPathMiAnioOxford_koq3sh.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754715708/logoPathMiAnioOxford_bo1vnu.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754715708/backdropPathMiAnioOxford_agbfwv.jpg",
+        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1754715943/My_Oxford_Year_Official_Trailer_Netflix_1_jzz5y4.mp4",
+        "videoFilm": "movies/Mi año en Oxford (2025) 720p.mkv",
+        "durationFilm": "1h 53m",
+        "movieDate": "2025",
+        "movieReleased": "2025-08-08"
     }
 ]
