@@ -2085,7 +2085,7 @@
         "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1749866077/posterPathGoodBoy_a4i3gk.jpg",
         "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1749866077/logoPathGoodBoy_e0rigi.png",
         "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1749866077/backdropPathGoodBoy_hxggyx.jpg",
-        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1748564943/TrailerLiloStitch_ji89qc.mp4ST",
+        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1754890648/GOOD_BOY_Official_Trailer_Prime_Video_SgM_bXTyLyc_vnxvoh.mp4",
         "videoFilm": "",
         "punctuactionFilm": 8.2,
         "durationFilm": "1h",
@@ -3517,5 +3517,63 @@
         "durationFilm": "1h 53m",
         "movieDate": "2025",
         "movieReleased": "2025-08-08"
+    },
+    {
+        "idFilm": "elMuroNegro",
+        "titleFilm": "El muro negro",
+        "sinopsisFilm": "Cuando un misterioso muro rodea su edificio de la noche a la mañana, Tim y Olivia deben unirse a sus vecinos... para escapar con vida.",
+        "categories": [
+            "Suspense",
+            "Ciencia ficción"
+        ],
+        "typeFilm": "Pelicula",
+        "punctuactionFilm": 5.8,
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754890247/posterPathMuroNegro_ktibme.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754890246/logoPathMuroNegro_gzunzh.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754890247/backdropPathMuroNegro_f8evxw.jpg",
+        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1754890669/El_Muro_Negro_Teaser_Tr%C3%A1iler_en_Espa%C3%B1ol_Pel%C3%ADcula_de_Netflix_sGujou8Azr0_v4opgx.mp4",
+        "videoFilm": "movies/El muro negro (2025) 720p.mkv",
+        "durationFilm": "1h 39m",
+        "movieDate": "2025",
+        "movieReleased": "2025-08-10"
+    },
+    {
+        "idFilm": "hastaUltimoHombre",
+        "titleFilm": "Hasta el Último Hombre",
+        "sinopsisFilm": "Japón, 1945. Desmond Doss, un hombre contrario a la violencia, se alista en el ejército de EEUU para servir como médico de guerra en plena II Guerra Mundial. Tras luchar contra todo el estamento militar y enfrentarse a un juicio de guerra por su negativa a coger un rifle, consigue su objetivo y es enviado a servir como médico al frente japonés. A pesar de ser recibido con recelo por todo el batallón durante la salvaje toma de Okinawa, Desmond demuestra su valor salvando a 75 hombres heridos consiguiendo el respeto de los soldados...",
+        "categories": [
+            "Drama",
+            "Historia",
+            "Bélica"
+        ],
+        "typeFilm": "Pelicula",
+        "punctuactionFilm": 8.2,
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754890247/posterPathUltimoHombre_gsoaqh.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754890247/logoPathUltimoHombre_jfgwnz.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754890247/backdropPathUltimoHomrbe_tq2dns.jpg",
+        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1754890658/Hacksaw_Ridge_2016_Official_Trailer_Believe_-_Andrew_Garfield_s2-1hz1juBI_l7ahmr.mp4",
+        "videoFilm": "movies/Hasta el ultimo hombre 2016 1080p.mkv",
+        "durationFilm": "2h 19m",
+        "movieDate": "2016",
+        "movieReleased": "2025-08-10"
+    },
+    {
+        "idFilm": "juneJohn",
+        "titleFilm": "June y John",
+        "sinopsisFilm": "John, atrapado en una vida rutinaria y monótona, conoce a June, una excéntrica y misteriosa chica, que pondrá su vida patas arriba. Juntos emprenderán un alocado viaje lleno de pasión y riesgo en el que desafiarán a la justicia y las normas sociales y que cambiará la vida de ambos para siempre..",
+        "categories": [
+            "Romance",
+            "Suspense"
+        ],
+        "typeFilm": "Pelicula",
+        "punctuactionFilm": 6.4,
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754890248/posterPathJuneJohn_xfslue.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754890247/logoPathJuneJohn_qarycz.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754890247/backdropPathJuneJohn_jpy23m.jpg",
+        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1754890509/June_y_John_2025_-_Trailer_videos_-_FilmAffinity_qcpfsh.mp4",
+        "videoFilm": "movies/June y John (2025) 720p.mkv",
+        "durationFilm": "1h 32m",
+        "movieDate": "2025",
+        "movieReleased": "2025-08-10"
     }
 ]
