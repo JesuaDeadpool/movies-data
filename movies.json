@@ -2088,7 +2088,7 @@
         "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1754890648/GOOD_BOY_Official_Trailer_Prime_Video_SgM_bXTyLyc_vnxvoh.mp4",
         "videoFilm": "",
         "punctuactionFilm": 8.2,
-        "durationFilm": "1h",
+        "durationFilm": "16 Ep.",
         "movieDate": "2025",
         "movieReleased": "2025-06-13",
         "filmSeason": [
@@ -2128,14 +2128,84 @@
                         "titleEpisode": "Amor borracho",
                         "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1750135176/backdropPathGodBoy1x5_mrdyhg.jpg",
                         "sinopsisEpisode": "Mientras investiga a Ju-yeong, el Equipo Especial de Investigación Criminal se ve obligado a entregarlo a la fiscalía tras una intervención repentina. Dong-ju es hospitalizado para realizarle pruebas tras su accidente de coche, y el equipo investiga a fondo la verdadera identidad de Ju-yeong y sus vínculos con la fiscalía.",
-                        "videoEpisode": "doramas/good-boy/goodBoy1x4.mp4"
+                        "videoEpisode": "doramas/good-boy/S01E05.mp4"
                     },
                     {
                         "episodeNumber": 6,
                         "titleEpisode": "Contragolpe",
                         "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1750135176/backdropPathGodBoy1x6_cu8reh.jpg",
                         "sinopsisEpisode": "Usando el beso sorpresa de Han-na como excusa, Dong-ju sale a solas con ella a investigar y descubre el teléfono desechable de Ju-yeong. Jong-hyeon se siente cada vez más incómodo a medida que Dong-ju y Han-na se acercan. Mientras tanto, Drugmon, bajo vigilancia en un apartamento, comienza a planear su escape.",
-                        "videoEpisode": "doramas/good-boy/goodBoy1x4.mp4"
+                        "videoEpisode": "doramas/good-boy/Buen+Chico+S01E06.mp4"
+                    },
+                    {
+                        "episodeNumber": 7,
+                        "titleEpisode": "Par terre Par terre",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754966283/backdropPathBuenChico1x7_fwuoy3.jpg",
+                        "sinopsisEpisode": "El ataque de Dong-ju pone en crisis al Equipo Especial de Investigación Criminal. Man-sik pelea por que el equipo siga en pie, mientras los demás continúan investigando a Ju-yeong, agobiados por la incertidumbre. Ju-yeong deja el hospital y se dirige a un lugar desconocido.",
+                        "videoEpisode": "doramas/good-boy/Buen+Chico+S01E07.mp4"
+                    },
+                    {
+                        "episodeNumber": 8,
+                        "titleEpisode": "Bala perdida",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754966283/backdropPathBuenChico1x8_schbnj.jpg",
+                        "sinopsisEpisode": "El Equipo Especial de Investigación Criminal se entera del contrabando de drogas de Ju-yeong y se infiltra en la Aduana como una unidad de cuarentena. Siguen una pista que les deja Drugmon y logran encontrar el contenedor que oculta las drogas, pero caen directamente en la trampa de Ju-yeong.",
+                        "videoEpisode": "doramas/good-boy/Buen+Chico+S01E08.mp4"
+                    },
+                    {
+                        "episodeNumber": 9,
+                        "titleEpisode": "Adelante",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754966283/backdropPathBuenChico1x9_jnqz1b.jpg",
+                        "sinopsisEpisode": "Luego del secuestro de Han-na, Dong-ju y Jong-hyeon corren a rescatarla, pero caen en una trampa mortal. Cuando parece que ya no hay salida, se oye un disparo inesperado. Con un sacrificio imprevisto que conmociona al equipo, ¿lograrán sobrevivir?",
+                        "videoEpisode": "doramas/good-boy/Buen+Chico+S01E09.mp4"
+                    },
+                    {
+                        "episodeNumber": 10,
+                        "titleEpisode": "Tiempo muerto",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754966282/backdropPathBuenChico1x10_zfetjp.jpg",
+                        "sinopsisEpisode": "El Equipo de Investigación Criminal al final se disuelve. Dong-ju prepara en soledad su venganza contra Ju-yeong, pero su accionar imprudente genera una crisis peor. Al descubrir su plan, Ju-yeong lanza un contraataque.",
+                        "videoEpisode": "doramas/good-boy/Buen+Chico+S01E10.mp4"
+                    },
+                    {
+                        "episodeNumber": 11,
+                        "titleEpisode": "Cuenta regresiva",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754966282/backdropPathBuenChico1x11_e4iffg.jpg",
+                        "sinopsisEpisode": "El Equipo Especial de Investigación Criminal se reúne y descubre el gran secreto de Ju-yeong. Por la ansiedad que le genera la provocativa cuenta regresiva de Dong-ju, Ju-yeong toma medidas desesperadas. ¿Quién reirá último?",
+                        "videoEpisode": "doramas/good-boy/Buen+Chico+S01E11.mp4"
+                    },
+                    {
+                        "episodeNumber": 12,
+                        "titleEpisode": "Falta",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754966282/backdropPathBuenChico1x12_ofjkqz.jpg",
+                        "sinopsisEpisode": "Luego de caer en la trampa de Ju-yeong, Dong-ju sufre una herida grave y enfrenta su peor crisis. ¿Podrá superarla o sucumbirá en el intento?",
+                        "videoEpisode": "doramas/good-boy/Buen+Chico+S01E12.mp4"
+                    },
+                    {
+                        "episodeNumber": 13,
+                        "titleEpisode": "Carga, empieza… no pares",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754966282/backdropPathBuenChico1x13_vrdbhc.jpg",
+                        "sinopsisEpisode": "Sin posibilidad de retroceder, Dong-ju y su equipo lanzan su ataque final contra Ju-yeong. Avanzan sin dudar, pero pronto se enfrentan a feroces contraataques y obstáculos inesperados. ¿Cuál será su destino?",
+                        "videoEpisode": "doramas/good-boy/Buen+Chico+S01E13.mp4"
+                    },
+                    {
+                        "episodeNumber": 14,
+                        "titleEpisode": "Los reyes nunca mueren",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754966283/backdropPathBuenChico1x14_ypc44u.jpg",
+                        "sinopsisEpisode": "En su combate final contra Ju-yeong, Dong-ju y su equipo luchan desesperadamente por ganar. En esta batalla decisiva entre dos hombres que se niegan a rendirse, ¿quién será el verdadero campeón que quedará en pie en el cuadrilátero?",
+                        "videoEpisode": "doramas/good-boy/Buen+Chico+S01E14.mp4"
+                    },
+                    {
+                        "episodeNumber": 15,
+                        "titleEpisode": "Contra las cuerdas",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754966282/backdropPathBuenChico1x15_qgta1q.jpg",
+                        "sinopsisEpisode": "Toda la Policía de Insung se une para lanzar una operación a gran escala contra el cartel de Ju-yeong. Pero, justo cuando la victoria parece cercana, el contraataque más devastador de Ju-yeong sume a la ciudad en un caos absoluto.",
+                        "videoEpisode": "doramas/good-boy/Buen+Chico+S01E15.mp4"
+                    },
+                    {
+                        "episodeNumber": 16,
+                        "titleEpisode": "Somos los campeones",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754966282/backdropPathBuenChico1x16_o9xubm.jpg",
+                        "sinopsisEpisode": "En medio del caos, Dong-ju y su equipo inician su batalla final para decidir el destino de la ciudad de Insung. Con el peso de las esperanzas y expectativas de todos sobre sus hombros, ¿lograrán la victoria definitiva y regresarán como verdaderos héroes?",
+                        "videoEpisode": "doramas/good-boy/Buen+Chico+S01E16.mp4"
                     }
                 ]
             }
@@ -3575,5 +3645,183 @@
         "durationFilm": "1h 32m",
         "movieDate": "2025",
         "movieReleased": "2025-08-10"
+    },
+    {
+        "idFilm": "merlina",
+        "titleFilm": "Merlina",
+        "sinopsisFilm": "Inteligente, sarcástica y un poco muerta por dentro, Merlina Addams investiga una ola de asesinatos mientras hace nuevos amigos (y enemigos) en la Academia Nunca Más.",
+        "categories": [
+            "Sci-Fi & Fantasy",
+            "Misterio",
+            "Comedia"
+        ],
+        "typeFilm": "Serie",
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754963826/posterPathMerlina_tk3w7s.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754963826/logoPathMerlina_p1jiub.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754963826/backdropPathMerlina_burcss.jpg",
+        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1754964144/Merlina_Temporada_2_Tr%C3%A1iler_oficial_Netflix_I53DryQ0QJQ_f5krqy.mp4",
+        "videoFilm": "",
+        "punctuactionFilm": 8.4,
+        "durationFilm": "2 Temp.",
+        "movieDate": "2022-2025",
+        "movieReleased": "2025-08-11",
+        "filmSeason": [
+            {
+                "seasonNumber": 1,
+                "episodes": [
+                    {
+                        "episodeNumber": 1,
+                        "titleEpisode": "Y un sombrío día nació",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754963826/backdropPathMerlina1x1_nqr3vq.jpg",
+                        "sinopsisEpisode": "Cuando expulsan a Merlina de la escuela por hacer una broma deliciosamente malvada, sus padres la envían a la Academia Nunca Más: el internado donde se enamoraron.",
+                        "videoEpisode": "series/merlina/MerlS01E01.mp4"
+                    },
+                    {
+                        "episodeNumber": 2,
+                        "titleEpisode": "El sombrío encanto de la soledad",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754963826/backdropPathMerlina1x2_g1wsra.jpg",
+                        "sinopsisEpisode": "El sheriff cuestiona los dichos de Merlina sobre los extraños sucesos de la noche. Más tarde, Merlina se enfrenta a una feroz rival en la despiadada carrera de la Copa Poe.",
+                        "videoEpisode": "series/merlina/MerlS01E02.mp4"
+                    },
+                    {
+                        "episodeNumber": 3,
+                        "titleEpisode": "Amistad, sombrío tesoro",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754963826/backdropPathMerlina1x3_wqbbnv.jpg",
+                        "sinopsisEpisode": "Merlina descubre una sociedad secreta. Durante el Día de Contacto, los raros de Nunca Más se reúnen con los normi de Jericó en el Mundo Peregrino. ¿Alguien quiere caramelo?",
+                        "videoEpisode": "series/merlina/MerlS01E03.mp4"
+                    },
+                    {
+                        "episodeNumber": 4,
+                        "titleEpisode": "Una sombría noche de baile",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754963827/backdropPathMerlina1x4_ewmzjs.jpg",
+                        "sinopsisEpisode": "Merlina invita a Xavier al baile de Rave'N, y Tyler hierve de celos..., pero Dedos guarda un as bajo la manga. Entretanto, Eugene vigila la cueva.",
+                        "videoEpisode": "series/merlina/MerlS01E04.mp4"
+                    },
+                    {
+                        "episodeNumber": 5,
+                        "titleEpisode": "Cosecharás tu sombría siembra",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754963827/backdropPathMerlina1x5_ajjydp.jpg",
+                        "sinopsisEpisode": "Durante la visita de padres, Merlina desentierra el pasado de su familia... y, sin quererlo, provoca un arresto. Enid siente la presión de tener que «enlobarse».",
+                        "videoEpisode": "series/merlina/MerlS01E05.mp4"
+                    },
+                    {
+                        "episodeNumber": 6,
+                        "titleEpisode": "Sombríamente en deuda",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754963827/backdropPathMerlina1x6_llxgry.jpg",
+                        "sinopsisEpisode": "Los amigos de Merlina le organizan una fiesta de cumpleaños sorpresa. Tienen buenas intenciones, pero ella preferiría pasar la miserable ocasión resolviendo los asesinatos...",
+                        "videoEpisode": "series/merlina/MerlS01E06.mp4"
+                    },
+                    {
+                        "episodeNumber": 7,
+                        "titleEpisode": "Un sombrío dilema",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754963827/backdropPathMerlina1x7_ps00ug.jpg",
+                        "sinopsisEpisode": "El excéntrico tío Lucas comparte su teoría sobre el monstruo. A regañadientes, Merlina acepta tener una cita con Tyler en la cripta de Crackstone.",
+                        "videoEpisode": "series/merlina/MerlS01E07.mp4"
+                    },
+                    {
+                        "episodeNumber": 8,
+                        "titleEpisode": "Fuerzas sombrías como una bandada de cuervos",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754963827/backdropPathMerlina1x8_kjwdpd.jpg",
+                        "sinopsisEpisode": "Merlina se mete en problemas con la directora Weems, pero eso es solo el comienzo... Para luchar contra un demonio ancestral, ¡necesitará la ayuda de todos sus amigos!",
+                        "videoEpisode": "series/merlina/MerlS01E08.mp4"
+                    }
+                ]
+            },
+            {
+                "seasonNumber": 2,
+                "episodes": [
+                    {
+                        "episodeNumber": 1,
+                        "titleEpisode": "Y un sombrío día volvió",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754963829/backdropPathMerlina2x1_bg1sah.jpg",
+                        "sinopsisEpisode": "Tras un productivo verano, Merlina vuelve a Nunca Más como una celebridad, cosa que a ella ―por supuesto― no le hace nada de gracia. La fama puede atraer obsesiones peligrosas...",
+                        "videoEpisode": "series/merlina/MRLN15WS481NPD263VBN2X1.mp4"
+                    },
+                    {
+                        "episodeNumber": 2,
+                        "titleEpisode": "Más vale un sombrío demonio conocido...",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754963829/backdropPathMerlina2x2_eypal3.jpg",
+                        "sinopsisEpisode": "Como todos los años, el caos se apodera de la academia cuando llega el Día de las Bromas. Merlina se enfrenta a un viejo enemigo y gana una aliada impensada.",
+                        "videoEpisode": "series/merlina/MRLN15WS481NPD263VBN2X2.mp4"
+                    },
+                    {
+                        "episodeNumber": 3,
+                        "titleEpisode": "El llamado de la sombría naturaleza",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754963829/backdropPathMerlina2x3_qyfazg.jpg",
+                        "sinopsisEpisode": "Despojada tanto de sus visiones como del libro de Goody, Merlina tiene que hacer su trabajo detectivesco de la manera tradicional durante un campamento escolar.",
+                        "videoEpisode": "series/merlina/MRLN15WS481NPD263VBN2X3.mp4"
+                    },
+                    {
+                        "episodeNumber": 4,
+                        "titleEpisode": "Si estas sombrías paredes hablaran",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754963830/backdropPathMerlina2x4_ohisng.jpg",
+                        "sinopsisEpisode": "Lucas y Dedos se suman a la investigación de Merlina. Bianca intenta esconder un secreto y termina descubriendo otro.",
+                        "videoEpisode": "series/merlina/MRLN15WS481NPD263VBN2X4.mp4"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "idFilm": "chernobyl",
+        "titleFilm": "Chernobyl",
+        "sinopsisFilm": "Sigue «la verdadera historia de una de las peores catástrofes provocadas por el hombre y habla de los valientes hombres y mujeres que se sacrificaron para salvar a Europa de un desastre inimaginable. La miniserie se centra en el desgarrador alcance del desastre de la planta nuclear que ocurrió en Ucrania en abril de 1986, revelando cómo y por qué ocurrió, además contando las sorprendentes y notables historias de los héroes que lucharon y cayeron.",
+        "categories": [
+            "Sci-Fi & Fantasy",
+            "Misterio",
+            "Comedia"
+        ],
+        "typeFilm": "Serie",
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754965339/posterPathChernobyl_ke7ipl.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754965339/logoPathChernobyl_tg5yrz.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754965339/backdropPathChernobyl_isupht.jpg",
+        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1754965594/Chernobyl_2019_Date_Announcement_Teaser_Trailer_PMlwjCID3Io_mpyozi.mp4",
+        "videoFilm": "",
+        "punctuactionFilm": 8.7,
+        "durationFilm": "5 Ep.",
+        "movieDate": "2019",
+        "movieReleased": "2025-08-11",
+        "filmSeason": [
+            {
+                "seasonNumber": 1,
+                "episodes": [
+                    {
+                        "episodeNumber": 1,
+                        "titleEpisode": "1:23:45",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754965339/backdropPathChernobyl1x1_xb8eaw.jpg",
+                        "sinopsisEpisode": "26 de abril de 1986, RSS de Ucrania. Trabajadores de la planta y bomberos arriesgan sus vidas para controlar la catastrófica explosión de 1986 en una central nuclear soviética.",
+                        "videoEpisode": "series/chernobyl/Chernobyl+-+1.mp4"
+                    },
+                    {
+                        "episodeNumber": 2,
+                        "titleEpisode": "Por favor, mantengan la calma",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754965339/backdropPathChernobyl1x2_tyuayz.jpg",
+                        "sinopsisEpisode": "Con millones de personas en peligro después de la explosión de Chernobyl, la físico nuclear Ulana Khomyuk hace un intento desesperado de llegar a Valery Legasov, un destacado físico nuclear soviético, y le advierte sobre la amenaza de una segunda explosión que podría devastar el continente.",
+                        "videoEpisode": "series/chernobyl/Chernobyl+-+2.mp4"
+                    },
+                    {
+                        "episodeNumber": 3,
+                        "titleEpisode": "Tierra, ábrete",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754965339/backdropPathChernobyl1x3_siegmx.jpg",
+                        "sinopsisEpisode": "Lyudmilla Ignatenko ignora las advertencias sobre la contaminación de su marido, Legásov crea un plan de descontaminación en el que tiene en cuenta las vidas humanas en juego.",
+                        "videoEpisode": "series/chernobyl/Chernobyl+-+3.mp4"
+                    },
+                    {
+                        "episodeNumber": 4,
+                        "titleEpisode": "La felicidad de la humanidad",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754965340/backdropPathChernobyl1x4_xqkmxm.jpg",
+                        "sinopsisEpisode": "Valery Legasov y el viceprimer ministro soviético Boris Shcherbina consideran usar vehículos lunares para eliminar los desechos radiactivos, mientras tanto Ulana Khomyuk se enfrenta a obstáculos gubernamentales para determinar la verdad sobre la causa de la explosión.",
+                        "videoEpisode": "series/chernobyl/Chernobyl+-+4.mp4"
+                    },
+                    {
+                        "episodeNumber": 5,
+                        "titleEpisode": "Vichnaya Pamyat",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754965340/backdropPathChernobyl1x5_rnirym.jpg",
+                        "sinopsisEpisode": "Valery Legasov, Boris Shcherbina y Ulana Khomyuk arriesgan sus vidas y reputaciones para exponer la verdad sobre Chernobyl.",
+                        "videoEpisode": "series/chernobyl/Chernobyl+-+5.mp4"
+                    }
+                ]
+            }
+        ]
     }
 ]
