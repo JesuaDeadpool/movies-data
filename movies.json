@@ -3823,5 +3823,176 @@
                 ]
             }
         ]
+    },
+    {
+        "idFilm": "breakingBad",
+        "titleFilm": "Breaking Bad",
+        "sinopsisFilm": "Un profesor de Química de secundaria con cáncer terminal se asocia a un exestudiante para asegurar el futuro de su familia al fabricar y vender metanfetamina.",
+        "categories": [
+            "Drama",
+            "Crimen"
+        ],
+        "typeFilm": "Serie",
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754976069/posterPathBreakingBad_mntb14.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754976068/logoPathBreakingBad_f7gabl.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754976068/backdropPathBreakingBad_abcjti.jpg",
+        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1754976701/Breaking_Bad_Trailer_First_Season_HhesaQXLuRY_ccl2wo.mp4",
+        "videoFilm": "",
+        "punctuactionFilm": 8.9,
+        "durationFilm": "5 Temp.",
+        "movieDate": "2008",
+        "movieReleased": "2025-08-11",
+        "filmSeason": [
+            {
+                "seasonNumber": 1,
+                "episodes": [
+                    {
+                        "episodeNumber": 1,
+                        "titleEpisode": "Episodio 1 - Piloto",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754976068/backdropPathBreakingBad1x1_ki9vh0.jpg",
+                        "sinopsisEpisode": "Walter White, un profesor de química de 50 años de edad, secretamente comienza a cocinar cristales de metanfetamina para ayudar a su familia, después de que descubre que tiene cáncer pulmonar.",
+                        "videoEpisode": "series/breaking-bad/Breaking+Bad+S1-E1+HD-720p.mp4"
+                    },
+                    {
+                        "episodeNumber": 2,
+                        "titleEpisode": "Episodio 2 - El gato está en la bolsa...",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754976068/backdropPathBreakingBad1x2_acpal1.jpg",
+                        "sinopsisEpisode": "Ahora que su incursión inicial en el mundo del tráfico de drogas ha terminado con varias muertes, Walter no está seguro de tener lo que hay que tener para ser socio de Jesse.",
+                        "videoEpisode": "series/breaking-bad/Breaking+Bad+S1-E2+HD-720p.mp4"
+                    },
+                    {
+                        "episodeNumber": 3,
+                        "titleEpisode": "Episodio 3 - Y la bolsa está en el río",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754976068/backdropPathBreakingBad1x3_bvakx8.jpg",
+                        "sinopsisEpisode": "Walter no sabe si matar o no a Krazy-8. Mientras, Marie cree que su hijo está enganchado a la marihuana y le pide a Hank que le de algún susto para que lo deje.",
+                        "videoEpisode": "series/breaking-bad/Breaking+Bad+S1-E3+HD-720p.mp4"
+                    },
+                    {
+                        "episodeNumber": 4,
+                        "titleEpisode": "Episodio 4 - El hombre del cáncer",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754976069/backdropPathBreakingBad1x4_kyzamf.jpg",
+                        "sinopsisEpisode": "Ahora que Skyler sabe su secreto, y sin conocer que el equipo de la DEA está cercano a descubrir su negocio de drogas, Walt decide contar en una barbacoa familiar las novedades de su cáncer.",
+                        "videoEpisode": "series/breaking-bad/Breaking+Bad+S1-E4+HD-720p.mp4"
+                    },
+                    {
+                        "episodeNumber": 5,
+                        "titleEpisode": "Episodio 5 - Materia gris",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754976069/backdropPathBreakingBad1x5_yokk4n.jpg",
+                        "sinopsisEpisode": "En la frustrante búsqueda de un trabajo legítimo, Jesse acaba haciendo un nuevo trato asociándose con su amigo Badger. Walt y Skyler son invitados a la fiesta de cumpleaños en la finca de sus compañeros de investigación, Elliott y Gretchen Schwartz.",
+                        "videoEpisode": "series/breaking-bad/Breaking+Bad+S1-E5+HD-720p.mp4"
+                    },
+                    {
+                        "episodeNumber": 6,
+                        "titleEpisode": "Episodio 6 - Loco puñado de nada",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754976069/backdropPathBreakingBad1x6_sxj0ix.jpg",
+                        "sinopsisEpisode": "Walter y Jesse han llegado a un acuerdo: Walter será el que “fabrique” las drogas y Jesse se encargará de su distribución en la calle.",
+                        "videoEpisode": "series/breaking-bad/Breaking+Bad+S1-E6+HD-720p.mp4"
+                    },
+                    {
+                        "episodeNumber": 7,
+                        "titleEpisode": "Episodio 7 - Un acuerdo de los no violentos",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754976069/backdropPathBreakingBad1x7_o9fffg.jpg",
+                        "sinopsisEpisode": "Walter y Jesse tienen serios problemas para fabricar toda la cantidad de droga que le han prometido a Tuco.",
+                        "videoEpisode": "series/breaking-bad/Breaking+Bad+S1-E7+HD-720p.mp4"
+                    }
+                ]
+            },
+            {
+                "seasonNumber": 1,
+                "episodes": [
+                    {
+                        "episodeNumber": 1,
+                        "titleEpisode": "Siete con treinta y siete",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754976070/backdropPathBreakingBad2x1_j6sxby.jpg",
+                        "sinopsisEpisode": "Cuando preparan los planes para su gran negocio final de drogas, a Walt y Jesse les preocupa que a Tuco se le ocurra matarlos cuando quiera",
+                        "videoEpisode": "series/breaking-bad/Breaking+Bad+S2-E1+HD-720p.mp4"
+                    },
+                    {
+                        "episodeNumber": 2,
+                        "titleEpisode": "A las brasas",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754976072/backdropPathBreakingBad2x2_i2l3mg.jpg",
+                        "sinopsisEpisode": "Mientras la DEA pone en marcha la búsqueda de Tuco, Skyler recurre a Hank para que la ayude a encontrar a Walt.",
+                        "videoEpisode": "series/breaking-bad/Breaking+Bad+S2-E2+HD-720p.mp4"
+                    },
+                    {
+                        "episodeNumber": 3,
+                        "titleEpisode": "Picadura de una abeja muerta",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754976073/backdropPathBreakingBad2x3_zrlp2w.jpg",
+                        "sinopsisEpisode": "Walt intenta volver a acercarse a Skyler, y Jesse se encuentra sin hogar después de que sus padres lo echan de su casa.",
+                        "videoEpisode": "series/breaking-bad/Breaking+Bad+S2-E3+HD-720p.mp4"
+                    },
+                    {
+                        "episodeNumber": 4,
+                        "titleEpisode": "Abajo",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754976073/backdropPathBreakingBad2x4_ix87si.jpg",
+                        "sinopsisEpisode": "Walt lucha por intentar salvar su relación con Skyler, y Jesse se queda sin hogar cuando sus padres lo desalojan.",
+                        "videoEpisode": "series/breaking-bad/Breaking+Bad+S2-E4+HD-720p.mp4"
+                    },
+                    {
+                        "episodeNumber": 5,
+                        "titleEpisode": "Rotura",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754976073/backdropPathBreakingBad2x5_dn5owb.jpg",
+                        "sinopsisEpisode": "Hank trata de recobrar la compostura tras su encuentro con Tuco. Mientras, Jesse forma una pandilla para distribuir más producto por la ciudad.",
+                        "videoEpisode": "series/breaking-bad/Breaking+Bad+S2-E5+HD-720p.mp4"
+                    },
+                    {
+                        "episodeNumber": 6,
+                        "titleEpisode": "Cucú",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754976073/backdropPathBreakingBad2x6_nithw1.jpg",
+                        "sinopsisEpisode": "Jesse busca a los adictos que robaron las drogas a Skinny Pete, y Walt lucha por sostener su coartada para explicar cómo ha pagado el tratamiento de cáncer.",
+                        "videoEpisode": "series/breaking-bad/Breaking+Bad+S2-E6+HD-720p.mp4"
+                    },
+                    {
+                        "episodeNumber": 7,
+                        "titleEpisode": "Negro y azul",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754976073/backdropPathBreakingBad2x7_klrhn5.jpg",
+                        "sinopsisEpisode": "La reputación de narco implacable de Jesse lleva a Walt a ampliar sus actividades; la incursión de Hank en el mundo de la oficina de la DEA en El Paso lo estremece.",
+                        "videoEpisode": "series/breaking-bad/Breaking+Bad+S2-E7+HD-720p.mp4"
+                    },
+                    {
+                        "episodeNumber": 8,
+                        "titleEpisode": "¡Llama a Saul!",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754976074/backdropPathBreakingBad2x8_nnlf1t.jpg",
+                        "sinopsisEpisode": "El arresto de Badger obliga a Walt y Jesse a contratar a un abogado de mala reputación.",
+                        "videoEpisode": "series/breaking-bad/Breaking+Bad+S2-E8+HD-720p.mp4"
+                    },
+                    {
+                        "episodeNumber": 9,
+                        "titleEpisode": "Cuatro días afuera",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754976075/backdropPathBreakingBad2x9_az2ba5.jpg",
+                        "sinopsisEpisode": "Preocupado porque no le queda mucha vida, Walt intenta cubrir las necesidades de su familia en una maratónica sesión de preparación de metanfetamina con Jesse.",
+                        "videoEpisode": "series/breaking-bad/Breaking+Bad+S2-E9+HD-720p.mp4"
+                    },
+                    {
+                        "episodeNumber": 10,
+                        "titleEpisode": "Terminado",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754976076/backdropPathBreakingBad2x10_xm3frt.jpg",
+                        "sinopsisEpisode": "Al recibir buenas noticias sobre el tratamiento de cáncer, Walt acude a su cuñado, Hank, antes de centrar su atención en hacer las cosas bien en su hogar.",
+                        "videoEpisode": "series/breaking-bad/Breaking+Bad+S2-E10+HD-720p.mp4"
+                    },
+                    {
+                        "episodeNumber": 11,
+                        "titleEpisode": "Mandala",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754976076/backdropPathBreakingBad2x11_kc7gi1.jpg",
+                        "sinopsisEpisode": "Skyler tiene conflictos por sus sentimientos hacia su jefe. La muerte de un vendedor callejero fuerza a Walt a buscar otro lugar para vender la metanfetamina.",
+                        "videoEpisode": "series/breaking-bad/Breaking+Bad+S2-E11+HD-720p.mp4"
+                    },
+                    {
+                        "episodeNumber": 12,
+                        "titleEpisode": "Phoenix",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754976077/backdropPathBreakingBad2x12_e5ehhr.jpg",
+                        "sinopsisEpisode": "Walt intenta encaminar su vida y la de Jesse mientras se prepara para la cirugía y pretende esconder la procedencia de su dinero a Skyler y Walt Jr.",
+                        "videoEpisode": "series/breaking-bad/Breaking+Bad+S2-E12+HD-720p.mp4"
+                    },
+                    {
+                        "episodeNumber": 13,
+                        "titleEpisode": "ABQ",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754976078/backdropPathBreakingBad2x13_tmvfcu.jpg",
+                        "sinopsisEpisode": "Walt intenta encaminar su vida y la de Jesse mientras se prepara para la cirugía y pretende esconder la procedencia de su dinero a Skyler y Walt Jr..",
+                        "videoEpisode": "series/breaking-bad/Breaking+Bad+S2-E13+HD-720p.mp4"
+                    }
+                ]
+            }
+        ]
     }
 ]
