@@ -4363,5 +4363,106 @@
         "durationFilm": "2h 13m",
         "movieDate": "2025",
         "movieReleased": "2025-08-14"
+    },
+    {
+        "idFilm": "inframundo",
+        "titleFilm": "Inframundo",
+        "sinopsisFilm": "Durante siglos, dos razas han ido evolucionando en las profundidades de la Tierra: los aristocráticos y sofisticados vampiros y los brutales hombres-lobo (Lycans), cuya existencia siempre había formado parte del mundo de los mitos y las leyendas. Estas razas nocturnas son enemigas mortales y están condenadas a vivir en perpetua guerra hasta que sólo una de ellas sobreviva. En medio de este conflicto ancestral, una Guerrera Vampiro, Selene, descubre una conspiración de los Lycan para secuestrar a Michael, un joven médico.",
+        "categories": [
+            "Acción",
+            "Fantasía",
+            "Suspense"
+        ],
+        "typeFilm": "Pelicula",
+        "punctuactionFilm": 6.8,
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755234496/posterPathInframundo_qbtrfr.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755234496/logoPathInframundo_thnxrx.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755234496/backdropPathInframundo_vbukup.jpg",
+        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1755234231/UNDERWORLD_GUERRAS_DE_SANGRE_-_Tr%C3%A1iler_Oficial_en_castellano_Sony_Pictures_Espa%C3%B1a_ViSfAXiFPpM_ilvyzq.webm",
+        "videoFilm": "movies/IInframundo (2003)-720p.mkv",
+        "durationFilm": "2h 1m",
+        "movieDate": "2003",
+        "movieReleased": "2025-08-14"
+    },
+    {
+        "idFilm": "ride2024",
+        "titleFilm": "Ride",
+        "sinopsisFilm": "Desesperado por conseguir dinero para el tratamiento oncológico de su hija, un jinete de toros retirado se une a su hijo, del que está distanciado, y recurre al robo para conseguir el dinero antes de que se agote el tiempo. Pero cuando el atraco se tuerce, mantener el dinero -y su libertad- obliga al dúo a burlar a un par de tenaces agentes locales de la ley, incluida una sheriff justiciera que pronto sospecha que la clave de su caso puede estar cerca de casa.",
+        "categories": [
+            "Crimen",
+            "Drama"
+        ],
+        "typeFilm": "Pelicula",
+        "punctuactionFilm": 8.0,
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755234497/posterPathRide2024_bxzu5c.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755234496/logoPathRide2024_xq8yo7.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755234497/backdropPathRide2024_sakbpu.jpg",
+        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1755234417/Ride_2024_Trailer_Pelicula_-_Subtitulado_Espa%C3%B1ol_EKra1kgknd8_mfefh5.webm",
+        "videoFilm": "movies/Ride (2024) 720p.mkv",
+        "durationFilm": "1h 53m",
+        "movieDate": "2024",
+        "movieReleased": "2025-08-14"
+    },
+    {
+        "idFilm": "cumpleaniosSangriento",
+        "titleFilm": "Cumpleaños sangriento",
+        "sinopsisFilm": "Un padre intenta reconciliarse con su distanciada hija Imogen invitándola a su lujosa casa para una cena de cumpleaños. Pero cuando su casa es invadida por dos extraños individuos enmascarados, armados con escopetas, se desata un letal juego del gato y el ratón que culmina con una revelación que cambiará la vida de la familia.",
+        "categories": [
+            "Terror",
+            "Suspense",
+            "Drama"
+        ],
+        "typeFilm": "Pelicula",
+        "punctuactionFilm": 5.6,
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755234497/posterPathCumpleaniosSangriento_g6krmv.jpg",
+        "logoPath": "Cumpleaños sangriento",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755234497/backdropPathCumpleaniosSangriento_u79anv.jpg",
+        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1755234235/Everyone_Is_Going_To_Die_2025_Cumplea%C3%B1os_sangriento_-_HD_Trailer_Oficial_Subtitulado_Espa%C3%B1ol_Dr5akzWG-eo_jzxhgc.webm",
+        "videoFilm": "movies/Cumpleanos sangriento (2024) 720p.mkv",
+        "durationFilm": "1h 22m",
+        "movieDate": "2025",
+        "movieReleased": "2025-08-14"
+    },
+    {
+        "idFilm": "jumanjiBienvenidoSelva",
+        "titleFilm": "Jumanji: En la selva",
+        "sinopsisFilm": "Un videojuego absorbe a cuatro estudiantes. Una vez en la selva, deben embarcarse en una búsqueda en sus avatares, que no coinciden para nada con la realidad.",
+        "categories": [
+            "Aventura",
+            "Comedia",
+            "Fantasía",
+            "Acción",
+            "Familia"
+        ],
+        "typeFilm": "Pelicula",
+        "punctuactionFilm": 6.8,
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755234498/posterPathJumanjiBienvenidoSelva_bvfmkc.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755234500/logoPathJumanjiBienvenidoSelva_p8atcu.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755234501/backdropPathJumanjiBienvenidoSelva1_h0zloi.jpg",
+        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1755234252/JUMANJI_BIENVENIDOS_A_LA_JUNGLA_-_Tr%C3%A1iler_oficial_en_ESPA%C3%91OL_Sony_Pictures_Espa%C3%B1a_leIrosWRbYQ_zz2t76.webm",
+        "videoFilm": "movies/Jumanji.welcome.to.the.jungle.2017.1080p.mkv",
+        "durationFilm": "1h 59m",
+        "movieDate": "2017",
+        "movieReleased": "2025-08-14"
+    },
+    {
+        "idFilm": "miVillanoFavorito",
+        "titleFilm": "Mi villano favorito",
+        "sinopsisFilm": "En una alegre urbanización con cuidados jardines rodeados por verjas de madera pintadas de blanco y llenos de rosales, sobresale una casa negra con el césped amarillento. Los vecinos ignoran que debajo de la vivienda hay un enorme escondite secreto. Allí está Gru, rodeado por un pequeño ejército de lacayos, planeando el mayor robo de toda la historia. ¡Va a robarse con la luna!",
+        "categories": [
+            "Familia",
+            "Comedia",
+            "Animación"
+        ],
+        "typeFilm": "Pelicula",
+        "punctuactionFilm": 7.3,
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755234500/posterPathMiVillanoFavorito_moumn3.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755234500/logoPathMiVillanoFavorito_psze2g.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755234501/backdropPathMiVillanoFavorito_l8v7xw.jpg",
+        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1755234279/Mi_villano_favorito_2010_-_Trailer_videos_-_FilmAffinity_vv0g3l.mp4",
+        "videoFilm": "movies/MVLLNFVRT-720p.mkv",
+        "durationFilm": "1h 35m",
+        "movieDate": "2010",
+        "movieReleased": "2025-08-14"
     }
 ]
