@@ -3841,7 +3841,7 @@
         "punctuactionFilm": 8.9,
         "durationFilm": "5 Temp.",
         "movieDate": "2008",
-        "movieReleased": "2025-08-11",
+        "movieReleased": "2025-08-14",
         "filmSeason": [
             {
                 "seasonNumber": 1,
@@ -3898,7 +3898,7 @@
                 ]
             },
             {
-                "seasonNumber": 1,
+                "seasonNumber": 2,
                 "episodes": [
                     {
                         "episodeNumber": 1,
@@ -3992,7 +3992,376 @@
                         "videoEpisode": "series/breaking-bad/Breaking+Bad+S2-E13+HD-720p.mp4"
                     }
                 ]
+            },
+            {
+                "seasonNumber": 3,
+                "episodes": [
+                    {
+                        "episodeNumber": 1,
+                        "titleEpisode": "No más",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755229990/backdropPathBreakingBad3x1_b0ioij.jpg",
+                        "sinopsisEpisode": "Tras el desastre aéreo de Albuquerque, Skyler obliga a Walt a mudarse, mientras la estadía de Jesse en rehabilitación lo ayuda a aceptar su rol en el fatal choque aéreo.",
+                        "videoEpisode": "series/breaking-bad/Breaking+Bad+S3-E1+HD-720p.mp4"
+                    },
+                    {
+                        "episodeNumber": 2,
+                        "titleEpisode": "Caballo sin nombre",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755229990/backdropPathBreakingBad3x2_j1ddg4.jpg",
+                        "sinopsisEpisode": "Skyler está decidida a divorciarse, y Walt acaba en la mira de dos asesinos de un cártel mexicano que buscan venganza.",
+                        "videoEpisode": "series/breaking-bad/Breaking+Bad+S3-E2+HD-720p.mp4"
+                    },
+                    {
+                        "episodeNumber": 3,
+                        "titleEpisode": "T. S. T.",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755229990/backdropPathBreakingBad3x3_lhonmq.jpg",
+                        "sinopsisEpisode": "Jesse se cuestiona volver al negocio de las drogas ya que una organización de narcotraficantes espera con ansias vengar la muerte de uno de sus miembros.",
+                        "videoEpisode": "series/breaking-bad/Breaking+Bad+S3-E3+HD-720p.mp4"
+                    },
+                    {
+                        "episodeNumber": 4,
+                        "titleEpisode": "Luz verde",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755229990/backdropPathBreakingBad3x4_chj6s9.jpg",
+                        "sinopsisEpisode": "Mientras el romance de Skyler con su jefe crea caos en su matrimonio, un lote de metanfetamina que devuelve a Jesse al negocio involucra inadvertidamente a Walt.",
+                        "videoEpisode": "series/breaking-bad/Breaking+Bad+S3-E4+HD-720p.mp4"
+                    },
+                    {
+                        "episodeNumber": 5,
+                        "titleEpisode": "Más",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755229990/backdropPathBreakingBad3x5_hq2ava.jpg",
+                        "sinopsisEpisode": "Walt considera una oferta para regresar al narcotráfico; la obsesión de Hank por atrapar a <<Heisenberg>> trae problemas para Jesse.",
+                        "videoEpisode": "series/breaking-bad/Breaking+Bad+S3-E5+HD-720p.mp4"
+                    },
+                    {
+                        "episodeNumber": 6,
+                        "titleEpisode": "Atardecer",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755229990/backdropPathBreakingBad3x6_rb1zzi.jpg",
+                        "sinopsisEpisode": "Walt vuelve al narcotráfico en el laboratorio de Gus, pero el descubrimiento de su vieja casa rodante lo fuerza a él y a Jesse a actuar para que Hank no los descubra.",
+                        "videoEpisode": "series/breaking-bad/Breaking+Bad+S3-E6+HD-720p.mp4"
+                    },
+                    {
+                        "episodeNumber": 7,
+                        "titleEpisode": "Un minuto",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755229990/backdropPathBreakingBad3x7_sbalf8.jpg",
+                        "sinopsisEpisode": "Hank, enojado, arriesga su carrera al atacar a Jesse; Walt, preocupado de que Jesse hable, le da un lugar en su laboratorio.",
+                        "videoEpisode": "series/breaking-bad/Breaking+Bad+S3-E7+HD-720p.mp4"
+                    },
+                    {
+                        "episodeNumber": 8,
+                        "titleEpisode": "Te veo",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755229991/backdropPathBreakingBad3x8_lgdgsd.jpg",
+                        "sinopsisEpisode": "Mientras Hank se aferra a la vida, Walt descubre que los matones pueden estar tras él y busca alejarse de los problemas tomando a Jesse como compañero.",
+                        "videoEpisode": "series/breaking-bad/Breaking+Bad+S3-E8+HD-720p.mp4"
+                    },
+                    {
+                        "episodeNumber": 9,
+                        "titleEpisode": "Kafkiano",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755229990/backdropPathBreakingBad3x9_wt0cqk.jpg",
+                        "sinopsisEpisode": "Al retomar la producción junto a Walt, Jesse piensa cómo aumentar las ganancias; la recuperación de Hank pone a Marie en una situación difícil con la compañía de seguros.",
+                        "videoEpisode": "series/breaking-bad/Breaking+Bad+S3-E9+HD-720p.mp4"
+                    },
+                    {
+                        "episodeNumber": 10,
+                        "titleEpisode": "Vuelo",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755229991/backdropPathBreakingBad3x10_bvyfwj.jpg",
+                        "sinopsisEpisode": "Walt y Jesse se enfrentan a una larga noche en el laboratorio... y a una fastidiosa mosca.",
+                        "videoEpisode": "series/breaking-bad/Breaking+Bad+S3-E10+HD-720p.mp4"
+                    },
+                    {
+                        "episodeNumber": 11,
+                        "titleEpisode": "Abiquiú",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1754976076/backdropPathBreakingBad2x11_kc7gi1.jpg",
+                        "sinopsisEpisode": "Hank no está contento con su recuperación; Skyler cuestiona el negocio de lavado de dinero de Saul, y Jesse se enamora de una compañera de rehabilitación.",
+                        "videoEpisode": "series/breaking-bad/Breaking+Bad+S3-E11+HD-720p.mp4"
+                    },
+                    {
+                        "episodeNumber": 12,
+                        "titleEpisode": "Medias medidas",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755229991/backdropPathBreakingBad3x12_wftgxz.jpg",
+                        "sinopsisEpisode": "Jesse va tras los narcos que mataron a Combo, Hank se niega a dejar el hospital y Skyler presiona a Walt para que acepte el negocio de lavado de dinero.",
+                        "videoEpisode": "series/breaking-bad/Breaking+Bad+S3-E12+HD-720p.mp4"
+                    },
+                    {
+                        "episodeNumber": 13,
+                        "titleEpisode": "Medidas totales",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755229991/backdropPathBreakingBad3x13_ep2zuv.jpg",
+                        "sinopsisEpisode": "Luego de liquidar a dos traficantes de su jefe, Walt se da cuenta de que Gus planea matarlo y reemplazarlo con su anterior asistente.",
+                        "videoEpisode": "series/breaking-bad/Breaking+Bad+S3-E13+HD-720p.mp4"
+                    }
+                ]
+            },
+            {
+                "seasonNumber": 4,
+                "episodes": [
+                    {
+                        "episodeNumber": 1,
+                        "titleEpisode": "Navaja",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755229991/backdropPathBreakingBad4x1_qyvezf.jpg",
+                        "sinopsisEpisode": "Después de luchar por sus vidas en una turbulenta situación, Walt y Jesse esperan con ansiedad la próxima jugada de Gus.",
+                        "videoEpisode": "series/breaking-bad/Breaking+Bad+S4-E1+HD-720p.mp4"
+                    },
+                    {
+                        "episodeNumber": 2,
+                        "titleEpisode": "Revólver calibre 38",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755229993/backdropPathBreakingBad4x2_llexns.jpg",
+                        "sinopsisEpisode": "Mientras Walt prepara su defensa contra Gus, Jesse hace frente a la presión renovando su amistad con Badger y Skinny Pete.",
+                        "videoEpisode": "series/breaking-bad/Breaking+Bad+S4-E2+HD-720p.mp4"
+                    },
+                    {
+                        "episodeNumber": 3,
+                        "titleEpisode": "Casa abierta",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755229993/backdropPathBreakingBad4x3_gf4lud.jpg",
+                        "sinopsisEpisode": "Mientras Walt se preocupa acerca de la intromisión de Gus y la salud mental de Jesse, cada vez más frágil, Skyler aumenta la presión para obtener lo que quiere.",
+                        "videoEpisode": "series/breaking-bad/Breaking+Bad+S4-E3+HD-720p.mp4"
+                    },
+                    {
+                        "episodeNumber": 4,
+                        "titleEpisode": "Puntos clave",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755229993/backdropPathBreakingBad4x4_nkocgb.jpg",
+                        "sinopsisEpisode": "Mientras Skyler arma una historia elaborada para explicar las finanzas de los White, Walt, preocupado, descubre que Hank ha comenzado una nueva investigación.",
+                        "videoEpisode": "series/breaking-bad/Breaking+Bad+S4-E4+HD-720p.mp4"
+                    },
+                    {
+                        "episodeNumber": 5,
+                        "titleEpisode": "Copiloto",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755229993/backdropPathBreakingBad4x5_lo9esf.jpg",
+                        "sinopsisEpisode": "Jesse acompaña como copiloto a Mike en una riesgosa serie de picadas, lo que hace que Walt se preocupe por la posible muerte de su socio",
+                        "videoEpisode": "series/breaking-bad/Breaking+Bad+S4-E5+HD-720p.mp4"
+                    },
+                    {
+                        "episodeNumber": 6,
+                        "titleEpisode": "Arrinconados",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755229993/backdropPathBreakingBad4x6_icunaw.jpg",
+                        "sinopsisEpisode": "Skyler adopta un enfoque reservado cuando sospecha que Walt no le está diciendo la verdad. Mientras tanto, Jesse prueba su valía ante Mike y Gus.",
+                        "videoEpisode": "series/breaking-bad/Breaking+Bad+S4-E6+HD-720p.mp4"
+                    },
+                    {
+                        "episodeNumber": 7,
+                        "titleEpisode": "Perro problemático",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755229994/backdropPathBreakingBad4x7_y10zc9.jpg",
+                        "sinopsisEpisode": "Obligado a devolver el auto que compró para su hijo, Walt responde poniendo en aprietos a Skyler con su nueva operación de lavado de dinero.",
+                        "videoEpisode": "series/breaking-bad/Breaking+Bad+S4-E7+HD-720p.mp4"
+                    },
+                    {
+                        "episodeNumber": 8,
+                        "titleEpisode": "Hermanos",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755229995/backdropPathBreakingBad4x8_pugtue.jpg",
+                        "sinopsisEpisode": "Cuando Hank presenta evidencia de que Gus es el narcotraficante de metanfetamina de Albuquerque, a Walt le preocupa que los maten a él y a Jesse por proteger a su jefe.",
+                        "videoEpisode": "series/breaking-bad/Breaking+Bad+S4-E8+HD-720p.mp4"
+                    },
+                    {
+                        "episodeNumber": 9,
+                        "titleEpisode": "Micrófono",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755229995/backdropPathBreakingBad4x9_ofjp6d.jpg",
+                        "sinopsisEpisode": "Mientras Walt intenta subvertir la investigación de Hank sobre la escena de Albuquerque, una advertencia mortal fuerza a Gus a considerar un trato con el cártel mexicano.",
+                        "videoEpisode": "series/breaking-bad/Breaking+Bad+S4-E9+HD-720p.mp4"
+                    },
+                    {
+                        "episodeNumber": 10,
+                        "titleEpisode": "Salud",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755229995/backdropPathBreakingBad4x10_memrcl.jpg",
+                        "sinopsisEpisode": "Mientras Walt, maltratado, aún se recupera de la pelea, Gus se lleva a Jesse con él a México para cerrar un trato con el cártel.",
+                        "videoEpisode": "series/breaking-bad/Breaking+Bad+S4-E10+HD-720p.mp4"
+                    },
+                    {
+                        "episodeNumber": 11,
+                        "titleEpisode": "Entrepiso",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755229996/backdropPathBreakingBad4x11_pscs3x.jpg",
+                        "sinopsisEpisode": "Mientras Skyler presiona a Ted para que acepte su dinero y pueda pagar los impuestos, Gus sostiene que Jesse debería reanudar su trabajo en el laboratorio él solo.",
+                        "videoEpisode": "series/breaking-bad/Breaking+Bad+S4-E11+HD-720p.mp4"
+                    },
+                    {
+                        "episodeNumber": 12,
+                        "titleEpisode": "Fin de los tiempos",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755229996/backdropPathBreakingBad4x12_lvhmuc.jpg",
+                        "sinopsisEpisode": "Mientras le ordena a su familia que aproveche la protección que la DEA le ofrece a Hank, Walt espera el destino que le toque.",
+                        "videoEpisode": "series/breaking-bad/Breaking+Bad+S4-E12+HD-720p.mp4"
+                    },
+                    {
+                        "episodeNumber": 13,
+                        "titleEpisode": "Cara a cara",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755229996/backdropPathBreakingBad4x13_al9izi.jpg",
+                        "sinopsisEpisode": "Cuando su plan de matar a Gus fracasa, Walt y Jesse deben actuar rápido para cubrir sus rastros y evitar la muerte",
+                        "videoEpisode": "series/breaking-bad/Breaking+Bad+S4-E13+HD-720p.mp4"
+                    }
+                ]
+            },
+            {
+                "seasonNumber": 5,
+                "episodes": [
+                    {
+                        "episodeNumber": 1,
+                        "titleEpisode": "Vive libre o muere",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755229996/backdropPathBreakingBad5x1_pbn3iy.jpg",
+                        "sinopsisEpisode": "Walt visita a su familia, que aún está en custodia, mientras debe lidiar con las secuelas de la explosión en Casa Tranquila.",
+                        "videoEpisode": "series/breaking-bad/Breaking+Bad+S5-E1+HD-720p.mp4"
+                    },
+                    {
+                        "episodeNumber": 2,
+                        "titleEpisode": "Madrigal",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755229996/backdropPathBreakingBad5x2_etr0ha.jpg",
+                        "sinopsisEpisode": "Walt y Jesse deciden buscar un nuevo compañero para que los ayude en su último proyecto, y la DEA investiga varias pistas con la esperanza de encontrar algo certero.",
+                        "videoEpisode": "series/breaking-bad/Breaking+Bad+S5-E2+HD-720p.mp4"
+                    },
+                    {
+                        "episodeNumber": 3,
+                        "titleEpisode": "Peligro",
+                        "backdropEpisode": "hhttps://res.cloudinary.com/dpfv5bthc/image/upload/v1755229998/backdropPathBreakingBad5x3_y291zl.jpg",
+                        "sinopsisEpisode": "Para consternación de Skyler, Walter vuelve a vivir a la casa. Walter, Mike y Jesse se reúnen con Saul para pedirle que les encuentre un nuevo lugar para cocinar.",
+                        "videoEpisode": "series/breaking-bad/Breaking+Bad+S5-E3+HD-720p.mp4"
+                    },
+                    {
+                        "episodeNumber": 4,
+                        "titleEpisode": "51 (Cincuenta y uno)",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755229998/backdropPathBreakingBad5x4_crxnwm.jpg",
+                        "sinopsisEpisode": "Lydia se ve forzada a entregar a su propio empleado a la DEA, y Mike le ofrece un reemplazante: Jesse. Walt y Skyler discuten sobre si la familia corre peligro.",
+                        "videoEpisode": "series/breaking-bad/Breaking+Bad+S5-E4+HD-720p.mp4"
+                    },
+                    {
+                        "episodeNumber": 5,
+                        "titleEpisode": "Carga de muerte",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755229999/backdropPathBreakingBad5x5_dmokxk.jpg",
+                        "sinopsisEpisode": "Mike y Lydia trabajan para transportar la metilamina necesaria para la operación. Walt y Jesse intentan elaborar un plan que no arruine su tapadera.",
+                        "videoEpisode": "series/breaking-bad/Breaking+Bad+S5-E5+HD-720p.mp4"
+                    },
+                    {
+                        "episodeNumber": 6,
+                        "titleEpisode": "Adquisición",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755229999/backdropPathBreakingBad5x6_prz7if.jpg",
+                        "sinopsisEpisode": "Walt, Mike y Jesse lidian con las repercusiones del robo de la metilamina. Mike y Jesse quieren salirse del negocio, pero Walt está decidido a construir su imperio.",
+                        "videoEpisode": "series/breaking-bad/Breaking+Bad+S5-E6+HD-720p.mp4"
+                    },
+                    {
+                        "episodeNumber": 7,
+                        "titleEpisode": "Di mi nombre",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755229999/backdropPathBreakingBad5x7_atwon1.jpg",
+                        "sinopsisEpisode": "Walter intenta iniciar un trato con Declan, y Hank —quien tuvo que dejar ir a Mike— ahora tiene en la mira al abogado que ha estado pagando a los hombres de Mike.",
+                        "videoEpisode": "series/breaking-bad/Breaking+Bad+S5-E7+HD-720p.mp4"
+                    },
+                    {
+                        "episodeNumber": 8,
+                        "titleEpisode": "Planeando sobre todos",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755229999/backdropPathBreakingBad5x8_fzixvf.jpg",
+                        "sinopsisEpisode": "Walt se encuentra con Lydia para conseguir los nombres de la gente de Mike que está en la cárcel. Skyler hace otro intento por convencer a Walt de que deje de cocinar.",
+                        "videoEpisode": "series/breaking-bad/Breaking+Bad+S5-E8+HD-720p.mp4"
+                    },
+                    {
+                        "episodeNumber": 9,
+                        "titleEpisode": "Dinero sangriento",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755229999/backdropPathBreakingBad5x9_zqrgxp.jpg",
+                        "sinopsisEpisode": "A medida que Walt y Jesse se adaptan a la vida fuera del negocio, Hank se aferra a una inquietante pista..",
+                        "videoEpisode": "series/breaking-bad/Breaking+Bad+S5-E9+HD-720p.mp4"
+                    },
+                    {
+                        "episodeNumber": 10,
+                        "titleEpisode": "Enterrado",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755229999/backdropPathBreakingBad5x10_zw1f6e.jpg",
+                        "sinopsisEpisode": "Mientras el pasado atormenta a Skyler, Walt cubre sus huellas, y Jesse continúa luchando con la culpa.",
+                        "videoEpisode": "series/breaking-bad/Breaking+Bad+S5-E10+HD-720p.mp4"
+                    },
+                    {
+                        "episodeNumber": 11,
+                        "titleEpisode": "Confesiones",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755230002/backdropPathBreakingBad5x11_vvkder.jpg",
+                        "sinopsisEpisode": "Jesse decide hacer un cambio, y Walt y Skyler intentan lidiar con una exigencia inesperada.",
+                        "videoEpisode": "series/breaking-bad/Breaking+Bad+S5-E11+HD-720p.mp4"
+                    },
+                    {
+                        "episodeNumber": 12,
+                        "titleEpisode": "Perro rabioso",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755230002/backdropPathBreakingBad5x12_urclwn.jpg",
+                        "sinopsisEpisode": "Una extraña estrategia comienza a dar frutos, mientras se ponen en marcha planes que podrían darle un giro completo a la situación.",
+                        "videoEpisode": "series/breaking-bad/Breaking+Bad+S5-E12+HD-720p.mp4"
+                    },
+                    {
+                        "episodeNumber": 13,
+                        "titleEpisode": "Tohajiilee",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755230002/backdropPathBreakingBad5x13_lany9k.jpg",
+                        "sinopsisEpisode": "La presión aumenta para Walt, de un modo que nunca habría esperado.",
+                        "videoEpisode": "series/breaking-bad/Breaking+Bad+S5-E13+HD-720p.mp4"
+                    },
+                    {
+                        "episodeNumber": 14,
+                        "titleEpisode": "Ozymandias",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755230002/backdropPathBreakingBad5x14_nmbnvu.jpg",
+                        "sinopsisEpisode": "Todos deben enfrentar circunstancias radicalmente distintas. Todos, sin excepción.",
+                        "videoEpisode": "series/breaking-bad/Breaking+Bad+S5-E13+HD-720p.mp4"
+                    },
+                    {
+                        "episodeNumber": 15,
+                        "titleEpisode": "Pizarra de granito",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755230003/backdropPathBreakingBad5x15_cjdgqp.jpg",
+                        "sinopsisEpisode": "Los sucesos que se iniciaron hace mucho tiempo marchan hacia una conclusión.",
+                        "videoEpisode": "series/breaking-bad/Breaking+Bad+S5-E13+HD-720p.mp4"
+                    },
+                    {
+                        "episodeNumber": 16,
+                        "titleEpisode": "Felina",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755230003/backdropPathBreakingBad5x16_vzaeek.jpg",
+                        "sinopsisEpisode": "El final de la serie.",
+                        "videoEpisode": "series/breaking-bad/Breaking+Bad+S5-E13+HD-720p.mp4"
+                    }
+                ]
             }
         ]
+    },
+    {
+        "idFilm": "soyLeyenda",
+        "titleFilm": "Soy Leyenda",
+        "sinopsisFilm": "Año 2012. Robert Neville es el último hombre vivo que hay sobre la Tierra, pero no está solo. Los demás seres humanos se han convertido en unos mutantes nocturnos llamados “Darkseekers” y todos ansían beber su sangre. Durante el día vive en estado de alerta, como un cazador, y busca a los muertos vivientes mientras duermen; pero durante la noche debe esconderse de ellos y esperar el amanecer. Esta pesadilla empezó hace tres años: Neville era un brillante científico, pero no pudo impedir la expansión de un terrible virus creado por el hombre. Él ha sobrevivido porque es inmune al virus; todos los días envía mensajes por radio con la esperanza de que haya otros supervivientes, pero es inútil. Lo único que puede hacer es buscar una fórmula que le permita utilizar su sangre inmune para devolverles a los hombres su naturaleza. Pero está en inferioridad de condiciones y el tiempo se acaba.",
+        "categories": [
+            "Drama",
+            "Suspense",
+            "Ciencia ficción"
+        ],
+        "typeFilm": "Pelicula",
+        "punctuactionFilm": 7.2,
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755232318/posterPathSoyLeyenda_lbb1le.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755232317/logoPathSoyLeyenda_fpbufm.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755232318/backdropPathSoyLeyenda_hhryxs.jpg",
+        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1755232501/Soy_leyenda_2007_de_Francis_Lawrence_El_Despotricador_Cin%C3%A9filo_bQmRbukfH1g_ovtmkf.mkv",
+        "videoFilm": "movies/Soy leyenda (2007) 720p.mp4",
+        "durationFilm": "1h 44m",
+        "movieDate": "2007",
+        "movieReleased": "2025-08-14"
+    },
+    {
+        "idFilm": "misterioBordo",
+        "titleFilm": "Misterio a bordo",
+        "sinopsisFilm": "Un policía de Nueva York y su esposa se van de vacaciones a Europa para revitalizar la chispa de su matrimonio, pero terminan incriminados y huyendo por la muerte de un multimillonario anciano.",
+        "categories": [
+            "Acción",
+            "Comedia",
+            "Misterio"
+        ],
+        "typeFilm": "Pelicula",
+        "punctuactionFilm": 6.5,
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755232318/posterPathMisterioBordo_q0jr9e.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755232317/logoPathMisterioBordo_wt4ecd.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755232318/backdropPathMisterioBordo_tj6mun.jpg",
+        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1755232541/Misterio_a_Bordo_Tr%C3%A1iler_Netflix_R8HZeYfJnNU_wjmgyv.mp4",
+        "videoFilm": "movies/Misterio a Bordo (2019) 720p.mp4",
+        "durationFilm": "1h 37m",
+        "movieDate": "2019",
+        "movieReleased": "2025-08-14"
+    },
+    {
+        "idFilm": "jurassicWorldRenace",
+        "titleFilm": "Jurassic World: Renace",
+        "sinopsisFilm": "Cinco años después de los acontecimientos de Jurassic World Dominion, Zora Bennett, una experta en operaciones encubiertas, es contratada para dirigir a un equipo de especialistas cuya misión es conseguir fabricar un medicamento hecho de ADN de tres criaturas más grandes para la raza humana.",
+        "categories": [
+            "Acción",
+            "Aventura",
+            "Ciencia ficción"
+        ],
+        "typeFilm": "Pelicula",
+        "punctuactionFilm": 6.4,
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755232318/posterPathJurassicWorldRenace_pbyzrd.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755232318/logoPathJurassicWorldRenace_sydwb7.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755232319/backdropPathJurassicWorldRenace_tfrglt.jpg",
+        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1755232550/JURASSIC_WORLD_EL_RENACER_-_Tr%C3%A1iler_Oficial_Universal_Pictures_HD_1R3LTANp7hw_ejbxzt.mp4",
+        "videoFilm": "movies/Jurassic World Renace (2025) 720p.mp4",
+        "durationFilm": "2h 13m",
+        "movieDate": "2025",
+        "movieReleased": "2025-08-14"
     }
 ]
