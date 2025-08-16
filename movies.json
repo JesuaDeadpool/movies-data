@@ -4464,5 +4464,64 @@
         "durationFilm": "1h 35m",
         "movieDate": "2010",
         "movieReleased": "2025-08-14"
+    },
+    {
+        "idFilm": "snoopyMusicalVerano",
+        "titleFilm": "Snoopy presenta: Un musical de verano",
+        "sinopsisFilm": "Hay música y alegría en el aire mientras Charlie Brown y la pandilla van al campamento de verano. La primeriza Sally no entiende por qué tanta emoción. Pero al enterarse de que podría cerrar, todos se unen para tratar de salvarlo y que más niños puedan crear recuerdos especiales.",
+        "categories": [
+            "Animación",
+            "Familia"
+        ],
+        "typeFilm": "Pelicula",
+        "punctuactionFilm": 6.8,
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755309996/posterPathSnoopyMusicalVerano_ywlpdv.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755309996/logoPathSnoopyMusicalVerano_otjgjx.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755309996/backdropPathSnoopyMusicalVerano_qiq5j8.jpg",
+        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1755310411/Snoopy_Present_A_Summer_Musical_Official_Trailer_Apple_TV_Bnd8wceX9ok_awbpsb.webm",
+        "videoFilm": "movies/A.Summer.Musical.2025.1080p.mkv",
+        "durationFilm": "1h 35m",
+        "movieDate": "2025",
+        "movieReleased": "2025-08-15"
+    },
+    {
+        "idFilm": "pitufos2025",
+        "titleFilm": "Pitufos",
+        "sinopsisFilm": "Película musical de animación centrada en las icónicas creaciones de Peyo. Cuando Papá Pitufo es secuestrado de forma misteriosa por los malvados brujos Razamel y Gargamel, Pitufina lleva a los Pitufos a una misión al mundo real para salvarle. Con la ayuda de nuevos amigos, los Pitufos deberán descubrir qué define su destino para salvar el universo.",
+        "categories": [
+            "Familia",
+            "Fantasía",
+            "Animación"
+        ],
+        "typeFilm": "Pelicula",
+        "punctuactionFilm": 5.8,
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755309997/posterPathPitufos2025_zb3kon.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755309996/logoPathPitufos2025_svyoex.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755309997/backdropPathPitufos2025_wiapbe.jpg",
+        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1755310417/Los_Pitufos_Trailer_Oficial_2025_Movie_iRFrC5dFNls_hb5vu4.webm",
+        "videoFilm": "movies/Pitufos (2025).mkv",
+        "durationFilm": "1h 32m",
+        "movieDate": "2025",
+        "movieReleased": "2025-08-15"
+    },
+    {
+        "idFilm": "superman2025",
+        "titleFilm": "Superman",
+        "sinopsisFilm": "En un mundo cínico que ha perdido la fe en la bondad, Superman lucha por reconciliar su herencia kryptoniana con su crianza humana en Smallville como Clark Kent. Mientras protege a la humanidad, encarna la verdad, la justicia y el estilo americano, desafiando una era que considera estos valores obsoletos. Reinicio del universo DC en cine bajo la supervisión y dirección de James Gunn.",
+        "categories": [
+            "Acción",
+            "Aventura",
+            "Ciencia ficción"
+        ],
+        "typeFilm": "Pelicula",
+        "punctuactionFilm": 7.7,
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755309997/posterPathSuperman2025_gekgjr.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755309995/logoPathSuperman2025_rvbaj6.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755309997/backdropPathSuperman2025_nclpmw.jpg",
+        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1755310435/Superman_Tr%C3%A1iler_Oficial_Doblado_0X_kBulSMjQ_cjoe2p.webm",
+        "videoFilm": "movies/Superman (2025).mkv",
+        "durationFilm": "2h 9m",
+        "movieDate": "2025",
+        "movieReleased": "2025-08-15"
     }
 ]
