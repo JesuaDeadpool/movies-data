@@ -4515,7 +4515,7 @@
         ],
         "typeFilm": "Pelicula",
         "punctuactionFilm": 7.7,
-        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755309997/posterPathSuperman2025_gekgjr.jpg",
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755388492/posterPathSuperman2025_rofmyo.webp",
         "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755309995/logoPathSuperman2025_rvbaj6.png",
         "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755309997/backdropPathSuperman2025_nclpmw.jpg",
         "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1755310435/Superman_Tr%C3%A1iler_Oficial_Doblado_0X_kBulSMjQ_cjoe2p.webm",
@@ -4654,4 +4654,5 @@
             }
         ]
     }
+
 ]
