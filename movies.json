@@ -4515,7 +4515,7 @@
         ],
         "typeFilm": "Pelicula",
         "punctuactionFilm": 7.7,
-        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755388492/posterPathSuperman2025_rofmyo.webp",
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755309997/posterPathSuperman2025_gekgjr.jpg",
         "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755309995/logoPathSuperman2025_rvbaj6.png",
         "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755309997/backdropPathSuperman2025_nclpmw.jpg",
         "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1755310435/Superman_Tr%C3%A1iler_Oficial_Doblado_0X_kBulSMjQ_cjoe2p.webm",
@@ -4552,49 +4552,49 @@
                         "titleEpisode": "De las sombras",
                         "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755320216/backdropPathTitanesPacificoTierraNadie1x1_x7oea2.jpg",
                         "sinopsisEpisode": "Cinco años después de que sus padres se fueron en busca de ayuda, los hermanos Taylor y Hayley encuentran un Jaeger de entrenamiento, pero rápidamente atrae a un Kaiju a su aldea.",
-                        "videoEpisode": "anime/PaciRimS01E01.mp4"
+                        "videoEpisode": "anime/pacific-rim/PaciRimS01E01.mp4"
                     },
                     {
                         "episodeNumber": 2,
                         "titleEpisode": "En el negro",
                         "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755320216/backdropPathTitanesPacificoTierraNadie1x2_mddouv.jpg",
                         "sinopsisEpisode": "Cuando Atlas Destroyer se queda sin energía, Taylor y Hayley buscan células de energía en una ciudad destruida cercana y hacen algunos descubrimientos sorprendentes.",
-                        "videoEpisode": "anime/PaciRimS01E02.mp4"
+                        "videoEpisode": "anime/pacific-rim/PaciRimS01E02.mp4"
                     },
                     {
                         "episodeNumber": 3,
                         "titleEpisode": "Bogan",
                         "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755320216/backdropPathTitanesPacificoTierraNadie1x3_rlx8zo.jpg",
                         "sinopsisEpisode": "Mientras caminan, Taylor, Hayley y Boy se encuentran con un asentamiento móvil que trafica con partes del cuerpo de Kaiju. Su sombrío líder busca descubrir su secreto.",
-                        "videoEpisode": "anime/PaciRimS01E03.mp4"
+                        "videoEpisode": "anime/pacific-rim/PaciRimS01E03.mp4"
                     },
                     {
                         "episodeNumber": 4,
                         "titleEpisode": "En funcionamiento",
                         "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755320217/backdropPathTitanesPacificoTierraNadie1x4_r6ku0g.jpg",
                         "sinopsisEpisode": "Cuando un Kaiju se acerca rápidamente, Shane obliga a Taylor a copilotar Atlas Destroyer con Mei para sacarlo del peligro, pero Taylor quiere pelear.",
-                        "videoEpisode": "anime/PaciRimS01E04.mp4"
+                        "videoEpisode": "anime/pacific-rim/PaciRimS01E04.mp4"
                     },
                     {
                         "episodeNumber": 5,
                         "titleEpisode": "Escapando de Bogan",
                         "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755320217/backdropPathTitanesPacificoTierraNadie1x5_p7pfom.jpg",
                         "sinopsisEpisode": "Para recuperar Atlas Destroyer y salvar a Hayley y Boy, Taylor intenta una maniobra arriesgada conocida como <<pilotaje fantasma>>. Joel y Mei toman una decisión mortal.",
-                        "videoEpisode": "anime/PaciRimS01E05.mp4"
+                        "videoEpisode": "anime/pacific-rim/PaciRimS01E05.mp4"
                     },
                     {
                         "episodeNumber": 6,
                         "titleEpisode": "Cementerio",
                         "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755320217/backdropPathTitanesPacificoTierraNadie1x6_v1fqe7.jpg",
                         "sinopsisEpisode": "El misterio detrás del pasado de Boy se profundiza cuando Taylor y Hayley lo encuentran entre los Kaiju muertos y los Jaegers destruidos, junto con la criatura responsable.",
-                        "videoEpisode": "anime/PaciRimS01E06.mp4"
+                        "videoEpisode": "anime/pacific-rim/PaciRimS01E06.mp4"
                     },
                     {
                         "episodeNumber": 7,
                         "titleEpisode": "Confrontación",
                         "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755320217/backdropPathTitanesPacificoTierraNadie1x7_kilztr.jpg",
                         "sinopsisEpisode": "Mientras responden a una señal de socorro, Taylor y Hayley encuentran a Jaeger abandonado por sus padres y se enfrentan al Kaiju que atacó su aldea.",
-                        "videoEpisode": "anime/PaciRimS01E07.mp4"
+                        "videoEpisode": "anime/pacific-rim/PaciRimS01E07.mp4"
                     }
                 ]
             },
@@ -4606,53 +4606,115 @@
                         "titleEpisode": "Chico",
                         "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755320220/backdropPathTitanesPacificoTierraNadie2x1_a3wjqf.jpg",
                         "sinopsisEpisode": "La transformación de Boy en Kaiju alarma a Taylor y Mei, pero Hayley quiere seguir cuidándolo. Un grupo de mujeres misteriosas intenta secuestrar a Boy.",
-                        "videoEpisode": "anime/PaciRimS02E01.mp4"
+                        "videoEpisode": "anime/pacific-rim/PaciRimS02E01.mp4"
                     },
                     {
                         "episodeNumber": 2,
                         "titleEpisode": "El nunca nunca",
                         "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755320220/backdropPathTitanesPacificoTierraNadie2x2_e5zhic.jpg",
                         "sinopsisEpisode": "Con Boy gravemente herido, Hayley, Taylor y Mei pilotean el Jaeger hacia un valle lleno de Kaiju, donde un supuesto susurrador de Kaiju podría ayudar.",
-                        "videoEpisode": "anime/PaciRimS02E02.mp4"
+                        "videoEpisode": "anime/pacific-rim/PaciRimS02E02.mp4"
                     },
                     {
                         "episodeNumber": 3,
                         "titleEpisode": "Dividir",
                         "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755320221/backdropPathTitanesPacificoTierraNadie2x3_egfvbd.jpg",
                         "sinopsisEpisode": "El Atlas Destroyer es perseguido hasta el territorio de las Hermanas del Kaiju, donde Hayley, Taylor y Mei discuten sobre lo que se debe hacer con Boy.",
-                        "videoEpisode": "anime/PaciRimS02E03.mp4"
+                        "videoEpisode": "anime/pacific-rim/PaciRimS02E03.mp4"
                     },
                     {
                         "episodeNumber": 4,
                         "titleEpisode": "Hermanas de los Kaiju",
                         "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755320221/backdropPathTitanesPacificoTierraNadie2x4_t7ag4q.jpg",
                         "sinopsisEpisode": "Después de ponerse al día con éxito con Atlas Destroyer, Shane ofrece a Hayley y Taylor un intercambio: el Jaeger por algo que desean desesperadamente..",
-                        "videoEpisode": "anime/PaciRimS02E04.mp4"
+                        "videoEpisode": "anime/pacific-rim/PaciRimS02E04.mp4"
                     },
                     {
                         "episodeNumber": 5,
                         "titleEpisode": "Mente, cuerpo,alma",
                         "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755320221/backdropPathTitanesPacificoTierraNadie2x5_ntscwh.jpg",
                         "sinopsisEpisode": "Mientras la madre de Hayley y Taylor intenta resistirse a la suma sacerdotisa, el grupo planea rescatar a Boy antes de que su mente se vuelva permanentemente contra ellos.",
-                        "videoEpisode": "anime/PaciRimS02E05.mp4"
+                        "videoEpisode": "anime/pacific-rim/PaciRimS02E05.mp4"
                     },
                     {
                         "episodeNumber": 6,
                         "titleEpisode": "La carrera del crepúsculo",
                         "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755320222/backdropPathTitanesPacificoTierraNadie2x6_ezpcqh.jpg",
                         "sinopsisEpisode": "Cuando Boy cae bajo el hechizo de las Hermanas y se transforma en un Kaiju empeñado en destruir el Atlas Destroyer, un sorprendente aliado acude en su ayuda.",
-                        "videoEpisode": "anime/PaciRimS02E06.mp4"
+                        "videoEpisode": "anime/pacific-rim/PaciRimS02E06.mp4"
                     },
                     {
                         "episodeNumber": 7,
                         "titleEpisode": "Aproximación final",
                         "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755320223/backdropPathTitanesPacificoTierraNadie2x7_xni7wm.jpg",
                         "sinopsisEpisode": "Con las criaturas siguiéndolas de cerca, Hayley, Taylor, Mei y Boy corren hacia la seguridad de la Base Sydney, pero las Hermanas recurren a un Kaiju de Categoría VI para detenerlas.",
-                        "videoEpisode": "anime/PaciRimS02E07.mp4"
+                        "videoEpisode": "anime/pacific-rim/PaciRimS02E07.mp4"
                     }
                 ]
             }
         ]
+    },
+    {
+        "idFilm": "f1Movie2025",
+        "titleFilm": "F1 la película",
+        "sinopsisFilm": "El piloto legendario Sonny Hayes es convencido de salir de su retiro para liderar a un equipo de la Fórmula 1 en dificultades y ser mentor de un joven piloto talentoso, mientras se busca una última oportunidad de gloria.",
+        "categories": [
+            "Acción",
+            "Drama"
+        ],
+        "typeFilm": "Pelicula",
+        "punctuactionFilm": 7.6,
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755809227/posterPathF1_amg9fe.webp",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755809273/logoPathF1_er8rqi.png",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755809227/backdropPathF1_blrkji.webp",
+        "trailerFilm": "https://res.cloudinary.com/dpfv5bthc/video/upload/v1755809824/F1_Tr%C3%A1iler_Oficial_Doblado_aw8YyC4B1EA_z645tb.mp4",
+        "videoFilm": "movies/F1.The.Movie.(2025).mkv",
+        "durationFilm": "2h 36m",
+        "movieDate": "2025",
+        "movieReleased": "2025-08-21"
+    },
+    {
+        "idFilm": "elio2025",
+        "titleFilm": "Elio",
+        "sinopsisFilm": "Con una imaginación desbordante y una enorme obsesión por los extraterrestres, Elio, de 11 años, es transportado al espacio. Pero es identificado por error como el embajador galáctico de la tierra.",
+        "categories": [
+            "Comedia",
+            "Aventura",
+            "Familia",
+            "Animación",
+            "Ciencia ficción"
+        ],
+        "typeFilm": "Pelicula",
+        "punctuactionFilm": 6.9,
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755809226/posterPathElio_bjfpup.webp",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755809226/logoPathElio_fb5jik.webp",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755809227/backdropPathElio_zuulsu.webp",
+        "trailerFilm": "https://res.cloudinary.com/dpfv5bthc/video/upload/v1755809825/Elio_Tr%C3%A1iler_Oficial_Doblado_a0iCIowxyYw_e3sk0h.mp4",
+        "videoFilm": "movies/Elio (2025) 720p.mkv",
+        "durationFilm": "1h 39m",
+        "movieDate": "2025",
+        "movieReleased": "2025-08-21"
+    },
+    {
+        "idFilm": "tiposMalos2",
+        "titleFilm": "Los tipos malos 2",
+        "sinopsisFilm": "Un genial equipo de animales que no respetan la ley, los ahora muy reformados Tipos Malos, se esfuerzan (mucho, muchísimo) en ser buenos, pero se ven envueltos involuntariamente en un golpe de envergadura mundial planeado por un inesperado grupo de criminales: las Tipas Malas.",
+        "categories": [
+            "Familia",
+            "Comedia",
+            "Crimen",
+            "Aventura",
+            "Animación"
+        ],
+        "typeFilm": "Pelicula",
+        "punctuactionFilm": 7.6,
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755809227/posterPathTiposMalos2_kwlbag.webp",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755809226/logoPathTiposMalos2_cv1zlw.webp",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755809226/backdropPathTiposMalos2_ekt45z.webp",
+        "trailerFilm": "https://res.cloudinary.com/dpfv5bthc/video/upload/v1755809814/Los_Tipos_Malos_2_-_Tr%C3%A1iler_Oficial_Universal_Pictures_-_HD_VQIxX-VwrDI_jkbsqo.mp4",
+        "videoFilm": "movies/Los tipos malos 2 (2025) 720p.mkv",
+        "durationFilm": "1h 44m",
+        "movieDate": "2025",
+        "movieReleased": "2025-08-21"
     }
-
 ]
