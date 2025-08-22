@@ -4716,5 +4716,143 @@
         "durationFilm": "1h 44m",
         "movieDate": "2025",
         "movieReleased": "2025-08-21"
+    },
+    {
+        "idFilm": "bellezaVerdadera",
+        "titleFilm": "Belleza verdadera",
+        "sinopsisFilm": "Después de ver videos de belleza en línea, una tímida fanática de los cómics dominó el arte del maquillaje y vio cómo su estatus social se disparaba cuando se convirtió en la niña más linda de la escuela en solo un día y una noche. Pero, ¿su estatus de élite será de corta duración? ¿Cuánto tiempo puede mantener en secreto su «yo real»? ¿Qué pasa con el chico lindo que le gusta? ¿Te imaginas si se enterara de la verdad? Lee Su Ho fue el único que vio su rostro desnudo, no solo siendo uno de los mejores estudiantes sino también atrayendo la atención de todas las chicas alrededor. A pesar de su popularidad, Lee Su Ho todavía tiene un lado tímido, se sonroja cuando está avergonzado y dice cosas de las que se arrepiente.",
+        "categories": [
+            "Drama",
+            "Comedia"
+        ],
+        "typeFilm": "Dorama",
+        "posterPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755829889/posterPathBellezaVerdadera_19_11zon_bv7oih.jpg",
+        "logoPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755829889/logoPathBellezaVerdadera_18_11zon_bkmyex.jpg",
+        "backdropPath": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755829888/backdropPathBellezaVerdadera_17_11zon_yrbe9y.jpg",
+        "trailerFilm": "https://res.cloudinary.com/dlbeklsyd/video/upload/v1753385102/Crash_Landing_on_You_Official_Trailer_Netflix_op4fkp.mp4",
+        "videoFilm": "",
+        "punctuactionFilm": 8.3,
+        "durationFilm": "16 Ep.",
+        "movieDate": "2020",
+        "movieReleased": "2025-08-21",
+        "filmSeason": [
+            {
+                "seasonNumber": 1,
+                "episodes": [
+                    {
+                        "episodeNumber": 1,
+                        "titleEpisode": "Episodio 1",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755829888/backdropPathBellezaVerdadera1x1_16_11zon_fkajdx.jpg",
+                        "sinopsisEpisode": "Sin descripción...",
+                        "videoEpisode": "doramas/belleza-verdadera/Belleza-01.mp4"
+                    },
+                    {
+                        "episodeNumber": 2,
+                        "titleEpisode": "Episodio 2",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755829888/backdropPathBellezaVerdadera1x2_15_11zon_g630kl.jpg",
+                        "sinopsisEpisode": "Sin descripción...",
+                        "videoEpisode": "doramas/belleza-verdadera/Belleza-02.mp4"
+                    },
+                    {
+                        "episodeNumber": 3,
+                        "titleEpisode": "Episodio 3",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755829888/backdropPathBellezaVerdadera1x3_14_11zon_p4v9qm.jpg",
+                        "sinopsisEpisode": "Sin descripción...",
+                        "videoEpisode": "doramas/belleza-verdadera/Belleza-03.mp4"
+                    },
+                    {
+                        "episodeNumber": 4,
+                        "titleEpisode": "Episodio 4",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755829888/backdropPathBellezaVerdadera1x4_13_11zon_i29pnx.jpg",
+                        "sinopsisEpisode": "Sin descripción...",
+                        "videoEpisode": "doramas/belleza-verdadera/aterrizaje 04.mp4"
+                    },
+                    {
+                        "episodeNumber": 5,
+                        "titleEpisode": "Episodio 5",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755829888/backdropPathBellezaVerdadera1x5_12_11zon_fkyhhm.jpg",
+                        "sinopsisEpisode": "Sin descripción...",
+                        "videoEpisode": "doramas/belleza-verdadera/Belleza-05.mp4"
+                    },
+                    {
+                        "episodeNumber": 6,
+                        "titleEpisode": "Episodio 6",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755829888/backdropPathBellezaVerdadera1x6_11_11zon_axeft3.jpg",
+                        "sinopsisEpisode": "Sin descripción...",
+                        "videoEpisode": "doramas/belleza-verdadera/Belleza-06.mp4"
+                    },
+                    {
+                        "episodeNumber": 7,
+                        "titleEpisode": "Episodio 7",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755829888/backdropPathBellezaVerdadera1x7_10_11zon_svch1p.jpg",
+                        "sinopsisEpisode": "Sin descripción...",
+                        "videoEpisode": "doramas/belleza-verdadera/Belleza-07.mp4"
+                    },
+                    {
+                        "episodeNumber": 8,
+                        "titleEpisode": "Episodio 8",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755829888/backdropPathBellezaVerdadera1x8_9_11zon_bpnua2.jpg",
+                        "sinopsisEpisode": "Sin descripción...",
+                        "videoEpisode": "doramas/belleza-verdadera/Belleza-08.mp4"
+                    },
+                    {
+                        "episodeNumber": 9,
+                        "titleEpisode": "Episodio 9",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755829888/backdropPathBellezaVerdadera1x9_8_11zon_kcgi39.jpg",
+                        "sinopsisEpisode": "Sin descripción...",
+                        "videoEpisode": "doramas/belleza-verdadera/Belleza-09.mp4"
+                    },
+                    {
+                        "episodeNumber": 10,
+                        "titleEpisode": "Episodio 10",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755829889/backdropPathBellezaVerdadera1x10_7_11zon_qzjqnf.jpg",
+                        "sinopsisEpisode": "Sin descripción...",
+                        "videoEpisode": "doramas/belleza-verdadera/Belleza-10.mp4"
+                    },
+                    {
+                        "episodeNumber": 11,
+                        "titleEpisode": "Episodio 11",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755829888/backdropPathBellezaVerdadera1x11_6_11zon_pa5w5h.jpg",
+                        "sinopsisEpisode": "Sin descripción...",
+                        "videoEpisode": "doramas/belleza-verdadera/Belleza-11.mp4"
+                    },
+                    {
+                        "episodeNumber": 12,
+                        "titleEpisode": "Episodio 12",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755829889/backdropPathBellezaVerdadera1x12_5_11zon_v6mxb5.jpg",
+                        "sinopsisEpisode": "Sin descripción...",
+                        "videoEpisode": "doramas/belleza-verdadera/Belleza-12.mp4"
+                    },
+                    {
+                        "episodeNumber": 13,
+                        "titleEpisode": "Episodio 13",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755829889/backdropPathBellezaVerdadera1x13_4_11zon_guzrel.jpg",
+                        "sinopsisEpisode": "Sin descripción...",
+                        "videoEpisode": "doramas/belleza-verdadera/Belleza-13.mp4"
+                    },
+                    {
+                        "episodeNumber": 14,
+                        "titleEpisode": "Episodio 14",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755829889/backdropPathBellezaVerdadera1x14_3_11zon_oa4di6.jpg",
+                        "sinopsisEpisode": "Sin descripción...",
+                        "videoEpisode": "doramas/belleza-verdadera/Belleza-14.mp4"
+                    },
+                    {
+                        "episodeNumber": 15,
+                        "titleEpisode": "Episodio 15",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755829889/backdropPathBellezaVerdadera1x15_2_11zon_lc9hca.jpg",
+                        "sinopsisEpisode": "Sin descripción...",
+                        "videoEpisode": "doramas/belleza-verdadera/Belleza-15.mp4"
+                    },
+                    {
+                        "episodeNumber": 16,
+                        "titleEpisode": "Episodio 16",
+                        "backdropEpisode": "https://res.cloudinary.com/dpfv5bthc/image/upload/v1755829889/backdropPathBellezaVerdadera1x16_1_11zon_uq19qi.jpg",
+                        "sinopsisEpisode": "Sin descripción...",
+                        "videoEpisode": "doramas/belleza-verdadera/Belleza-16.mp4"
+                    }
+                ]
+            }
+        ]
     }
 ]
